@@ -14,3 +14,5 @@
 	  ```bash
 	  sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
+-
+- [Installation on Linux](https://apt.syncthing.net/)
