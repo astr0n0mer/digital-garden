@@ -1,0 +1,6 @@
+.recycle
+bak/
+
+# syncthing files and dirs
+.stfolder
+.stignore
