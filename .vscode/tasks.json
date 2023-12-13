@@ -10,6 +10,14 @@
             "runOptions": {
                 "runOn": "folderOpen",
             }
+        },
+        {
+            "label": "pull",
+            "type": "shell",
+            "command": "git pull",
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
         }
     ]
 }
