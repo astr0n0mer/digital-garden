@@ -416,4 +416,5 @@
  :builtin-pages? true
  :orphan-pages? true
  :excluded-pages? true}
- :journal/page-title-format "yyyy-MM-dd"}
+ :journal/page-title-format "yyyy-MM-dd"
+ :publishing/all-pages-public? false}
