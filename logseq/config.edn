@@ -413,5 +413,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
- :builtin-pages? true}
+ :builtin-pages? true
+ :orphan-pages? true}
  :journal/page-title-format "yyyy-MM-dd"}
