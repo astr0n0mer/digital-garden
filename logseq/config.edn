@@ -414,5 +414,6 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? true
- :orphan-pages? true}
+ :orphan-pages? true
+ :excluded-pages? true}
  :journal/page-title-format "yyyy-MM-dd"}
