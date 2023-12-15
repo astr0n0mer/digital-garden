@@ -1,0 +1,3 @@
+- [JSON Reference](https://json-spec.readthedocs.io/reference.html) allows a JSON value to reference another value in a JSON document. This module implements utilities for exploring these objects.
+-
+- Example
