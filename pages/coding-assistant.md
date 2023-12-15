@@ -1,0 +1,1 @@
+- An AI coding assistant is a software tool that employs artificial intelligence to assist developers with coding tasks, such as code completion, code review, debugging, and suggesting improvements to code quality and alternative solutions to coding challenges. #productivity-tool
