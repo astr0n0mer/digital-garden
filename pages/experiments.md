@@ -1,2 +1,1 @@
-- {{cards foo bar}}
 -
