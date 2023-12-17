@@ -1,1 +1,1 @@
-- [VideoGist]() can
+- [VideoGist](https://www.videogist.co/) can #summarize-youtube-videos
