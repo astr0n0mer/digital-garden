@@ -1,4 +1,4 @@
-icon:: 📓
+icon:: 📘
 
 public:: true
 
