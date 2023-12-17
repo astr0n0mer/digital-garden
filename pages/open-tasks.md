@@ -1,2 +1,3 @@
-- {{query (task TODO LATER DOING IN-PROGRESS)}}
+- {{query (task IN-PROGRESS DOING NOW)}}
   query-table:: false
+- {{query }}
