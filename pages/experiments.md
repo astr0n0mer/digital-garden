@@ -1,3 +1,3 @@
-tags::
+tags:: hey, bye
 
-- {{cards hello}}
+- {{cards foo bar}}
