@@ -1,6 +1,7 @@
-.recycle
+# syncthing meta directories
+.st*/
+.recycle/
 bak/
 
-# syncthing files and dirs
-.stfolder
-.stignore
+# files with conflict
+*conflict*
