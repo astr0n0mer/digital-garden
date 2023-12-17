@@ -13,7 +13,8 @@
 - [Digilocker](https://play.google.com/store/apps/details?id=com.digilocker.android)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord)
 - [Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
-- [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid)
+- [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) 
+  id:: 657a16d4-ad33-4337-8086-897427d0a037
 - [Files](https://play.google.com/store/apps/details?id=com.marc.files)
 - [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
 - [GitHub](https://play.google.com/store/apps/details?id=com.github.android)
