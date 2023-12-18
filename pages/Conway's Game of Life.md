@@ -1,0 +1,4 @@
+- Conway's Game of Life is a mathematical simulation that demonstrates how complex and unpredictable structures can emerge from a simple set of deterministic rules, where an infinite, two-dimensional grid of cells is populated with alive or dead cells that follow five rules to determine their survival and reproduction from one generation to the next.
+- References:
+	- [ConwayLife](https://conwaylife.com/)
+	- [Game of Life](https://playgameoflife.com/)
