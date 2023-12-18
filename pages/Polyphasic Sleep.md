@@ -2,5 +2,3 @@
 - [How it works](https://www.polyphasic.net/how-it-works/)
 - DONE Hack Your Brain with Polyphasic Sleep
   {{video https://www.youtube.com/watch?v=OuizzRCALCU}}
-- References:
-	-
