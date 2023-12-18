@@ -1,0 +1,4 @@
+- [Polyphasic](https://www.polyphasic.net/) sleep is the practice of sleeping in numerous smaller blocks during the day as opposed to sleeping once as is common in many countries.
+- TODO:
+- References:
+	-
