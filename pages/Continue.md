@@ -1,0 +1,1 @@
+- [Continue](https://continue.dev/) #coding-assistant
