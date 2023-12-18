@@ -1,0 +1,1 @@
+- [Cody](https://about.sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. #coding-assistant
