@@ -1,0 +1,1 @@
+- [Otipy](https://www.otipy.com/) is an online grocery store offering various vegetables, fruits, dairy products, and other household essentials at competitive prices, with the option to purchase in bulk or as a one-time purchase. #shop
