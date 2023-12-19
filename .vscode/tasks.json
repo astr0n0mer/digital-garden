@@ -4,6 +4,22 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "remove conflict files",
+            "type": "shell",
+            "command": "make rm-conflicts",
+            "runOptions": {
+                "runOn": "folderOpen"
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "silent",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            }
+        },
+        {
             "label": "auto git pull push",
             "type": "shell",
             "command": "./.vscode/auto-git-pull-push.sh",
