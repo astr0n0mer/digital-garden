@@ -14,4 +14,6 @@ rm-conflicts:
 		else \
 			echo "no files removed"; \
 		fi \
+	else \
+		echo "no conflict files"; \
 	fi
