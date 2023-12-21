@@ -1,3 +1,4 @@
 - {{query (task IN-PROGRESS DOING NOW)}}
   query-table:: false
-- {{query (task LATER WAIT TODO)}}
+- {{query (and (task LATER WAIT TODO) "{{video")}}
+- {{query (and (task LATER WAIT TODO) (not))}}
