@@ -2,7 +2,7 @@ tags:: ffmpeg
 
 - [How to play video using FFmpeg](https://askubuntu.com/a/750759)
 	- ```bash
-	  ffplay <video-file-name-including-the-file-extension>
+	  ffplay <video_file_name_including_the_file_extension>
 	  ```
 - [How to Embed Subtitles into a Video Using FFmpeg](https://www.baeldung.com/linux/subtitles-ffmpeg)
 	- ```bash
