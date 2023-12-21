@@ -1,1 +1,1 @@
-- @@html: <iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=ChrisTitusTech" width="480" height="400"></iframe>@@
+- @@html: <script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/youtube.xml&up_channel=Chris Titus Tech&synd=open&w=320&h=390&title=&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script> @@
