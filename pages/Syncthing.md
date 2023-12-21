@@ -28,3 +28,6 @@
 	  ```bash
 	  sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
+-
+- {{video https://www.youtube.com/watch?v=dBVTedUWbfg}}
+  /time
