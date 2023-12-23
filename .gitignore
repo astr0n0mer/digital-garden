@@ -5,3 +5,6 @@ bak/
 
 # files with conflict
 *conflict*
+
+# system files
+.DS_Store
