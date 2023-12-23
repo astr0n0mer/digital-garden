@@ -1,1 +1,1 @@
-public:: true
+- {{query }}
