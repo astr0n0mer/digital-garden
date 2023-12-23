@@ -1,0 +1,1 @@
+- [Dotbot](https://github.com/anishathalye/dotbot) is a tool that bootstraps your [[.dotfiles]]
