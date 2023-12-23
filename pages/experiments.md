@@ -1,1 +1,3 @@
--
+- this is public text
+- public:: false
+- this is private text
