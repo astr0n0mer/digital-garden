@@ -3,3 +3,8 @@
   # install ohmyzsh
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   ```
+-
+- Install a plugin
+- ```bash
+  git clone git@github.com:astr0n0mer/my-plugin $ZSH_CUSTOM/plugins/my-plugin
+  ```
