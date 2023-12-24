@@ -1,1 +1,1 @@
-- [Twitter]
+- [Twitter](https://twitter.com/durdn)
