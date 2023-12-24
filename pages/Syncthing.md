@@ -1,10 +1,10 @@
 - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, over the same network. #foss #mysetup #network-sync
 -
-- Installation on Android
+- Install on Android
 	- Download [Syncthing-Fork](https://f-droid.org/repository/browse/?fdid=com.github.catfriend1.syncthingandroid) from [[F-Droid]]
 	- <ins>Note:</ins>Make sure you sync a folder **from** Android **to** Computer. Only this way the folder will be *send and receive* type. If you share **from** a Computer **to** Android the folder will just be *send* type in Android.
 -
-- [Installation on Linux](https://apt.syncthing.net/)
+- [Install on Linux](https://apt.syncthing.net/)
 	- ```bash
 	  # Add the release PGP keys:
 	  sudo mkdir -p /etc/apt/keyrings
@@ -18,7 +18,7 @@
 	  sudo apt-get install syncthing
 	  ```
 -
-- Installation on macOS (with Silicon chip)
+- Install on macOS (with Silicon chip)
 	- Download the [ARM (64‑bit)](https://github.com/syncthing/syncthing/releases/download/v1.27.1/syncthing-macos-arm64-v1.27.1.zip) version
 	  logseq.order-list-type:: number
 	- Extract the zip
