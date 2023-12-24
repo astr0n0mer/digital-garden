@@ -6,10 +6,9 @@
   ```
 -
 - ```bash
-  # install a plugin
-  # add it to plugins=(git my-plugin) in 
-  
-  # add your 
-  
+  # to install a plugin
+  # add it to plugins=(gh git my-plugin) in .zshrc
+  # download it
   git clone git@github.com:astr0n0mer/my-plugin $ZSH_CUSTOM/plugins/my-plugin
+  exec zsh
   ```
