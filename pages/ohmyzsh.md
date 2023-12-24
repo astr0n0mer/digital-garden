@@ -11,4 +11,5 @@
   # download it
   git clone git@github.com:astr0n0mer/my-plugin $ZSH_CUSTOM/plugins/my-plugin
   exec zsh
+  setopt autocd
   ```
