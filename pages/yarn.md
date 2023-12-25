@@ -3,6 +3,7 @@
 - Install
 	- Note: Make sure [[Node.js]] is installed
 	- ```bash
+	  # whenever you change node version using nvm, you'll have to run the following command
 	  corepack enable
 	  yarn -v
 	  ```
