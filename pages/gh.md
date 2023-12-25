@@ -11,8 +11,11 @@
 	  ```
 -
 - Setup commands
-	- ```bash
+	- logseq.order-list-type:: number
+	  ```bash
 	  gh auth login
-	  
-	  
 	  ```
+	- Create a GitHub Personal Access Token (PAT) and paste it where the `gh` cli asks for authentication token
+	  logseq.order-list-type:: number
+	- ![](https://lh3.googleusercontent.com/keep-bbsk/ALhRneHQRXZ6fDaubSjiPHmmHCSTMvZ2xassUpPcubhFV3N5CAIMDC0lOmFKd71qTXfgXWScpDu-_OCk-RlC4l5fh8XnXEm05NdZDVwPmWjuuDbr9ZtT=s821)
+	  logseq.order-list-type:: number
