@@ -4,4 +4,7 @@
 	- ```bash
 	  gh repo clone astr0n0mer/dashy
 	  # git clone git@github.com:astr0n0mer/dashy.git
+	  
+	  cd dashy
+	  docker compose up
 	  ```
