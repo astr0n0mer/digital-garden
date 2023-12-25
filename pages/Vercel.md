@@ -1,0 +1,2 @@
+## Vercel Deployments
+- {{query }}
