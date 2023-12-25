@@ -1,4 +1,4 @@
-- [nvm](https://github.com/nvm-sh/nvm) is a version manager for [[Node.js]] , designed to be installed per-user, and invoked per-shell. #mysetup #shell-command
+- [nvm](https://github.com/nvm-sh/nvm) is a #version-manager for [[Node.js]] , designed to be installed per-user, and invoked per-shell. #mysetup #shell-command
 -
 - [Install](https://github.com/nvm-sh/nvm#installing-and-updating)
 	- ```bash
