@@ -1,2 +1,2 @@
 ## Vercel Deployments
-- {{query }}
+- {{query ".vercel.app"}}
