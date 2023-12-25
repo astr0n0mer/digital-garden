@@ -5,7 +5,7 @@
 	  apt install gh
 	  ```
 -
-- Install on macOS
+- Install on macOS with [[Homebrew]]
 	- ```bash
 	  brew install gh
 	  ```
