@@ -2,4 +2,5 @@
 -
 - ## Updating Dashy dashboard
 - Make changes in `~/.config/dashy/conf.yml` and use the following [[Makefile]] to start/stop the [[Docker]] container
-- [](file://Users/imran/.config/dashy/hi.txt)
+- ![](file:///Users/imran/projects/digital-garden/www/assets/installation-gh.png)
+- @@html: @@
