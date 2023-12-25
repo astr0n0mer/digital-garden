@@ -15,7 +15,7 @@
 	  ```bash
 	  gh auth login
 	  ```
-	- Create a GitHub Personal Access Token (PAT) and paste it where the `gh` cli asks for authentication token
+	- [Create a GitHub Personal Access Token (PAT)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) and paste it where the `gh` cli asks for authentication token
 	  logseq.order-list-type:: number
 	- ![](file:///Users/imran/projects/digital-garden/www/assets/installation-gh.png)
 	  logseq.order-list-type:: number
