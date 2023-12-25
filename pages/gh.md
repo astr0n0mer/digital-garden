@@ -17,5 +17,5 @@
 	  ```
 	- Create a GitHub Personal Access Token (PAT) and paste it where the `gh` cli asks for authentication token
 	  logseq.order-list-type:: number
-	- ![](file:///Users/imran/Downloads/installation-gh.png)
+	- ![](file:///Users/imran/projects/digital-garden/www/assets/installation-gh.png)
 	  logseq.order-list-type:: number
