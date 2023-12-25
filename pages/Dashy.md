@@ -8,3 +8,13 @@
 	  cd dashy
 	  docker compose up
 	  ```
+-
+- Run
+	- ```bash
+	  docker run -d \
+	    -p 4000:80 \
+	    -v ~/projects/dashy/public/conf.yml:/app/public/conf.yml \
+	    --name dashy \
+	    --restart=always \
+	    lissy93/dashy:latest
+	  ```
