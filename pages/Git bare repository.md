@@ -1,1 +1,2 @@
+- tool to manage [[.dotfiles]]
 - TODO [What is a bare git repository?](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/) by [[Jon Saints]]
