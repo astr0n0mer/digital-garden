@@ -1,0 +1,1 @@
+- [technicalpickles/homesick](https://github.com/technicalpickles/homesick) is a tool to manage [[.dotfiles]]

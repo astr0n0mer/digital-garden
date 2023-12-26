@@ -1,1 +1,1 @@
-- [https://github.com/andsens/homeshick](https://github.com/andsens/homeshick)
+- [andsens/homeshick](https://github.com/andsens/homeshick) is a tool to manage [[.dotfiles]]
