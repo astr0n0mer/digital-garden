@@ -1,1 +1,1 @@
-- tool to manage [[.dotfiles]]
+- [Ansible](https://docs.ansible.com/ansible/latest/) is a tool to manage [[.dotfiles]]
