@@ -1,3 +1,3 @@
-- ![No Boilerplate](https://yt3.googleusercontent.com/dS7sENcwjauCX8kHLZIPk1ZXmuHMbeYAhl_AGui_tUhtzpj4ekONHush3Cdgpe62icTj49nbdS8=s176-c-k-c0x00ffffff-no-rj)
+- ![Wes Bos](https://pbs.twimg.com/profile_banners/815246/1517409113/1500x500)
   #youtube-channel
-- [YouTube](https://www.youtube.com/@WesBos) | [Twitter](https://twitter.com/wesbos)
+- [GitHub](https://github.com/wesbos) | [Twitter](https://twitter.com/wesbos) | [YouTube](https://www.youtube.com/@WesBos)
