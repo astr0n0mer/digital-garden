@@ -4,5 +4,6 @@ tags:: [[Zsh]]
 -
 - Install
 	- ```bash
+	  # you must have Zsh installed for this to work
 	  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 	  ```
