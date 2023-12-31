@@ -1,3 +1,5 @@
+tags:: [[Android]]
+
 - [Acode](https://f-droid.org/repository/browse/?fdid=com.foxdebug.acode)
 - [Airtel](https://play.google.com/store/apps/details?id=com.myairtelapp)
 - [Amazon](https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping)

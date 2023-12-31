@@ -8,3 +8,5 @@ tags:: [[ohmyzsh]]
 	  exec zsh
 	  setopt autocd
 	  ```
+- {{query (and [[ohmyzsh-plugin]] [[shell-command]])}}
+  query-table:: false

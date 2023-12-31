@@ -1,0 +1,5 @@
+@import url("./custom-fonts.css");
+
+[id~="cartograph"][id~="cf"] * {
+  font-family: "Cartograph CF", "cursive";
+}

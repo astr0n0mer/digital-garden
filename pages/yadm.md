@@ -1,1 +1,1 @@
-- [yadm](https://yadm.io/): Yet Another [[.Dotfiles]] Manager
+- [yadm](https://yadm.io/): Yet Another [[Dotfiles]] Manager
