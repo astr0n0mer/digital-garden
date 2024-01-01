@@ -5,7 +5,8 @@ default:
 .PHONY: rm-conflicts
 rm-conflicts:
 	@# the regex (\./)([^\.]*)(\.sync-conflict-)(.*) is to find conflict files that do not have a period in parent's name
-	@files_to_delete=$$(find . -regex "\./[^\.]*\.sync-conflict-.*"); \
+	@# IFS Reference: https://stackoverflow.com/a/5257398/7753274
+	@IFS=$$'\n'; files_to_delete=$$(find . -regex "\./[^\.]*\.sync-conflict-.*"); \
 	if [ "$${files_to_delete}" ]; then \
 		echo "$${files_to_delete}"; \
 		user_input=$$(read -p "delete the above files? (y/n): " && echo $$REPLY); \
