@@ -3,7 +3,7 @@
 	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
 	  ```bash
 	  # Linux
-	  
+	  ln -s ~/.config/fonts/
 	  
 	  # macOS
 	  cp -f ~/.config/fonts/*/* ~/Library/Fonts/
