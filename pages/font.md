@@ -10,7 +10,7 @@
 	  # macOS
 	  cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
 	  
-	  # restart your app to use the new font
+	  # restart your app to use the custom font
 	  ```
 - Demo text:
 	- id:: d8603886-be5b-4ed9-9f0d-c433203b00d7
