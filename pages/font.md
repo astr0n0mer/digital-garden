@@ -4,9 +4,10 @@
 	  ```bash
 	  # Linux
 	  ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
+	  ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
 	  
 	  # macOS
-	  cp -f ~/.config/fonts/*/* ~/Library/Fonts/
+	  cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
 	  ```
 - Demo text:
 	- id:: d8603886-be5b-4ed9-9f0d-c433203b00d7
