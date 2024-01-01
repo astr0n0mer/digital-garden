@@ -5,6 +5,7 @@
 	  # Linux
 	  sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
 	  sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
+	  sudo fc-cache -fv
 	  
 	  # macOS
 	  cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
