@@ -1,3 +1,3 @@
-- ![This.](https://yt3.googleusercontent.com/dS7sENcwjauCX8kHLZIPk1ZXmuHMbeYAhl_AGui_tUhtzpj4ekONHush3Cdgpe62icTj49nbdS8=s176-c-k-c0x00ffffff-no-rj)
+- ![This.](https://yt3.googleusercontent.com/PgNv14GyC4CxGSKjAlI_9KKP0HNfKLSSdzgSvOjV8MmKEkdHCQYr0kA0tLqq57X6juD3o984=s176-c-k-c0x00ffffff-no-rj)
   #youtube-channel
-  [Twitter](https://twitter.com/noboilerplate) | [YouTube](https://www.youtube.com/@NoBoilerplate)
+  [YouTube](https://www.youtube.com/@thisscience)
