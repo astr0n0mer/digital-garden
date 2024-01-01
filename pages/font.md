@@ -3,8 +3,8 @@
 	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
 	  ```bash
 	  # Linux
-	  ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
-	  ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
+	  sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
+	  sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
 	  
 	  # macOS
 	  cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
