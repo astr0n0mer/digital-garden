@@ -2,6 +2,7 @@
 -
 - [Install](https://christitus.com/vm-setup-in-linux/) on [[Linux]]
 	- ```bash
+	  # untested, most likely incomplete
 	  apt-get install qemu-system
 	  ```
 -
