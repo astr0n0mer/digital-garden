@@ -4,7 +4,7 @@
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf)
   @@html: <a href="https://github.com/ronniedroid/getnf/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ronniedroid&repo=getnf&theme=tokyonight" alt="ronniedroid/getnf/"/></a>@@
 -
-- Install getnf
+- [Install getnf](https://github.com/ronniedroid/getnf/#installation)
 	- ```bash
 	  curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
 	  exec zsh
