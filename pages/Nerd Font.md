@@ -3,3 +3,9 @@
   @@html: <a href="https://github.com/ryanoasis/nerd-fonts/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ryanoasis&repo=nerd-fonts&theme=tokyonight" alt="ryanoasis/nerd-fonts/"/></a>@@
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf)
   @@html: <a href="https://github.com/ronniedroid/getnf/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ronniedroid&repo=getnf&theme=tokyonight" alt="ronniedroid/getnf/"/></a>@@
+-
+- Install getnf
+	- ```bash
+	  curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
+	  getnf --help
+	  ```
