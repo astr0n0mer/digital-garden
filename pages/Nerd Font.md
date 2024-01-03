@@ -7,6 +7,6 @@
 - Install getnf
 	- ```bash
 	  curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
-	  path+="/Users/imran/.local/bin/"
+	  exec zsh
 	  getnf --help
 	  ```
