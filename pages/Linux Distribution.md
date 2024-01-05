@@ -1,2 +1,2 @@
--
+- [Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) (often abbreviated as distro) is an [Operating system](https://en.wikipedia.org/wiki/Operating_system) made from a software collection that includes the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) and often a [package management system](https://en.wikipedia.org/wiki/Package_management_system).
 - [All Linux Distributions](https://upload.wikimedia.org/wikipedia/commons/a/ad/2023_Linux_Distributions_Timeline.svg)
