@@ -4,7 +4,7 @@
 
 on_folder_open() {
     echo "auto-git-pull-push.sh has started"
-    git pull
+    git pull --ff
 }
 
 do_continuous_push() {
