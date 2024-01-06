@@ -3,8 +3,9 @@
 # reference: https://stackoverflow.com/a/77058296
 
 on_folder_open() {
-    echo "auto-git-pull-push.sh has started"
-    git pull --ff
+    echo "auto-git-pull-push.sh has started";
+    git fetch --all;
+    git pull --ff;
 }
 
 do_continuous_push() {
