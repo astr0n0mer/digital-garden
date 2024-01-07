@@ -1,0 +1,1 @@
+- Robert Martin, also known as [[Uncle Bob]], is an author and software developer known for his work on clean code and agile software development, and has written several books on the subject.
