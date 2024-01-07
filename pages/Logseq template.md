@@ -7,6 +7,7 @@ tags:: [[Logseq]]
   template-including-parent:: false
   collapsed:: true
 	- Demo:
+	  collapsed:: true
 		- {{embed ((d8603886-be5b-4ed9-9f0d-c433203b00d7))}}
 	- Install
 		- ```bash
