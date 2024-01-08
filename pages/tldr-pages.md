@@ -1,0 +1,1 @@
+- [tldr-pages](https://tldr.sh) are a community effort to simplify the beloved [man pages](https://en.wikipedia.org/wiki/Man_page) with practical examples.
