@@ -2,7 +2,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
   @@html: <a href="https://github.com/tldr-pages/tldr/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=tldr-pages&repo=tldr&theme=tokyonight" alt="tldr-pages/tldr/"/></a>@@
 -
-- Install on [[Linux]] / [[macOS]]:
+- [Install] on [[Linux]] / [[macOS]]:
 	- ```bash
 	  npm install -g tldr
 	  ```
