@@ -9,7 +9,7 @@
 - {{query (and (task LATER WAIT TODO) "{{video" (not (priority C)))}}
 -
 - ## \TODO -- videos
-- {{query (and (task LATER TODO WAIT) "{{video")}}
+- {{query (and (task LATER TODO WAIT) "{{video" (priority C))}}
 -
 - ## \TODO -- priority
 - {{query (and (task LATER WAIT TODO) (not "{{video") (not (priority C)))}}
