@@ -4,7 +4,6 @@
 - [Quick Start](https://dashy.to/docs/quick-start/)
 -
 - ## Updating Dashy dashboard
-- Make changes directly in `~/.config/dashy/conf.yml`
-  logseq.order-list-type:: number
 - Use the [[Makefile]] in [my .dotfiles](https://github.com/astr0n0mer/.dotfiles/blob/main/.config/dashy/Makefile) to start/stop the [[Docker]] container
   logseq.order-list-type:: number
+- logseq.order-list-type:: number
