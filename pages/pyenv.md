@@ -6,4 +6,6 @@ tags:: [[python]]
 -
 - Install on [[Linux]]/[[macOS]]
 	- ```bash
+	  curl https://pyenv.run | bash
+	  pyenv -v
 	  ```
