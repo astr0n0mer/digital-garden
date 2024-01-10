@@ -1,1 +1,1 @@
-- #foss #mysetup #text-editor
+- #FOSS #mysetup #text-editor

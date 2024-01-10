@@ -1,1 +1,1 @@
-- [Bitwarden](https://bitwarden.com/) is a powerful and easy-to-use password manager that secures all your passwords, passkeys, and sensitive information with end-to-end encryption, offering unlimited passwords, unlimited devices, and cross-platform access. #foss #mysetup #password-manager
+- [Bitwarden](https://bitwarden.com/) is a powerful and easy-to-use password manager that secures all your passwords, passkeys, and sensitive information with end-to-end encryption, offering unlimited passwords, unlimited devices, and cross-platform access. #FOSS #mysetup #password-manager

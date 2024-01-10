@@ -1,4 +1,4 @@
-- [QEMU](https://www.qemu.org/) is a generic and open source [[machine emulator]] and [[virtualizer]] #foss #mysetup
+- [QEMU](https://www.qemu.org/) is a generic and open source [[machine emulator]] and [[virtualizer]] #FOSS #mysetup
 -
 - [Install](https://christitus.com/vm-setup-in-linux/) on [[Linux]]
 	- ```bash

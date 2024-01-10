@@ -1,1 +1,1 @@
-- #foss #text-editor
+- #FOSS #text-editor
