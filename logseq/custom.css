@@ -3,3 +3,7 @@
 [id~="cartograph"][id~="cf"] * {
   font-family: "Cartograph CF", "cursive";
 }
+
+.book-cover {
+  max-height: 400px;
+}
