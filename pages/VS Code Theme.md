@@ -1,1 +1,1 @@
-- tags
+tags:: [[VS Code Extension]]
