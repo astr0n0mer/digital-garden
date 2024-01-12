@@ -11,3 +11,7 @@
 .book-cover {
   max-height: 400px;
 }
+
+.invert {
+  filter: invert(0.9);
+}
