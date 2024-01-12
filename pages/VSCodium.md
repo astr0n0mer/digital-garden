@@ -7,7 +7,7 @@
 	  sudo apt update && sudo apt install codium
 	  ```
 -
-- [Install](https://vscodium.com/#install-with-brew-mac) on [[macOS]]:
+- [Install](https://vscodium.com/#install-with-brew-mac)/Update on [[macOS]]:
 	- ```bash
 	  brew install --cask vscodium
 	  ```
