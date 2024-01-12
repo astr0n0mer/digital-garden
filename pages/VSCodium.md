@@ -2,6 +2,7 @@
 -
 - Install on [[Linux]]
 	- ```bash
+	  sudo apt update && sudo apt install codium
 	  ```
 -
 - [Install](https://vscodium.com/#install-with-brew-mac) on [[macOS]]:
