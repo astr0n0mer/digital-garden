@@ -25,7 +25,7 @@
   ```
 -
 - ## Tools:
-	- [crontab guru](https://crontab.guru/): Cron schedule expressions editor by [Cronitor](https://cronitor.io/) #Bookmark
+	- [crontab guru](https://crontab.guru/): Cron schedule expressions editor by [Cronitor](https://cronitor.io/)
 -
 - ### References:
 	- [What is launchd?](https://launchd.info/)
