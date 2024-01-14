@@ -1,3 +1,3 @@
 filters:: {"todo" true}
 
-- {{query }}
+- {{query "[[Hacker News]]"}}
