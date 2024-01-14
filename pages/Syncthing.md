@@ -29,6 +29,6 @@
 	  sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
 -
-- DONE How to Sync Local Files -- [[Chris Titus Tech]] 
+- DONE How to Sync Local Files on [[Chris Titus Tech]]
   {{video https://www.youtube.com/watch?v=dBVTedUWbfg}}
   {{youtube-timestamp 94}}
