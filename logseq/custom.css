@@ -12,6 +12,10 @@
   max-height: 400px;
 }
 
+.browser-tab {
+  height: min(400px, 100vh);
+}
+
 .invert {
   filter: invert(0.9);
 }
