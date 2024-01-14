@@ -1,6 +1,6 @@
 tags:: [[Zsh]]
 
-- [Oh My Zsh](https://ohmyz.sh/) is a delightful, open source, community-driven framework for managing your [[Zsh]] configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes #FOSS #mysetup #shell
+- [Oh My Zsh](https://ohmyz.sh/) is a delightful, open source, community-driven framework for managing your [[Zsh]] configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes #FOSS #mysetup #Shell
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/)
   @@html: <a href="https://github.com/ohmyzsh/ohmyzsh/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ohmyzsh&repo=ohmyzsh&theme=tokyonight" alt="ohmyzsh/ohmyzsh/"/></a>@@
 -
