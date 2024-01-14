@@ -1,3 +1,4 @@
+tags:: [[Hacker News]] [[Book]] 
 filters:: {"todo" true}
 
 - {{query (and [[Hacker News]] (task LATER TODO))}}
