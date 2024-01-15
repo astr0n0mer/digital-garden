@@ -1,4 +1,6 @@
 - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, over the same network. #FOSS #mysetup #network-sync
+- [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  @@html: <a href="https://github.com/syncthing/syncthing/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=syncthing&repo=syncthing&theme=tokyonight" alt="syncthing/syncthing/"/></a>@@
 -
 - Install on [[Android]]
 	- Download [Syncthing-Fork](https://f-droid.org/repository/browse/?fdid=com.github.catfriend1.syncthingandroid) from [[F-Droid]]
