@@ -9,4 +9,6 @@ tags:: [[Logseq]]
   (can also do this using View -> Toggle Developer Tools)
 -
 - ### custom.css
-- @@html: <iframe src="file:///Users/imran/projects/digital-garden/logseq/custom.css" style="min-height: 500px;"></iframe>@@
+- @@html: <iframe src="file:///Users/imran/projects/digital-garden/logseq/custom.css" style="min-height: 350px;"></iframe>@@
+- @@html: <iframe src="file://./logseq/custom.css" style="min-height: 350px;"></iframe>@@
+-
