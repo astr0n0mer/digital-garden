@@ -13,7 +13,6 @@
 -
 - ## \TODO -- priority
 - {{query (and (task LATER WAIT TODO) (not "{{video") (not (priority C)))}}
-- collapsed:: true
+-
 - ## \TODO
 - {{query (task LATER TODO WAIT)}}
-  collapsed:: true
