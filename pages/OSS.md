@@ -1,0 +1,1 @@
+- Open source software (OSS) is software that is distributed with its source code, making it available for use, modification, and distribution with its original rights.
