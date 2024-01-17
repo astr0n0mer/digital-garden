@@ -1,3 +1,5 @@
+tags:: [[YouTube]]
+
 - {{query [[YouTube channel]]}}
   query-table:: true
   query-sort-by:: page

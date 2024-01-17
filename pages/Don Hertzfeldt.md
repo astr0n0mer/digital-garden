@@ -1,1 +1,1 @@
-- #[[YouTube channel]]
+- #[[YouTube Channel]]
