@@ -1,0 +1,1 @@
+- [Blot](https://blot.im/) turns a folder into a blog. The point of all this — the reason Blot exists — is so you can use your favorite tools to create whatever you publish.
