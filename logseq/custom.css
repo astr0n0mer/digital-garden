@@ -16,6 +16,10 @@
   height: min(400px, 100vh);
 }
 
+.vertical-image {
+  max-height: 100vh;
+}
+
 .invert {
   filter: invert(0.9);
 }
