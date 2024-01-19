@@ -13,7 +13,11 @@
 }
 
 .browser-tab {
-  height: min(400px, 100vh);
+  height: 80vh;
+}
+
+.vertical-image {
+  max-height: 90vh;
 }
 
 .invert {
