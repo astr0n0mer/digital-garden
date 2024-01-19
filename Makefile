@@ -18,3 +18,8 @@ rm-conflicts:
 	else \
 		echo "no conflict files"; \
 	fi
+
+.PHONY: cron
+cron:
+	cd ~/projects/digital-garden && \
+		git push
