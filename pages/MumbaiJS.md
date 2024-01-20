@@ -5,5 +5,8 @@
 - deploying GQL servers using `tailcall`
 -
 - mechanics of high performance initial request
-- TODO need to add the topics discussed in the meetup
-- TODO add links to the
+- DOING need to add the topics discussed in the meetup
+  :LOGBOOK:
+  CLOCK: [2024-01-20 Sat 23:36:03]
+  :END:
+- TODO add links to the photos and posts
