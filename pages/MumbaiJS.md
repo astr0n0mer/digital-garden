@@ -1,3 +1,5 @@
+tags:: [[Meetup]]
+
 - tailcall CLI
 	- `npm i tailcall`
 	- `tailcall init`
