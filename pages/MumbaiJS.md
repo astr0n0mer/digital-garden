@@ -5,4 +5,4 @@
 - deploying GQL servers using `tailcall`
 -
 - mechanics of high performance initial request
-	-
+- TODO: need to add alot of updates here
