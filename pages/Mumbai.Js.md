@@ -1,0 +1,8 @@
+- tailcall CLI
+	- `npm i tailcall`
+	- `tailcall init`
+	- `tailcall start my_tailcall_file.graphql`
+- deploying GQL servers using `tailcall`
+-
+- mechanics of high performance initial request
+	-
