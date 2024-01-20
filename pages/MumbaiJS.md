@@ -1,4 +1,4 @@
-tags:: [[Meetup]]
+tags:: [[Meetup]] [[Frontend]]
 
 - tailcall CLI
 	- `npm i tailcall`
