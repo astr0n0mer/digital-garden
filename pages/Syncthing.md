@@ -31,7 +31,7 @@
 	  mkdir -p ~/Downloads/syncthing
 	  cd $_
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
-	  tar 
+	  tar -xzf 
 	  # sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
 -
