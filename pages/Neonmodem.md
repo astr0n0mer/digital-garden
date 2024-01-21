@@ -1,4 +1,4 @@
-- Neon Modem Overdrive is a BBS-style [[CLI]] client that supports [[Discourse]], [[Lemmy]], [[Lobsters]] and [[Hacker News]] as backends, and seamlessly integrates all of them into a streamlined [[TUI]].
+- Neon Modem Overdrive is a BBS-style [[CLI]] client that supports [[Discourse]], [[Lemmy]], [[Lobsters]] and [[Hacker News]] as backends, and seamlessly integrates all of them into a streamlined [[TUI]]. #mysetup 
   [mrusme/neonmodem](https://github.com/mrusme/neonmodem)
   @@html: <a href="https://github.com/mrusme/neonmodem/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=mrusme&repo=neonmodem&theme=tokyonight" alt="mrusme/neonmodem"/></a>@@
 -
