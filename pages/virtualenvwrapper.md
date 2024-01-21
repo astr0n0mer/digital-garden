@@ -1,4 +1,4 @@
-tags:: [[python]]
+tags:: [[python]] [[virtualenv]] [[Virtual Environment]]
 
 - [virtualenvwrapper](https://pypi.org/project/virtualenvwrapper/) is a set of extensions to Ian Bicking’s [[virtualenv]] tool. The extensions include wrappers for creating and deleting [[Virtual Environment]]s and otherwise managing your development workflow, making it easier to work on more than one project at a time without introducing conflicts in their dependencies.
   [python-virtualenvwrapper/virtualenvwrapper](https://github.com/python-virtualenvwrapper/virtualenvwrapper)
