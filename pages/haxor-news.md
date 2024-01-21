@@ -16,7 +16,7 @@
 	  ```
 -
 - Review
-	- The interface is takes one command at a time, so to view a post, you have to use 3 commands
+	- The interface takes one command at a time, so to view a post, you have to use 3 commands
 	  ```bash
 	  hn top
 	  hn view 1
