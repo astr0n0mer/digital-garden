@@ -3,10 +3,7 @@ tags:: [[Meetup]] [[Frontend]]
 - @@html: <img src="https://lh4.googleusercontent.com/hUt_6i6wHu4FOCV69WOTg02aDNAeIIPvdYpecd-tt62DnlsvTFg8GRFiiMxkQzZRGHShiLRrLwep_7ruAdc0qws5tESwGB6VB7CMhsbYVgkv81f-haFGzrB6RLE81DSSMQ=w1600" alt="MumbaiJS" class="article-cover" />@@
 - [Official Photos on Google Drive](https://drive.google.com/drive/folders/1mXED018RsEbQrjO8O0HaLt2YHewzqlKl)
 -
-- Creating [[GraphQL]] backend rapidly using [[tailcall]] by [[Amit Singh]]
-	- `npm i tailcall`
-	- `tailcall init`
-	- `tailcall start my_tailcall_file.graphql`
+- Creating GraphQL backend rapidly using [[tailcall]] by [[Amit Singh]]
 - deploying GQL servers using `tailcall`
 - Deep dive into [[React Native]] by [[Samrith Shankar]]
 - Why [[CleverTap]] chose [[Vue]] by [[Kunal Singh]]
