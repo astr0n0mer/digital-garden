@@ -1,4 +1,4 @@
-filters:: {}
+filters:: {"todo" false, "done" false, "cancelled" false}
 
 - [Hacker News](https://news.ycombinator.com/)
 -
