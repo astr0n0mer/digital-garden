@@ -6,6 +6,6 @@
 	- ```bash
 	  cd ~/Downloads
 	  curl https://github.com/mrusme/neonmodem/releases/download/v1.0.4/neonmodem_1.0.4_darwin_arm64.tar.gz --output "neonmodem_1.0.4_darwin_arm64.tar.gz"
-	  tar -xzf ~/Downloads/neonmodem_*.tar.gz
+	  tar -xzf ~/Downloads/neonmodem_1.0.4_darwin_arm64.tar.gz
 	  rm ~/Downloads/neonmodem_*.tar.gz
 	  ```
