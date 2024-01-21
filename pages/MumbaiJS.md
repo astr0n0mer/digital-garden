@@ -9,6 +9,7 @@ tags:: [[Meetup]] [[Frontend]]
 	- `tailcall start my_tailcall_file.graphql`
 - deploying GQL servers using `tailcall`
 - Deep dive into [[React Native]] by [[Samrith Shankar]]
+- Why [[CleverTap]] chose [[Vue]] by [[Kunal Singh]]
 -
 - mechanics of high performance initial request
 - DOING need to add the topics discussed in the meetup
