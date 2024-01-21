@@ -4,4 +4,5 @@
 -
 - Install on Linux and macOS
 	- ```bash
+	  pipx install trash-cli
 	  ```
