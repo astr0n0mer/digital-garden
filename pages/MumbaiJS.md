@@ -7,5 +7,4 @@ tags:: [[Meetup]] [[Frontend]]
 - Deep dive into [[React Native]] by [[Samrith Shankar]]
 - Why [[CleverTap]] chose [[Vue]] by [[Kunal Singh]]
 -
-- Footer:
 - [Event link on Luma](https://lu.ma/58vylbrh)
