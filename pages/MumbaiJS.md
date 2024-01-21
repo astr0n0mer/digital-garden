@@ -4,13 +4,8 @@ tags:: [[Meetup]] [[Frontend]]
 - [Official Photos on Google Drive](https://drive.google.com/drive/folders/1mXED018RsEbQrjO8O0HaLt2YHewzqlKl)
 -
 - Creating GraphQL backend rapidly using [[tailcall]] by [[Amit Singh]]
-- deploying GQL servers using `tailcall`
 - Deep dive into [[React Native]] by [[Samrith Shankar]]
 - Why [[CleverTap]] chose [[Vue]] by [[Kunal Singh]]
 -
-- mechanics of high performance initial request
-- DOING need to add the topics discussed in the meetup
-  :LOGBOOK:
-  CLOCK: [2024-01-20 Sat 23:36:03]
-  :END:
-- TODO add links to the photos and posts
+- Footer:
+- [Event link on Luma](https://lu.ma/58vylbrh)
