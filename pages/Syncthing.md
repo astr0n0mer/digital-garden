@@ -21,11 +21,7 @@
 	  ```
 -
 - Install on macOS (with Silicon chip)
-	- Download the [ARM (64‑bit)](https://github.com/syncthing/syncthing/releases/download/v1.27.1/syncthing-macos-arm64-v1.27.1.zip) version
-	  logseq.order-list-type:: number
-	- Add it to your `$PATH` or copy the executable using
-	  logseq.order-list-type:: number
-	  ```bash
+	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
