@@ -30,8 +30,9 @@
 	  ```bash
 	  mkdir -p ~/Downloads/syncthing
 	  cd $_
-	  curl -L 
-	  sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
+	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
+	  tar 
+	  # sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
 -
 - DONE How to Sync Local Files on [[Chris Titus Tech]]
