@@ -9,4 +9,7 @@ tags:: [[python]]
 	- ```bash
 	  pip install virtualenv
 	  pip install virtualenvwrapper
+	  # add following lines to your shell startup file
+	  # export WORKON_HOME=~/.virtualenvs
+	  # source $HOME/.pyenv/shims/virtualenvwrapper.sh
 	  ```
