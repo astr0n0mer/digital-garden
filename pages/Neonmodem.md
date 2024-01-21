@@ -11,5 +11,5 @@
 	  mv neonmodem ~/.local/bin/
 	  popd
 	  rm -r ~/Downloads/neonmodem
-	  # your neonmodem binary is at ~/.local/bin/neonmodem
+	  # location of neonmodem binary: ~/.local/bin/neonmodem
 	  ```
