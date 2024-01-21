@@ -12,4 +12,5 @@
 	  popd
 	  rm -r ~/Downloads/neonmodem
 	  # location of neonmodem binary: ~/.local/bin/neonmodem
+	  neonmodem connect --help
 	  ```
