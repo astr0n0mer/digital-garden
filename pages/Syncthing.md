@@ -28,6 +28,7 @@
 	- Add it to your `$PATH` or copy the executable using
 	  logseq.order-list-type:: number
 	  ```bash
+	  TEMP_DIR=mktemp -d
 	  mkdir -p ~/Downloads/syncthing
 	  cd $_
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
