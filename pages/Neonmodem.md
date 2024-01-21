@@ -4,8 +4,10 @@
 -
 - Install on macOS
 	- ```bash
-	  cd ~/Downloads
+	  mkdir -p ~/Downloads/neonmodem
+	  cd $_
 	  curl -L https://github.com/mrusme/neonmodem/releases/download/v1.0.4/neonmodem_1.0.4_darwin_arm64.tar.gz --output "neonmodem_1.0.4_darwin_arm64.tar.gz"
-	  tar -xzf ~/Downloads/neonmodem_*.tar.gz
-	  rm ~/Downloads/neonmodem_*.tar.gz
+	  tar -xzf ~/Downloads/neonmodem/neonmodem_*.tar.gz
+	  mv ~/Downloads/neonmodem/neonmodem ~/.local/bin/
+	  rm -r ~/Downloads/neonmodem
 	  ```
