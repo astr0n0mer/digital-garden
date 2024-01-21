@@ -11,3 +11,9 @@ tags:: [[Version Control]]
 	- ```bash
 	  brew install git
 	  ```
+-
+- Setup commands
+	- ```bash
+	  git config --global user.email "user@email.com"
+	  git config --global user.name "astr0n0mer"
+	  ```
