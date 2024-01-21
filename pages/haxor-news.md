@@ -11,4 +11,5 @@
 -
 - Start haxor-news
 	- ```bash
+	  workon haxor-news
 	  ```
