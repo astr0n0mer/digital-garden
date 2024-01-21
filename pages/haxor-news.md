@@ -16,4 +16,10 @@
 	  ```
 -
 - Review
-	- Did
+	- The interface is takes one command at a time, so to view a post, you have to use 3 commands
+	  ```bash
+	  hn top
+	  hn view 1
+	  hn view 1 --comments
+	  ```
+	- [[Neonmodem]] is a better alternative
