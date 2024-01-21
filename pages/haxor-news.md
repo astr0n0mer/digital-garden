@@ -2,4 +2,4 @@
   [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news)
   @@html: <a href="https://github.com/donnemartin/haxor-news/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=donnemartin&repo=haxor-news&theme=tokyonight" alt="donnemartin/haxor-news"/></a>@@
 -
-- Install on macOS
+- [Install](https://github.com/donnemartin/haxor-news#installation) on macOS
