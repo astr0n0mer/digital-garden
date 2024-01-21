@@ -23,8 +23,6 @@
 - Install on macOS (with Silicon chip)
 	- Download the [ARM (64‑bit)](https://github.com/syncthing/syncthing/releases/download/v1.27.1/syncthing-macos-arm64-v1.27.1.zip) version
 	  logseq.order-list-type:: number
-	- Extract the zip
-	  logseq.order-list-type:: number
 	- Add it to your `$PATH` or copy the executable using
 	  logseq.order-list-type:: number
 	  ```bash
@@ -37,7 +35,6 @@
 	  popd
 	  popd
 	  rm -r $TEMP_DIR
-	  # sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
 -
 - DONE How to Sync Local Files on [[Chris Titus Tech]]
