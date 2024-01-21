@@ -20,7 +20,7 @@
 	  sudo apt-get install syncthing
 	  ```
 -
-- Install on [[macOS]] (with Silicon chip)
+- Install on macOS (with Silicon chip)
 	- Download the [ARM (64‑bit)](https://github.com/syncthing/syncthing/releases/download/v1.27.1/syncthing-macos-arm64-v1.27.1.zip) version
 	  logseq.order-list-type:: number
 	- Extract the zip
@@ -28,6 +28,9 @@
 	- Add it to your `$PATH` or copy the executable using
 	  logseq.order-list-type:: number
 	  ```bash
+	  mkdir -p ~/Downloads/syncthing
+	  cd $_
+	  curl -L 
 	  sudo cp ~/Downloads/syncthing-macos-arm64-v1.27.1/syncthing /usr/local/bin/syncthing
 	  ```
 -
