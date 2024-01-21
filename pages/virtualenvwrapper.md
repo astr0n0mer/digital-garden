@@ -7,5 +7,6 @@ tags:: [[python]]
 -
 - Install on Linux and macOS
 	- ```bash
-	  hello
+	  pip install virtualenv
+	  pip install virtualenvwrapper
 	  ```
