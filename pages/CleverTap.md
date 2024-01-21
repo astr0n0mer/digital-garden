@@ -1,1 +1,1 @@
-- [CleverTap](https://clevertap.com/)
+- [CleverTap](https://clevertap.com/) | [Twitter](https://twitter.com/CleverTap)
