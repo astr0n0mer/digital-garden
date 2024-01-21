@@ -10,6 +10,6 @@ tags:: [[python]] [[virtualenv]] [[Virtual Environment]]
 	  pip install virtualenv
 	  pip install virtualenvwrapper
 	  # add following lines to your shell startup file
-	  # export WORKON_HOME=~/.virtualenvs
-	  # source $(which virtualenvwrapper.sh) # this line is problematic, need to find fix
+	  # export WORKON_HOME="$HOME/.virtualenvs"
+	  # source "$HOME/.pyenv/versions/3.12.1/bin/virtualenvwrapper.sh"
 	  ```
