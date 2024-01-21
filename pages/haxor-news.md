@@ -4,7 +4,7 @@
 -
 - [Install](https://github.com/donnemartin/haxor-news/blob/master/INSTALLATION.md#virtual-environment-installation) on Linux and macOS
 	- ```bash
-	  # install virtualenvwrapper
+	  # install virtualenvwrapper first
 	  mkvirtualenv haxor-news
 	  pip install haxor-news
 	  ```
