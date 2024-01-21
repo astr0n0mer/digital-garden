@@ -32,7 +32,7 @@
 	  cd $_
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
 	  tar -xzf syncthing*.zip
-	  cd */
+	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv syncthing ~/.local/bin/
 	  popd
 	  popd
