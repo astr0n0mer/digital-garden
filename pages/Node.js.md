@@ -1,8 +1,10 @@
-- #JavaScript #mysetup
+tags:: [[JavaScript]] [[runtime]]
+
+- #mysetup
 -
 - Install with [[nvm]]
 	- ```bash
-	  # install nvm
+	  # install nvm first
 	  nvm install --lts
 	  nvm current
 	  node -v
