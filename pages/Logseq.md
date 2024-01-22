@@ -9,7 +9,7 @@
 	  curl -L https://github.com/logseq/logseq/releases/download/0.10.5/Logseq-linux-x64-0.10.5.AppImage --output "Logseq-linux-x64-0.10.5.AppImage"
 	  # below comands are untested
 	  chmod u+x $_
-	  popd
+	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
 -
@@ -22,6 +22,6 @@
 	  hdiutil attach Logseq-darwin-x64-0.10.5.dmg
 	  cp /Volumes/Logseq.app /Applications
 	  hdiutil detach Logseq-darwin-x64-0.10.5.dmg
-	  popd
+	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```

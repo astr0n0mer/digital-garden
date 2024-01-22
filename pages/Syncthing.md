@@ -28,8 +28,8 @@
 	  tar -xzf syncthing*.zip
 	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv syncthing ~/.local/bin/
-	  popd
-	  popd
+	  popd > /dev/null
+	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
 -
