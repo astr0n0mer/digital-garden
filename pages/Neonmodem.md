@@ -9,7 +9,7 @@
 	  curl -L https://github.com/mrusme/neonmodem/releases/download/v1.0.4/neonmodem_1.0.4_darwin_arm64.tar.gz --output "neonmodem_1.0.4_darwin_arm64.tar.gz"
 	  tar -xzf neonmodem_*.tar.gz
 	  mv neonmodem ~/.local/bin/
-	  popd
+	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  # location of neonmodem binary: ~/.local/bin/neonmodem
 	  neonmodem connect --help
