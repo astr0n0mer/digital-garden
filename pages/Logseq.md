@@ -4,10 +4,9 @@
 -
 - Install on macOS
 	- ```bash
-	  TEMP_DIR=~/Downloads/testing-hdiutil
+	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/logseq/logseq/releases/download/0.10.5/Logseq-darwin-x64-0.10.5.dmg --output "Logseq-darwin-x64-0.10.5.dmg"
-	  echo $_
 	  hdiutil attach Logseq-darwin-x64-0.10.5.dmg
 	  cp /Volumes/Logseq.app /Applications
 	  hdiutil detach Logseq-darwin-x64-0.10.5.dmg
