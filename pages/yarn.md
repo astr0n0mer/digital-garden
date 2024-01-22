@@ -1,4 +1,6 @@
-- #JavaScript #mysetup #package-manager
+tags:: [[JavaScript]] [[package-manager]]
+
+- #mysetup
 -
 - Install
 	- Note: Make sure [[Node.js]] is installed
