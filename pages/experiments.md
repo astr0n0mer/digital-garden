@@ -1,2 +1,3 @@
 - @@html: <iframe src="file:///Users/imran/projects/digital-garden/.vscode/auto-git-pull-push.sh" height="500px"></iframe>@@
-- {{hacker-news hi, bye}}
+- {{hacker-news GPT-3.5 crashes when it thinks about useRalativeImagePath too much (iter.ca), https://news.ycombinator.com/item?id=39086106}}
+- {{gh-repo-image ryan-oasis, nerd-fonts}}
