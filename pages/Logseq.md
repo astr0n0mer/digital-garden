@@ -2,6 +2,16 @@
 - [logseq/logseq](https://github.com/logseq/logseq)
   @@html: <a href="https://github.com/logseq/logseq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=logseq&repo=logseq&theme=tokyonight" alt="logseq/logseq/"/></a>@@
 -
+- Install on Linux
+	- ```bash
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  curl -L https://github.com/logseq/logseq/releases/download/0.10.5/Logseq-linux-x64-0.10.5.AppImage --output "Logseq-linux-x64-0.10.5.AppImage"
+	  # need to 
+	  popd
+	  rm -r $TEMP_DIR
+	  ```
+-
 - Install on macOS
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
