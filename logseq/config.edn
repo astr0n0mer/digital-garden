@@ -266,7 +266,7 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {
-	"Hacker News" "Hello $1"
+	"hackernews" ""
 }
 
  ;; Configure the default expansion level for linked references.
