@@ -1,2 +1,3 @@
-- **Biome is a [fast formatter](https://github.com/biomejs/biome/blob/main/benchmark#formatting)** for *JavaScript*, *TypeScript*, *JSX*, and *JSON* that scores **[97% compatibility with *Prettier*](https://console.algora.io/challenges/prettier)**.
-- **Biome is a [performant linter](https://github.com/biomejs/biome/tree/main/benchmark#linting)** for *JavaScript*, *TypeScript*, and *JSX* that features **[more than 190 rules](https://biomejs.dev/linter/rules/)** from ESLint, TypeScript ESLint, and [other sources](https://github.com/biomejs/biome/discussions/3).
+- [Biome](https://biomejs.dev/) is a fast [[Formatter]] for [[JavaScript]], [[TypeScript]], [[JSX]], and [[JSON]] that scores [97% compatibility](https://console.algora.io/challenges/prettier) with [[Prettier]].
+  
+  Biome is a performant linter for JavaScript, TypeScript, and JSX that features more than 190 rules from ESLint, TypeScript ESLint, and other sources.

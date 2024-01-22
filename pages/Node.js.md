@@ -1,4 +1,4 @@
-- #javascript #mysetup
+- #JavaScript #mysetup
 -
 - Install with [[nvm]]
 	- ```bash
