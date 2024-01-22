@@ -267,7 +267,7 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {
 	"hacker-news" "TODO [#C] [$1]($2) on [[Hacker News]]"
-	"gh-repo-image" ""
+	"gh-repo-image" "[$1/$2](https://github.com/$1/$2)\n@@html: <a href=\"https://github.com/$1/$2/\"><img src=\"https://github-readme-stats-astronomer.vercel.app/api/pin/?username=$1&repo=$2&theme=tokyonight\" alt=\"$1/$2\"/></a>@@"
 }
 
  ;; Configure the default expansion level for linked references.

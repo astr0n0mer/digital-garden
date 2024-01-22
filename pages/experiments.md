@@ -1,2 +1,2 @@
 - @@html: <iframe src="file:///Users/imran/projects/digital-garden/.vscode/auto-git-pull-push.sh" height="500px"></iframe>@@
-- {{HN bye}}
+- {{hacker-news hi, bye}}
