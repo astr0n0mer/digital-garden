@@ -1,3 +1,4 @@
-- [Biome](https://biomejs.dev/) is a [fast](https://github.com/biomejs/biome/blob/main/benchmark#formatting) [[Formatter]] for [[JavaScript]], [[TypeScript]], [[JSX]], and [[JSON]] that scores 97% compatibility with [[Prettier]].
+- [Biome](https://biomejs.dev/) is a [fast](https://github.com/biomejs/biome/tree/main/benchmark#formatting) [[Formatter]] for [[JavaScript]], [[TypeScript]], [[JSX]], and [[JSON]] that scores 97% compatibility with [[Prettier]].
 - Biome is a performant [[Linter]] for [[JavaScript]], [[TypeScript]], and [[JSX]] that features more than 190 rules from [[ESLint]], TypeScript ESLint, and other sources.
--
+- [biomejs/biome](https://github.com/biomejs/biome)
+  @@html: <a href="https://github.com/biomejs/biome/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=biomejs&repo=biome&theme=tokyonight" alt="biomejs/biome"/></a>@@
