@@ -9,7 +9,7 @@ tags:: [[GitHub]]
 	  apt install gh
 	  ```
 -
-- Install on macOS with [[Homebrew]]
+- Install on macOS with Homebrew
 	- ```bash
 	  brew install gh
 	  ```
