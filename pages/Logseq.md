@@ -8,5 +8,5 @@
 	  cd $_
 	  curl -L https://github.com/logseq/logseq/releases/download/0.10.5/Logseq-darwin-x64-0.10.5.dmg --output "Logseq-darwin-x64-0.10.5.dmg"
 	  echo $_
-	  hdiutil 
+	  hdiutil attach *.dmg
 	  ```
