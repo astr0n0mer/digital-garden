@@ -1,4 +1,6 @@
-- [JSON Reference](https://json-spec.readthedocs.io/reference.html) allows a JSON value to reference another value in a #json document.
+tags:: [[JSON]]
+
+- [JSON Reference](https://json-spec.readthedocs.io/reference.html) allows a JSON value to reference another value in a [[JSON]] document.
 - Example
   A JSON Reference is a mapping with a unique key `$ref`, which value is a JSON Pointer.
   For example, this object:
