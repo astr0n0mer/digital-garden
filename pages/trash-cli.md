@@ -2,9 +2,13 @@
   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)
   @@html: <a href="https://github.com/andreafrancia/trash-cli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=andreafrancia&repo=trash-cli&theme=tokyonight" alt="andreafrancia/trash-cli"/></a>@@
 -
-- [Install](https://github.com/andreafrancia/trash-cli#installation) on Linux and macOS
+- [Install](https://github.com/andreafrancia/trash-cli#installation) on Linux
 	- ```bash
 	  pipx install trash-cli
+	  ```
+- Note: this does not work on macOS
+	- You'll get errors like the following because there is a space between `Application Support`
+	- ```bash
 	  ```
 -
 - [Install shell completions](https://github.com/andreafrancia/trash-cli#install-shell-completions)
