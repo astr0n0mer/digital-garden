@@ -2,4 +2,8 @@
   [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)
   @@html: <a href="https://github.com/julienXX/terminal-notifier/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=julienXX&repo=terminal-notifier&theme=tokyonight" alt="julienXX/terminal-notifier"/></a>@@
 -
-- [Install]() on [[macOS]]
+- [Install](https://github.com/julienXX/terminal-notifier#download) on [[macOS]]
+	- ```bash
+	  brew install terminal-notifier
+	  echo 'Installed terminal-notifier' | terminal-notifier -sound default
+	  ```
