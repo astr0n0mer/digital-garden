@@ -1,4 +1,4 @@
-- [trash-cli](https://github.com/andreafrancia/trash-cli) is a [[CLI]] to the [freedesktop.org](https://www.freedesktop.org/) trashcan. #shell-command 
+- [trash-cli](https://github.com/andreafrancia/trash-cli) is a [[CLI]] to the [freedesktop.org](https://www.freedesktop.org/) trashcan. #shell-command #FOSS 
   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)
   @@html: <a href="https://github.com/andreafrancia/trash-cli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=andreafrancia&repo=trash-cli&theme=tokyonight" alt="andreafrancia/trash-cli"/></a>@@
 -
@@ -17,6 +17,11 @@
 	    $cmd --print-completion zsh | sudo tee /usr/share/zsh/site-functions/_$cmd
 	    $cmd --print-completion tcsh | sudo tee /etc/profile.d/$cmd.completion.csh
 	  done
+	  ```
+-
+- Uninstall on Linux
+	- ```bash
+	  pipx uninstall trash-cli
 	  ```
 -
 - Note: this does not work on macOS
