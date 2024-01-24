@@ -8,3 +8,6 @@
 	  terminal-notifier | head -n 1
 	  echo 'Installed terminal-notifier' | terminal-notifier -sound default
 	  ```
+-
+- Reference:
+	- [How to get a notification when my commands are done | Stack Exchange](https://apple.stackexchange.com/a/85969)
