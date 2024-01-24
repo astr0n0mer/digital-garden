@@ -9,6 +9,17 @@
 - Note: this does not work on macOS
 	- You'll get errors like the following because there is a space between `Application Support`
 	- ```bash
+	  trash-list
+	  zsh: /Users/imran/.local/bin/trash-list: bad interpreter: /Users/imran/Library/Application: no such file or directory
+	  
+	  ls -l ~/.local/bin
+	  
+	  # lrwxr-xr-x  1 imran  staff        71 Jan 25 02:01 trash -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash
+	  # lrwxr-xr-x  1 imran  staff        77 Jan 25 02:01 trash-empty -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash-empty
+	  # lrwxr-xr-x  1 imran  staff        76 Jan 25 02:01 trash-list -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash-list
+	  # lrwxr-xr-x  1 imran  staff        75 Jan 25 02:01 trash-put -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash-put
+	  # lrwxr-xr-x  1 imran  staff        79 Jan 25 02:01 trash-restore -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash-restore
+	  # lrwxr-xr-x  1 imran  staff        74 Jan 25 02:01 trash-rm -> /Users/imran/Library/Application Support/pipx/venvs/trash-cli/bin/trash-rm
 	  ```
 -
 - [Install shell completions](https://github.com/andreafrancia/trash-cli#install-shell-completions)
