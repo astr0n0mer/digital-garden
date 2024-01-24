@@ -6,11 +6,15 @@
 	- ```bash
 	  pipx install trash-cli
 	  ```
+-
 - Note: this does not work on macOS
+  background-color:: red
 	- You'll get errors like the following because there is a space between `Application Support`
 	- ```bash
 	  trash-list
-	  zsh: /Users/imran/.local/bin/trash-list: bad interpreter: /Users/imran/Library/Application: no such file or directory
+	  # zsh: /Users/imran/.local/bin/trash-list: bad interpreter: /Users/imran/Library/Application: no such file or directory
+	  trash-put hi.txt
+	  # zsh: /Users/imran/.local/bin/trash-put: bad interpreter: /Users/imran/Library/Application: no such file or directory
 	  
 	  ls -l ~/.local/bin
 	  
