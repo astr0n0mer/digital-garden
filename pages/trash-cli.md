@@ -2,12 +2,12 @@
   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)
   @@html: <a href="https://github.com/andreafrancia/trash-cli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=andreafrancia&repo=trash-cli&theme=tokyonight" alt="andreafrancia/trash-cli"/></a>@@
 -
-- [Install](https://github.com/andreafrancia/trash-cli#installation) on Linux with pipx
+- [Install](https://github.com/andreafrancia/trash-cli#installation) on [[Linux]] with [[pipx]]
 	- ```bash
 	  pipx install trash-cli
 	  ```
 -
-- [Install shell completions](https://github.com/andreafrancia/trash-cli#install-shell-completions)
+- [Install](https://github.com/andreafrancia/trash-cli#install-shell-completions) [[shell completion]]s
 	- ```bash
 	  pipx install 'trash-cli[completion]'
 	  
@@ -19,9 +19,10 @@
 	  done
 	  ```
 -
-- Uninstall on Linux
+- Uninstall on [[Linux]]
 	- ```bash
 	  pipx uninstall trash-cli
+	  pipx uninstall 'trash-cli[completion]'
 	  ```
 -
 - Note: this does not work on macOS
