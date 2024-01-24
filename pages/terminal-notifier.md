@@ -5,5 +5,6 @@
 - [Install](https://github.com/julienXX/terminal-notifier#download) on [[macOS]]
 	- ```bash
 	  brew install terminal-notifier
+	  terminal-notifier | head -n 1
 	  echo 'Installed terminal-notifier' | terminal-notifier -sound default
 	  ```
