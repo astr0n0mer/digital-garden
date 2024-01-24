@@ -1,0 +1,3 @@
+- [trash](https://hasseg.org/trash/) is a [[CLI]] program for macOS/OS X that moves files or folders to the trash. #shell-command
+  [ali-rantakari/trash](https://github.com/ali-rantakari/trash)
+  @@html: <a href="https://github.com/ali-rantakari/trash/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ali-rantakari&repo=trash&theme=tokyonight" alt="ali-rantakari/_repo_"/></a>@@
