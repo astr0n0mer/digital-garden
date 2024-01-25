@@ -9,6 +9,10 @@
 	  echo 'Installed terminal-notifier' | terminal-notifier -sound default
 	  ```
 -
-- Note: This simply does not work on macOS
+- Note: This does not work on macOS 14.1.2
+  background-color:: red
+	- The `terminal-notifier` binary starts and immediately exits
+	- ```markdown
+	  ```
 -
 - Reference: [How to get a notification when my commands are done | Stack Exchange](https://apple.stackexchange.com/a/85969)
