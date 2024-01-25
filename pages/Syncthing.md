@@ -25,7 +25,7 @@
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
-	  tar -xzf syncthing*.zip
+	  tar -xzf $_
 	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv syncthing ~/.local/bin/
 	  popd > /dev/null
