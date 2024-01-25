@@ -2,7 +2,7 @@
 - [logseq/logseq](https://github.com/logseq/logseq)
   @@html: <a href="https://github.com/logseq/logseq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=logseq&repo=logseq&theme=tokyonight" alt="logseq/logseq/"/></a>@@
 -
-- Install on Linux
+- Install on [[Linux]]
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
@@ -13,7 +13,7 @@
 	  rm -r $TEMP_DIR
 	  ```
 -
-- Install on macOS
+- Install on [[macOS]]
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
