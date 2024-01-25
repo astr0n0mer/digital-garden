@@ -2,11 +2,11 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing)
   @@html: <a href="https://github.com/syncthing/syncthing/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=syncthing&repo=syncthing&theme=tokyonight" alt="syncthing/syncthing/"/></a>@@
 -
-- Install on Android
+- Install on [[Android]]
 	- Download [Syncthing-Fork](https://f-droid.org/repository/browse/?fdid=com.github.catfriend1.syncthingandroid) from [[F-Droid]]
 	- <ins>Note:</ins>Make sure you sync a folder **from** Android **to** Computer. Only this way the folder will be *send and receive* type. If you share **from** a Computer **to** Android the folder will just be *send* type in Android.
 -
-- [Install](https://apt.syncthing.net/) on Linux
+- [Install](https://apt.syncthing.net/) on [[Linux]]
 	- ```bash
 	  # Add the release PGP keys:
 	  sudo mkdir -p /etc/apt/keyrings
@@ -20,7 +20,7 @@
 	  sudo apt-get install syncthing
 	  ```
 -
-- Install on macOS (with Silicon chip)
+- Install on [[macOS]] (with [[Silicon chip]])
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR

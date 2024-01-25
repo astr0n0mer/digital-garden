@@ -4,4 +4,8 @@
 -
 - [Install](https://github.com/vjeantet/alerter#installation) on [[macOS]]
 	- ```bash
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  curl -L https://github.com/vjeantet/alerter/releases/download/1.0.1/alerter_v1.0.1_darwin_amd64.zip --output "alerter_v1.0.1_darwin_amd64.zip"
+	  tar 
 	  ```
