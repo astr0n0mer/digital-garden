@@ -25,7 +25,7 @@
 	  pipx uninstall 'trash-cli[completion]'
 	  ```
 -
-- Note: This does not work on macOS
+- Note: This [[does not work]] on macOS 14.1.2
   background-color:: red
 	- You'll get errors like the following because there is a space in `Application Support`
 	- ```bash
