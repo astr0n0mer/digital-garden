@@ -11,9 +11,8 @@ tags:: [[FOSS]]
 	  echo 'terminal-notifier successfully installed' | terminal-notifier -sound default
 	  ```
 -
-- Note: This [[does not work on macOS]] 14.1.2
-  background-color:: red
-	- The `terminal-notifier` binary starts and immediately exits
+- CANCELLED The `terminal-notifier` binary starts and immediately exits
+	- This automatically fixed, there was an OS update I did, and restarted the system; that probably fixed this.
 	- ```markdown
 	  # System Info
 	  Chip		: Apple M1
