@@ -9,7 +9,7 @@
 	  echo 'Installed terminal-notifier' | terminal-notifier -sound default
 	  ```
 -
-- Note: This [[does not work]] on macOS 14.1.2
+- Note: This [[does not work on macOS]] 14.1.2
   background-color:: red
 	- The `terminal-notifier` binary starts and immediately exits
 	- ```markdown
