@@ -1,5 +1,5 @@
 public:: false
 
 - [[Procedure]] [[2024]]
-	- Dates: [[2024-02-23]] - [[[2024-02-25]]
+	- Dates: [[2024-02-23]] - [[2024-02-25]]
 	- Location: [Golden Fields Resort](https://goldenfieldsresort.in/)
