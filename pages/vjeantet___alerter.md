@@ -7,5 +7,8 @@
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/vjeantet/alerter/releases/download/1.0.1/alerter_v1.0.1_darwin_amd64.zip --output "alerter_v1.0.1_darwin_amd64.zip"
-	  tar 
+	  tar -xzf $_
+	  mv alerter ~/.local/bin/
+	  popd > /dev/null
+	  rm -r $TEMP_DIR
 	  ```
