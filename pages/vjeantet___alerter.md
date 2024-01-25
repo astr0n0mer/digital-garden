@@ -11,4 +11,5 @@
 	  mv alerter ~/.local/bin/
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
+	  alerter -h | head -n 1
 	  ```
