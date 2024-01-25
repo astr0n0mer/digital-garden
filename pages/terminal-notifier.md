@@ -12,7 +12,7 @@ tags:: [[FOSS]]
 	  ```
 -
 - CANCELLED The `terminal-notifier` binary starts and immediately exits
-	- This automatically fixed, there was an OS update I did, and restarted the system; that probably fixed this.
+	- This fixed automatically, there was an OS update I did, and restarted the system; that probably fixed this issue.
 	- ```markdown
 	  # System Info
 	  Chip		: Apple M1
