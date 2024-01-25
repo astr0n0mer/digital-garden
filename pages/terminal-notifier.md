@@ -13,6 +13,11 @@
   background-color:: red
 	- The `terminal-notifier` binary starts and immediately exits
 	- ```markdown
+	  # System Info
+	  Chip		: Apple M1
+	  Memory		: 16 GB
+	  Startup disk: Macintosh HD
+	  macOS		: 14.1.2 (23B92)
 	  ```
 -
 - Reference: [How to get a notification when my commands are done | Stack Exchange](https://apple.stackexchange.com/a/85969)
