@@ -21,7 +21,7 @@
 - Review
 	- The interface takes one command at a time, so to view a post, you have to use 3 commands
 	  ```bash
-	  hn
+	  workon haxor-news && haxor-news
 	  hn top
 	  hn view 1
 	  hn view 1 --comments
