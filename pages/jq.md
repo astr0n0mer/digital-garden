@@ -4,7 +4,9 @@ tags:: [[FOSS]]
   [jqlang/jq](https://github.com/jqlang/jq)
   @@html: <a href="https://github.com/jqlang/jq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=jqlang&repo=jq&theme=tokyonight" alt="jqlang/jq"/></a>@@
 -
+-
+-
 - Install on [[macOS]]
 	- ```bash
-	  curl -L https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-macos-arm64 --output 
+	  brew install jq
 	  ```
