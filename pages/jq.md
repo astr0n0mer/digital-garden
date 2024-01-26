@@ -9,12 +9,14 @@ tags:: [[FOSS]]
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-amd64 --output "jq"
-	  mv syncthing ~/.local/bin/
+	  mv $_ ~/.local/bin/
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
+	  jq --version
 	  ```
 -
 - Install on [[macOS]]
 	- ```bash
 	  brew install jq
+	  jq --version
 	  ```
