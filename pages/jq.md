@@ -9,11 +9,7 @@ tags:: [[FOSS]]
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-amd64 --output "jq"
-	  chmod +x $_
-	  tar -xzf $_
-	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv syncthing ~/.local/bin/
-	  popd > /dev/null
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
