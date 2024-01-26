@@ -1,4 +1,4 @@
-- [Homebrew](https://brew.sh/) is a [[package-manager]] for [[macOS]] (or [[Linux]]) that installs and manages software packages, including [[RubyGems]], and provides a simple way to install and manage non-open source software through its Cask feature. #mysetup #shell-command
+- [Homebrew](https://brew.sh/) is a [[package-manager]] for [[macOS]] (or [[Linux]]) that installs and manages software packages, including [[RubyGems]], and provides a simple way to install and manage non-open source software through its Cask feature. #mysetup #shell/shell-command
 -
 - Install on macOS
 	- ```bash
