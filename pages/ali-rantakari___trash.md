@@ -8,4 +8,5 @@
 	  trash
 	  ```
 -
-- Note:
+- Note: Cannot restore/copy/move files from Trash to somewhere else
+  background-color:: red
