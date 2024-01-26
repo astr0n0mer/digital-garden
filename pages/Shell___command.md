@@ -1,4 +1,4 @@
-- {{query (page [[Shell/command]])}}
+- {{query (and [[Shell/command]] (not "@@html"))(and [[Shell/command]] (not))[[Shell/command]]}}
   query-sort-by:: block
   query-table:: true
   query-sort-desc:: false
