@@ -1,1 +1,3 @@
 tags:: [[Hacker News]]
+
+- {{query }}
