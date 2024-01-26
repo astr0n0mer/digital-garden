@@ -1,6 +1,6 @@
 tags:: [[YouTube]]
 
-- {{query [[YouTube channel]]}}
-  query-table:: true
+- {{query [[YouTube Channel]]}}
   query-sort-by:: page
+  query-table:: true
   query-sort-desc:: false
