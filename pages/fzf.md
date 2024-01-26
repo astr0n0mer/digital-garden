@@ -1,4 +1,4 @@
-- [fzf](https://github.com/junegunn/fzf) is a command-line fuzzy finder #shell/shell-command 
+- [fzf](https://github.com/junegunn/fzf) is a command-line fuzzy finder #Shell/shell-command 
   [junegunn/fzf](https://github.com/junegunn/fzf)
   @@html: <a href="https://github.com/junegunn/fzf/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=junegunn&repo=fzf&theme=tokyonight" alt="junegunn/fzf"/></a>@@
 -
