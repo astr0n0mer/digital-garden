@@ -27,5 +27,5 @@ tags:: [[Logseq]]
   template:: youtube-channel-banner
   template-including-parent:: false
 	- ![ on YouTube]()
-	  #[[YouTube Channel]]
+	  #[[YouTube/Channel]]
 	  [YouTube](https://www.youtube.com/@)

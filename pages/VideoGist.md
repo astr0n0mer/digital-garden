@@ -1,1 +1,1 @@
-- [VideoGist](https://www.videogist.co/) can summarize [[YouTube Video]]s
+- [VideoGist](https://www.videogist.co/) can summarize [[YouTube/Video]]s
