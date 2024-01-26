@@ -23,4 +23,9 @@ tags:: [[Logseq]]
 		  ```
 	- {{embed ((659190a5-fd61-4c1b-aa50-6c04e78dc04c))}}
 -
--
+- YouTube Channel Banner
+  template:: youtube-channel-banner
+  template-including-parent:: false
+	- ![ on YouTube]()
+	  #[[YouTube Channel]]
+	  [YouTube](https://www.youtube.com/@)
