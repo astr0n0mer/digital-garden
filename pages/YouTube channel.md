@@ -1,3 +1,4 @@
+filters:: {"logseq template" true}
 tags:: [[YouTube]]
 
 - {{query [[YouTube Channel]]}}
