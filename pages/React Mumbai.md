@@ -1,4 +1,3 @@
+-
 - ![React Mumbai](https://pbs.twimg.com/profile_banners/1658156985227915272/1692505990/1500x500)
 - [Website](https://reactmumbai.dev) | [Twitter](https://twitter.com/react_mumbai) | [Luma](https://lu.ma/react_mumbai)
--
-- [[Meetup]] on [[2024-02-10]] | [Twitter](https://twitter.com/react_mumbai/status/1750500073593839684) | [Luma](https://lu.ma/react-mumbai-feb-2024)
