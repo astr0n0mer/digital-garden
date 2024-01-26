@@ -1,1 +1,1 @@
-- [[Meetup]] on [[2024-02-10]] | [Twitter](https://twitter.com/react_mumbai/status/1750500073593839684) | [Luma](https://lu.ma/react-mumbai-feb-2024)
+- [Luma](https://lu.ma/react-mumbai-feb-2024) | [Twitter](https://twitter.com/react_mumbai/status/1750500073593839684)
