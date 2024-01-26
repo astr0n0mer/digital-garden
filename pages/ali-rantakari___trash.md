@@ -7,3 +7,5 @@
 	  brew install trash
 	  trash
 	  ```
+-
+- Note:
