@@ -7,7 +7,7 @@
 	  pipx install trash-cli
 	  ```
 -
-- [Install](https://github.com/andreafrancia/trash-cli#install-shell-completions) [[shell completion]]s
+- [Install](https://github.com/andreafrancia/trash-cli#install-shell-completions) [[Shell/completion]]s
 	- ```bash
 	  pipx install 'trash-cli[completion]'
 	  
