@@ -11,7 +11,7 @@ tags:: [[Logseq]]
 - Hacker News
   template:: hacker-news
   template-including-parent:: false
-	- TODO [#C] {{hacker-news}}
+	- TODO [#C] []() on [[Hacker News]]
 -
 - New Font
   template:: new-font
