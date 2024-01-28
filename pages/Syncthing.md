@@ -35,4 +35,4 @@
 -
 - DONE How to Sync Local Files on [[Chris Titus Tech]]
   {{video https://www.youtube.com/watch?v=dBVTedUWbfg}}
-  {{youtube-timestamp 94}}
+  {{youtube-timestamp 94}} setup walkthrough
