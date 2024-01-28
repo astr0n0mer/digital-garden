@@ -6,6 +6,9 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 -
 - Install on [[macOS]]
 	- ```bash
+	  brew install clintmod/formulas/macprefs
+	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos/"
+	  
 	  ```
 -
 - Reference: [How can I export my system preferences?](https://apple.stackexchange.com/a/305540)
