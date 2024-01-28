@@ -13,6 +13,10 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  # export MACPREFS_BACKUP_DIR="$HOME/.config/macos/"
 	  
 	  # Backup
+	  macprefs backup
+	  
+	  # Restore
+	  macprefs restore
 	  ```
 -
 - Reference: [How can I export my system preferences?](https://apple.stackexchange.com/a/305540)
