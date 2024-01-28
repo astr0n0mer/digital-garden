@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Microsoft Windows]]
+tags:: [[FOSS]] [[Microsoft/Windows]]
 
 - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
