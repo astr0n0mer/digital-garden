@@ -1,1 +1,3 @@
-- [Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is a parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited.
+- [Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is a parser generator tool and an incremental [[parsing library]]. It can build a concrete [[syntax tree]] for a source file and efficiently update the syntax tree as the source file is edited.
+  [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+  @@html: <a href="https://github.com/tree-sitter/tree-sitter/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=tree-sitter&repo=tree-sitter&theme=tokyonight" alt="tree-sitter/tree-sitter"/></a>@@
