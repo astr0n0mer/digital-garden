@@ -1,1 +1,4 @@
 - [Logseq macros](https://docs.logseq.com/#/page/macros)
+-
+- Create a macro in `config.edn`
+	-
