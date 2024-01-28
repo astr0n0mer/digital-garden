@@ -1,7 +1,7 @@
 tags:: [[FOSS]] [[JSON]]
 
 - [jq](https://jqlang.github.io/jq/) is a lightweight and flexible [[CLI]] [[JSON]] processor akin to [[sed]], [[awk]], [[grep]], and friends for JSON data. #Shell/command
-  [jqlang/jq](https://github.com/jqlang/jq)
+  [jqlang/jq](https://github.com/jqlang/jq) | [jqplay]
   @@html: <a href="https://github.com/jqlang/jq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=jqlang&repo=jq&theme=tokyonight" alt="jqlang/jq"/></a>@@
 -
 - [Install](https://github.com/jqlang/jq#installation) on [[Linux]]
