@@ -1,0 +1,2 @@
+- Yak shaving is a [[Programming]] term that refers to a series of tasks that need to be performed before a project can progress to its next milestone.
+  ![Yak shaving](https://upload.wikimedia.org/wikipedia/commons/7/70/Yak_shaving.jpg)
