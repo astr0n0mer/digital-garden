@@ -9,5 +9,6 @@
 -
 - Use a macro
 	- ```edn
-	  {{hello "foo", "bar"}} ;; quotes are optional
+	  {{hello "foo", bar}} ;; quotes are optional
+	  ;; Hello "foo" and bar
 	  ```
