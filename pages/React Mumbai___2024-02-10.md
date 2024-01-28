@@ -1,1 +1,2 @@
-- [Luma](https://lu.ma/react-mumbai-feb-2024) | [Twitter](https://twitter.com/react_mumbai/status/1750500073593839684)
+- | [Twitter](https://twitter.com/react_mumbai/status/1750500073593839684)
+- {{tweet https://twitter.com/react_mumbai/status/1750500073593839684}}
