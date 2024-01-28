@@ -1,1 +1,3 @@
-- #FOSS #text-editor
+tags:: [[FOSS]] [[code-editor]]
+
+-
