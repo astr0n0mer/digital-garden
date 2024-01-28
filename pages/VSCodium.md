@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[code-editor]] [[mysetup]]
+tags:: [[FOSS]] [[Code/Editor]] [[mysetup]]
 
 - [VSCodium](https://vscodium.com/) is a community-driven, freely-licensed binary distribution of Microsoft’s editor [[VS Code]].
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
