@@ -7,7 +7,8 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 - [Install](https://github.com/clintmod/macprefs#installation) on [[macOS]]
 	- ```bash
 	  brew install clintmod/formulas/macprefs
-	  macprefs --version
+	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos/"
+	  macprefs
 	  # add the following line to your shell startup file
 	  # export MACPREFS_BACKUP_DIR="$HOME/.config/macos/"
 	  
