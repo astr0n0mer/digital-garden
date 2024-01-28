@@ -1,5 +1,5 @@
 tags:: [[VS Code/Theme]]
 
-- [akamud/vscode-theme-onedark](https://github.com/akamud/vscode-theme-onedark) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
-  @@html: <a href="https://github.com/akamud/vscode-theme-onedark/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=akamud&repo=vscode-theme-onedark&theme=tokyonight" alt="akamud/vscode-theme-onedark/"/></a>@@
-- ![Atom One Dark Theme](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+- [drcmda/poimandres-theme](https://github.com/drcmda/poimandres-theme) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs)
+  @@html: <a href="https://github.com/drcmda/poimandres-theme/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=drcmda&repo=poimandres-theme&theme=tokyonight" alt="drcmda/poimandres-theme/"/></a>@@
+- ![poimandres](https://raw.githubusercontent.com/drcmda/poimandres-theme/main/assets/screencap.jpg)
