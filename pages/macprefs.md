@@ -9,7 +9,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/v1.0.17.tar.gz --output "macprefs_v1.0.17.tar.gz"
-	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/latest.tar.gz --output "macprefs_v1.0.17.tar.gz"
+	  tar -xzf $_
 	  
 	  brew install clintmod/formulas/macprefs
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
