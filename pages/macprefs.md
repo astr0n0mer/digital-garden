@@ -15,6 +15,9 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  # add the following line to your shell startup file
 	  # export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  
+	  # need to give Full Disk Access to Terminal
+	  # System Preferences > Privacy & Security > Terminal
+	  
 	  # Backup
 	  macprefs backup
 	  
