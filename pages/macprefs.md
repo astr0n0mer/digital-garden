@@ -8,7 +8,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
-	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/v1.0.17.tar.gz --output "macprefs_v1.0.17.tar.gz"
+	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/v1.0.17.tar.gz --output "macprefs.tar.gz"
 	  tar -xzf $_
 	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv macprefs ~/.local/bin/
