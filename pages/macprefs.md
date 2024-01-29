@@ -17,6 +17,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  rm -r $TEMP_DIR
 	  
 	  # brew install clintmod/formulas/macprefs
+	  brew install sijanc147/formulas/macprefs
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
 	  # add the following line to your shell startup file
