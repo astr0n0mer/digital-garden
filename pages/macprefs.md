@@ -6,8 +6,10 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 -
 - [Install](https://github.com/clintmod/macprefs#installation) on [[macOS]]
 	- ```bash
-	  # try installing the binary from github releases
-	  # https://github.com/clintmod/macprefs/releases/tag/v1.0.17
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/v1.0.17.tar.gz --output "macprefs_v1.0.17.tar.gz"
+	  curl -L https://github.com/clintmod/macprefs/archive/refs/tags/latest.tar.gz --output "macprefs_v1.0.17.tar.gz"
 	  
 	  brew install clintmod/formulas/macprefs
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
