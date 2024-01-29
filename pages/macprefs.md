@@ -18,6 +18,8 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  
 	  # brew install clintmod/formulas/macprefs
 	  brew install sijanc147/formulas/macprefs
+	  mkdir -p $HOME/Library/LaunchAgents/
+	  
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
 	  # add the following line to your shell startup file
