@@ -12,6 +12,9 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  tar -xzf $_
 	  cd */ # https://stackoverflow.com/a/28980505/7753274
 	  mv macprefs ~/.local/bin/
+	  popd > /dev/null
+	  popd > /dev/null
+	  rm -r $TEMP_DIR
 	  
 	  # brew install clintmod/formulas/macprefs
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
