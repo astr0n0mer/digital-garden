@@ -269,6 +269,7 @@
 	"img" "![](https://github-readme-stats-astronomer.vercel.app/api/pin/?username=$1&repo=$2&theme=tokyonight)"
 	;; do not use this hacker-news macro, it fails to links pages with $3 value
 	"hacker-news" "[$1]($2) on [[Hacker News]] $3"
+	"yt-video" ""
 	"gh-repo-image" "[$1/$2](https://github.com/$1/$2) \n@@html: <a href=\"https://github.com/$1/$2/\"><img src=\"https://github-readme-stats-astronomer.vercel.app/api/pin/?username=$1&repo=$2&theme=tokyonight\" alt=\"$1/$2\"/></a>@@"
 }
 
