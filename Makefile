@@ -1,3 +1,8 @@
+OS_NAME := $(shell uname -s)
+TERMINAL_NOTIFIER := $(if $(filter Darwin,$(OS_NAME)), \
+						/opt/homebrew/bin/terminal-notifier, \
+						$(HOME)/.local/bin/terminal-notifier)
+
 .PHONY: default
 default:
 	@echo "no target specified"
@@ -22,4 +27,8 @@ rm-conflicts:
 .PHONY: cron
 cron:
 	cd ~/projects/digital-garden && \
-		git push
+		git push && \
+		${TERMINAL_NOTIFIER} \
+		-title digital-garden \
+		-message "pushed to GitHub" \
+		-sound default
