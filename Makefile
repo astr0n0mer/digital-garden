@@ -31,4 +31,4 @@ cron:
 		${TERMINAL_NOTIFIER} \
 		-title digital-garden \
 		-message "pushed to GitHub" \
-		-sound default
+		-sound default > ./bak/cron.log 2>&1
