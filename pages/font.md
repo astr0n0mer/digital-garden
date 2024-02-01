@@ -4,16 +4,14 @@
 	  ```bash
 	  OS_NAME=$(uname -s)
 	  if [ "${OS_NAME}" == "Darwin" ]; then
-	  	cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
+	  	echo "Darwin"
+	  	# cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
 	  else
-	  # Linux
-	  sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
-	  sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
-	  fc-cache -fv
-	  
-	  # macOS
-	  
-	  
+	  	echo "Linux"
+	  	# sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
+	  	# sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
+	  	# fc-cache -fv
+	  fi
 	  # restart your app to use the custom font
 	  ```
 - Demo text:
