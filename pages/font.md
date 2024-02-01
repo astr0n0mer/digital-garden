@@ -55,6 +55,7 @@
 -
 - #explore
 	- DOING [#C] [[Cartograph CF]]
+	  DEADLINE: <2024-02-10 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2023-12-31 Sun 21:34:24]
 	  :END:
