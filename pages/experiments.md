@@ -5,4 +5,4 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   @@html: <a href="https://github.com/ryanoasis/nerd-fonts/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ryanoasis&repo=nerd-fonts&theme=tokyonight" alt="ryanoasis/nerd-fonts"/></a>@@
 -
-- {{query "{{hacker-news"}}
+- {{query "on [[Linux]]"}}
