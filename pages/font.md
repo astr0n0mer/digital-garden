@@ -2,7 +2,6 @@
   id:: 659190a5-fd61-4c1b-aa50-6c04e78dc04c
 	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
 	  ```bash
-	  bash
 	  OS_NAME=$(uname -s)
 	  if [ "${OS_NAME}" == "Darwin" ]; then
 	  	echo "Darwin" | terminal-notifier -sound default
