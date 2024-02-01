@@ -3,7 +3,7 @@
 	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
 	  ```bash
 	  OS_NAME=$(uname -s)
-	  if [ "${OS_NAME}" == "Darwin" ]; then
+	  if [ "${OS_NAME}" = "Darwin" ]; then
 	  	echo "Darwin" | terminal-notifier -sound default
 	  	# cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
 	  else
@@ -12,7 +12,6 @@
 	  	# sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
 	  	# fc-cache -fv
 	  fi
-	  exit
 	  # restart your app to use the custom font
 	  ```
 - Demo text:
