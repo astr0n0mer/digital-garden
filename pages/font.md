@@ -2,16 +2,18 @@
   id:: 659190a5-fd61-4c1b-aa50-6c04e78dc04c
 	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
 	  ```bash
+	  bash
 	  OS_NAME=$(uname -s)
 	  if [ "${OS_NAME}" == "Darwin" ]; then
-	  	echo "Darwin"
+	  	echo "Darwin" | terminal-notifier -sound default
 	  	# cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
 	  else
-	  	echo "Linux"
+	  	echo "Linux" | terminal-notifier -sound default
 	  	# sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
 	  	# sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
 	  	# fc-cache -fv
 	  fi
+	  exit
 	  # restart your app to use the custom font
 	  ```
 - Demo text:
