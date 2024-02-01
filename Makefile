@@ -27,8 +27,9 @@ rm-conflicts:
 .PHONY: cron
 cron:
 	cd ~/projects/digital-garden && \
-		git push && \
+		$(date) >> ./bak/crontab.logs 2>>&1 && \
+		git push >> ./bak/crontab.logs 2>>&1 && \
 		${TERMINAL_NOTIFIER} \
 		-title digital-garden \
 		-message "pushed to GitHub" \
-		-sound default > ./bak/cron.log 2>&1
+		-sound default
