@@ -15,7 +15,7 @@
 	  haxor-news
 	  
 	  # create this bash alias for easier access
-	  # alias hn="workon haxor-news && haxor-news && deactivate"
+	  # alias haxor="workon haxor-news && haxor-news && deactivate"
 	  ```
 -
 - Review
