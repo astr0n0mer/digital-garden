@@ -1,3 +1,3 @@
 tags:: [[YouTube]]
 
-- {{query "youtube.com"}}
+- {{query "https://www.youtube.com/watch?v="}}
