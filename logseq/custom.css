@@ -1,25 +1,7 @@
-@import url("./custom-fonts.css");
+@import url("https://xfonts.pro/xfonts_files/600c045b6a101229c67525c5/files/CartographCF-Bold.ttf");
+@import url("https://xfonts.pro/xfonts_files/600c045b6a101229c67525c5/files/CartographCF-Regular.ttf");
+@import url("https://xfonts.pro/xfonts_files/600c045b6a101229c67525c5/files/CartographCF-RegularItalic.ttf");
 
-@font-face {
-  font-family: "Cartograph CF";
-  src: url("../assets/fonts/CartographCF-Bold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: "Cartograph CF";
-  src: url("../assets/fonts/CartographCF-Regular.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: "Cartograph CF";
-  src: url("../assets/fonts/CartographCF-RegularItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-}
 
 [id~="cartograph"][id~="cf"] * {
   font-family: "Cartograph CF", "cursive";
