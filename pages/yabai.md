@@ -1,0 +1,2 @@
+-
+- yabay is a tiling window manager for macOS based on binary space partitioning
