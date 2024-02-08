@@ -1,1 +1,1 @@
-tags:: [[Linux distribution]]
+tags:: [[Linux/Distribution]]

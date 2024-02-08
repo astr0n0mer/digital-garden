@@ -1,1 +1,1 @@
-- [CutefishOS](https://cutefish-ubuntu.github.io/) #[[Linux distribution]]
+- [CutefishOS](https://cutefish-ubuntu.github.io/) #[[Linux/Distribution]]
