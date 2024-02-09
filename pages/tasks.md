@@ -5,9 +5,6 @@
 - ## \IN-PROGRESS
 - {{query (and (task DOING IN-PROGRESS NOW) (priority C))(task DOING IN-PROGRESS NOW)}}
 -
-- ## \TODO -- videos -- priority
-- {{query (and (task LATER WAIT TODO DOING) "{{video" (not (priority C)))}}
--
 - ## \TODO -- videos
 - {{query (and (task LATER TODO WAIT DOING) "{{video" (priority C))}}
 -
