@@ -1,6 +1,6 @@
 tags:: [[macOS]] [[Backup]] [[Restore]]
 
-- [macprefs](https://github.com/clintmod/macprefs): A tool to backup and restore [[macOS]] preferences. #Shell/command
+- [macprefs](https://github.com/SijanC147/macprefs): A tool to backup and restore [[macOS]] preferences. #Shell/command
   [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
   @@html: <a href="https://github.com/SijanC147/macprefs/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=SijanC147&repo=macprefs&theme=tokyonight" alt="SijanC147/macprefs"/></a>@@
 -
@@ -14,11 +14,10 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  # add the following line to your shell startup file
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
-	  
-	  # Note:
-	  # You need to give Full Disk Access to Terminal
-	  # System Preferences > Privacy & Security > Full Disk Access > Terminal
 	  ```
+	- Note: You need to give Full Disk Access to Terminal
+	  background-color:: red
+	  System Preferences > Privacy & Security > Full Disk Access > Terminal
 -
 - Usage
 	- ```bash
