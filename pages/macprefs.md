@@ -6,17 +6,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 -
 - [Install](https://github.com/clintmod/macprefs#installation) on [[macOS]]
 	- ```bash
-	  TEMP_DIR=$(mktemp -d)
-	  cd $TEMP_DIR
-	  curl -L https://github.com/SijanC147/macprefs/releases/download/v2.1.1/macprefs-2.1.1.tar.gz --output "macprefs.tar.gz"
-	  tar -xzf $_
-	  cd */ # https://stackoverflow.com/a/28980505/7753274
-	  mv macprefs ~/.local/bin/
-	  popd > /dev/null
-	  popd > /dev/null
-	  rm -r $TEMP_DIR
-	  
-	  # The original maintainer does not 
+	  # The author does not maintain this project now
 	  # brew install clintmod/formulas/macprefs
 	  brew install sijanc147/formulas/macprefs
 	  mkdir -p $HOME/Library/LaunchAgents/
