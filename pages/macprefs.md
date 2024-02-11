@@ -18,6 +18,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	- Note: You need to give "Full Disk Access" to Terminal
 	  background-color:: red
 	  System Preferences > Privacy & Security > Full Disk Access > Terminal
+	  ``````
 -
 - Usage
 	- ```bash
