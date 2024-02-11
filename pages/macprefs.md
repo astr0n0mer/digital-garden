@@ -4,7 +4,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
   [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
   @@html: <a href="https://github.com/SijanC147/macprefs/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=SijanC147&repo=macprefs&theme=tokyonight" alt="SijanC147/macprefs"/></a>@@
 -
-- [Install](https://github.com/SijanC147/macprefs#installation) on [[macOS]]
+- [Install](https://github.com/SijanC147/macprefs#installation) on [[macOS]] using [[Homebrew]]
 	- ```bash
 	  brew install sijanc147/formulas/macprefs
 	  
@@ -15,7 +15,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
 	  ```
-	- Note: You need to give Full Disk Access to Terminal
+	- Note: You need to give "Full Disk Access" to Terminal
 	  background-color:: red
 	  System Preferences > Privacy & Security > Full Disk Access > Terminal
 -
