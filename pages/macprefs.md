@@ -7,17 +7,21 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 - [Install](https://github.com/SijanC147/macprefs#installation) on [[macOS]]
 	- ```bash
 	  brew install sijanc147/formulas/macprefs
+	  
+	  # You might need to run this
 	  # mkdir -p $HOME/Library/LaunchAgents/
 	  
-	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  # add the following line to your shell startup file
-	  # export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
-	  
+	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
+	  
 	  # Note:
 	  # You need to give Full Disk Access to Terminal
 	  # System Preferences > Privacy & Security > Full Disk Access > Terminal
-	  
+	  ```
+-
+- Usage
+	- ```bash
 	  # Backup
 	  macprefs backup
 	  
