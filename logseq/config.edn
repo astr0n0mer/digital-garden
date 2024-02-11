@@ -353,10 +353,11 @@
  ;; Extra CodeMirror options
  ;; See https://codemirror.net/5/doc/manual.html#config for possible options
  ;; Example usage:
- ;; :editor/extra-codemirror-options
- ;; {:lineWrapping  false  ; Default value: false
+:editor/extra-codemirror-options {
+	:lineWrapping  true  ; Default value: false
  ;;  :lineNumbers   true   ; Default value: true
  ;;  :readOnly      false} ; Default value: false
+}
 
  ;; Enable logical outdenting
  ;; Default value: false
