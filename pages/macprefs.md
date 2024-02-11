@@ -11,7 +11,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  # You might need to run this
 	  # mkdir -p $HOME/Library/LaunchAgents/
 	  
-	  # add the following line to your shell startup file
+	  # set your backup location, preferably in your shell startup file
 	  export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  macprefs
 	  ```
