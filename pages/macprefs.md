@@ -14,9 +14,9 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  # export MACPREFS_BACKUP_DIR="$HOME/.config/macos"
 	  
 	  macprefs
-	  
-	  # need to give Full Disk Access to Terminal
-	  # System Preferences > Privacy & Security > Terminal
+	  # Note:
+	  # You need to give Full Disk Access to Terminal
+	  # System Preferences > Privacy & Security > Full Disk Access > Terminal
 	  
 	  # Backup
 	  macprefs backup
