@@ -17,11 +17,11 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  ```
 	- Note: You need to give "Full Disk Access" to Terminal
 	  background-color:: red
-	  Using UI: `System Preferences > Privacy & Security > Full Disk Access > Terminal`
-	  Using CLI:
-	  ```bash
-	  open "x-apple.systempreferences:com.apple.preference.security?Privacy_AllFiles"
-	  ```
+		- Using UI: `System Preferences > Privacy & Security > Full Disk Access > Terminal`
+		- Using CLI:
+		  ```bash
+		  open "x-apple.systempreferences:com.apple.preference.security?Privacy_AllFiles"
+		  ```
 -
 - Usage
 	- ```bash
