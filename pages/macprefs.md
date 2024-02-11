@@ -33,3 +33,6 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
 	  ```
 -
 - Reference: [How can I export my system preferences?](https://apple.stackexchange.com/a/305540)
+-
+- Review:
+	- This simply backs up too many things that I don't want to appear in my
