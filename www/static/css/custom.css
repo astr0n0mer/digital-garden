@@ -23,6 +23,10 @@
   font-family: "Cartograph CF", "cursive";
 }
 
+[id~="firacode"] * {
+  font-family: "FiraCode Nerd Font", "cursive";
+}
+
 .article-cover {
   max-height: 250px;
 }
