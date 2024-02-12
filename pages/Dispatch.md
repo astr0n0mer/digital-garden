@@ -1,3 +1,3 @@
-- ![ on YouTube]()
+- ![Dispatch on YouTube]()
   #[[YouTube/Channel]]
-  [YouTube](https://www.youtube.com/@)
+  [YouTube](https://www.youtube.com/@sagaratytube)
