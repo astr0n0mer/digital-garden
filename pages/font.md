@@ -1,19 +1,3 @@
-- Add custom fonts in Linux and macOS:
-  id:: 659190a5-fd61-4c1b-aa50-6c04e78dc04c
-	- id:: 659190c1-2099-46f1-b8d6-0f77d54407d1
-	  ```bash
-	  # this snippet handles cross platform setup commands
-	  # so you can just copy paste
-	  OS_NAME=$(uname -s)
-	  if [ "${OS_NAME}" = "Darwin" ]; then
-	  	cp -f ~/.config/fonts/*/*/* ~/Library/Fonts/
-	  else
-	  	sudo ln -s ~/.config/fonts/opentype/* /usr/share/fonts/opentype
-	  	sudo ln -s ~/.config/fonts/truetype/* /usr/share/fonts/truetype
-	  	fc-cache -fv
-	  fi
-	  echo "restart your app to use the custom font"
-	  ```
 - Demo text:
 	- id:: d8603886-be5b-4ed9-9f0d-c433203b00d7
 	  ```typescript

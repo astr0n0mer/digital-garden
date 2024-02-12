@@ -13,4 +13,4 @@ tags:: [[font]] [[Nerd Font]]
 	  curl https://xfonts.pro/xfonts_files/600c045b6a101229c67525c5/files/CartographCF-RegularItalic.ttf --output "CartographCF-RegularItalic.ttf"
 	  mv CartographCF-*.ttf ~/.config/fonts/truetype/cartograph-cf/
 	  ```
-	- {{embed ((659190a5-fd61-4c1b-aa50-6c04e78dc04c))}}
+	-
