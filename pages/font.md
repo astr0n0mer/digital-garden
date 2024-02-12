@@ -39,12 +39,13 @@
 	  ```
 -
 - #explore
-	- DOING [#C] [[Cartograph CF]]
+	- DONE [#C] [[Cartograph CF]]
 	  DEADLINE: <2024-02-10 Sat>
 	  :LOGBOOK:
-	  CLOCK: [2023-12-31 Sun 21:34:24]
+	  CLOCK: [2023-12-31 Sun 21:34:24]--[2024-02-13 Tue 00:19:40] =>  1034:45:16
 	  :END:
 	- DOING [[FiraCode]]
+	  DEADLINE: <2024-03-09 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-02-13 Tue 00:19:13]
 	  CLOCK: [2024-02-13 Tue 00:19:17]
