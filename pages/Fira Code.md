@@ -1,3 +1,7 @@
 tags:: [[Nerd Font]]
 
-- Install
+- ## Install
+	- ```bash
+	  getnf
+	  # and then just select Fira Code
+	  ```
