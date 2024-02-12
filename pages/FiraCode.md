@@ -6,5 +6,5 @@ tags:: [[font]] [[Nerd Font]]
 	- ```bash
 	  getnf
 	  # then just select FiraCode
-	  # the font is automatically installed and downloaded files are deleted
+	  # the font is automatically installed and downloaded files are removed
 	  ```
