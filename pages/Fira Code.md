@@ -1,0 +1,3 @@
+tags:: [[Nerd Font]]
+
+- Install
