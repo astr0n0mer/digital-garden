@@ -1,7 +1,8 @@
-tags:: [[Nerd Font]]
+tags:: [[font]] [[Nerd Font]]
 
 - ## Install
 	- ```bash
 	  getnf
-	  # and then just select Fira Code
+	  # then just select FiraCode
+	  # the font is automatically installed and downloaded files are deleted
 	  ```
