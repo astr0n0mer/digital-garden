@@ -5,5 +5,5 @@ A digital garden is a personal space for organizing and developing ideas, though
 This digital garden has been created using [@logseq](https://github.com/logseq)
 
 <a href="https://dgarden.vercel.app/#/graph">
-    <img src="https://github.com/astr0n0mer/astr0n0mer/assets/42691857/36c5ba61-07a1-4099-a9c1-4a7a8d0c4ee0" alt="Digital Garden Knowledge Graph" style="width: min(1000px, 100vw);" />
+    <img src="./assets/digital-garden-graph.png" alt="Digital Garden Knowledge Graph" style="width: min(1000px, 100vw);" />
 </a>
