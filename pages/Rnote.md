@@ -11,8 +11,8 @@ tags:: [[FOSS]] [[Drawing]] [[notes]]
 	  glab release download --repo dehesselle/rnote_macos --asset-name "*$(uname -p)*.dmg"
 	  DMG_FILENAME=$(ls)
 	  hdiutil attach $DMG_FILENAME
-	  cp -r /Volumes/Rnote/Rnote.app /Applications
-	  hdiutil detach Logseq-darwin-x64-0.10.5.dmg
+	  cp -r /Volumes/Rnote/Rnote.app /Applications/
+	  hdiutil detach $DMG_FILENAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
