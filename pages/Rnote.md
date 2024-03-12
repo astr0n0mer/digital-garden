@@ -8,5 +8,6 @@ tags:: [[FOSS]] [[Drawing]] [[notes]]
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
-	  glab release download --repo dehesselle/rnote_macos --asset-name "*$(uname -p)*"
+	  glab release download --repo dehesselle/rnote_macos --asset-name "*$(uname -p)*.dmg"
+	  DMG_FILENAME=$(ls)
 	  ```
