@@ -6,5 +6,7 @@ tags:: [[FOSS]] [[Drawing]] [[notes]]
 -
 - Install on [[macOS]] with [[glab]]
 	- ```bash
-	  glab release download --repo dehesselle/rnote_macos --asset-name "*$(uname -p)*" --dir="~/.local/bin"
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  glab release download --repo dehesselle/rnote_macos --asset-name "*$(uname -p)*"
 	  ```
