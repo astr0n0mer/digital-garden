@@ -12,7 +12,7 @@ tags:: [[FOSS]] [[Drawing]] [[notes]]
 	  DMG_FILENAME=$(ls)
 	  hdiutil attach $DMG_FILENAME
 	  cp -r /Volumes/Rnote/Rnote.app /Applications/
-	  hdiutil detach $DMG_FILENAME
+	  hdiutil detach "/Volumes/Rnote"
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
