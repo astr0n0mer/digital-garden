@@ -61,7 +61,7 @@
 	  CLOCK: [2023-12-31 Sun 21:34:24]--[2024-02-13 Tue 00:28:43] =>  1034:54:19
 	  :END:
 	- DOING [#C] [[FiraCode]]
-	  DEADLINE: <2024-03-09 Sat>
+	  DEADLINE: <2024-03-16 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-02-13 Tue 00:28:24]
 	  CLOCK: [2024-02-13 Tue 00:28:26]
