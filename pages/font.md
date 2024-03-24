@@ -23,7 +23,8 @@
 	   !@#$%^&*()_+ {}|:"<>?`
 	  
 	  `== != === !== <= >=
-	   !! ?? && || -> <-`
+	   ++ -- ** !! ?? && || **
+	   -> <- <->`
 	  
 	  // ABCDEFGHIJKLMNOPQRSTUVWXYZ
 	  // abcdefghijklmnopqrstuvwxyz
