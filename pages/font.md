@@ -23,13 +23,17 @@
 	   !@#$%^&*()_+ {}|:"<>?`
 	  
 	  `== != === !== <= >=
-	   ++ -- ** !! ?? && || **
+	   ++ -- ** !! ?? && || ##
 	   -> <- <->`
 	  
 	  // ABCDEFGHIJKLMNOPQRSTUVWXYZ
 	  // abcdefghijklmnopqrstuvwxyz
 	  // 1234567890-= []\;',./
 	  // !@#$%^&*()_+ {}|:"<>?
+	  
+	  // == != === !== <= >=
+	  // ++ -- ** !! ?? && || ##
+	  // -> <- <->
 	  
 	  // https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 	  class LWWRegister<T> {
