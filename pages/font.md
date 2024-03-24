@@ -22,6 +22,9 @@
 	   1234567890-= []\;',./
 	   !@#$%^&*()_+ {}|:"<>?`
 	  
+	  `== != === !==
+	   -> <-`
+	  
 	  // ABCDEFGHIJKLMNOPQRSTUVWXYZ
 	  // abcdefghijklmnopqrstuvwxyz
 	  // 1234567890-= []\;',./
