@@ -8,4 +8,3 @@ tags:: [[font]] [[Nerd Font]]
 	  # then just select Hack
 	  # the font is automatically installed and downloaded files are removed
 	  ```
--
