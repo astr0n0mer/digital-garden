@@ -68,11 +68,11 @@
 	  :LOGBOOK:
 	  CLOCK: [2023-12-31 Sun 21:34:24]--[2024-02-13 Tue 00:28:43] =>  1034:54:19
 	  :END:
-	- DOING [#C] [[FiraCode]]
+	- DONE [#C] [[FiraCode]]
 	  DEADLINE: <2024-03-16 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-02-13 Tue 00:28:24]
-	  CLOCK: [2024-02-13 Tue 00:28:26]
+	  CLOCK: [2024-02-13 Tue 00:28:26]--[2024-03-24 Sun 15:52:19] =>  975:23:53
 	  :END:
 -
 - Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[css]]
