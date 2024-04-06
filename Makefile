@@ -24,6 +24,13 @@ rm-conflicts:
 		echo "no conflict files"; \
 	fi
 
+.PHONY: publish
+publish:
+	cd ~/projects/digital-garden && \
+	git add www && \
+	git commit -m "Manual push"
+	$(make) cron
+
 .PHONY: cron
 cron:
 	cd ~/projects/digital-garden && \
