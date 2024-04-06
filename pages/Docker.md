@@ -1,5 +1,5 @@
 -
-- [Install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) on [[Linux]]
+- [Install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) on [[Ubuntu]] [[Linux]]
 	- ```bash
 	  # Add Docker's official GPG key:
 	  sudo apt-get update
