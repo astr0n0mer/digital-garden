@@ -2,6 +2,9 @@
 - Install on [[Linux]]
 	- ```bash
 	  sudo apt-get install postgresql
+	  # At this point, postgresql is installed and a default user has been set up
+	  # but you don't know the default password
+	  # so login as your current system user and change the default password
 	  ```
 	- [How to set the default user password in PostgreSQL](https://chartio.com/resources/tutorials/how-to-set-the-default-user-password-in-postgresql/)
 		- ```bash
