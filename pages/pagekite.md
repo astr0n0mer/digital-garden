@@ -13,4 +13,4 @@ tags:: [[local-tunneling]] [[FOSS]] [[Self Host]]
 	  ```
 -
 - [How does it work?](https://pagekite.net/#h2hdiw)
-  @@html: @@
+  @@html: <img src="https://pagekite.net/uploads/5ad7aef2-8711861_pk-ascii-ss2.png" alt="How does pagekite work" class="" />@@
