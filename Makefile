@@ -34,8 +34,8 @@ publish:
 .PHONY: cron
 cron:
 	cd ~/projects/digital-garden && \
-		echo "$(shell date)" >> ./bak/crontab.logs 2>&1 && \
-		git push >> ./bak/crontab.logs 2>&1 && \
+		echo "$(shell date)" >> ./bak/crontab.log 2>&1 && \
+		git push >> ./bak/crontab.log 2>&1 && \
 		${TERMINAL_NOTIFIER} \
 		-title digital-garden \
 		-message "pushed to GitHub" \
