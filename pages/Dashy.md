@@ -4,7 +4,7 @@
 - [Quick Start](https://dashy.to/docs/quick-start/)
 -
 - ## Updating Dashy dashboard
-- Use the [[Makefile]] in [my .dotfiles](https://github.com/astr0n0mer/.dotfiles/blob/6c81fcf2fea6e442202d9c6636c804eb5c8bc85a/.config/dashy/Makefile#L16) to `start`/`stop` the Dashy [[container]]
+- Use the [[Makefile]] in [my .dotfiles](https://github.com/astr0n0mer/.dotfiles/blob/main/.config/dashy/Makefile) to `start`/`stop` the Dashy [[container]]
   logseq.order-list-type:: number
-- Make changes through the UI at [http://localhost:4000/](http://localhost:4000/) or directly in `~/.config/dashy/conf.yml`
+- Make changes through the UI at [http://localhost:8080/](http://localhost:8080/) or directly in `~/.config/dashy/conf.yml`
   logseq.order-list-type:: number
