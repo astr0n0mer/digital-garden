@@ -1,4 +1,4 @@
-tags:: [[Android]]
+tags:: [[Android]] [[mysetup]]
 
 - [Acode](https://f-droid.org/repository/browse/?fdid=com.foxdebug.acode)
 - [Airtel](https://play.google.com/store/apps/details?id=com.myairtelapp)
@@ -61,4 +61,4 @@ tags:: [[Android]]
 - [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 - [YouTube](https://play.google.com/store/apps/details?id=app.revanced.android.youtube) 
   
-  List made using [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps) #mysetup
+  List made using [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)

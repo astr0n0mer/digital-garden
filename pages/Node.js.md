@@ -1,6 +1,6 @@
-tags:: [[JavaScript]] [[runtime]]
+tags:: [[JavaScript]] [[runtime]] [[mysetup]]
 
-- #mysetup
+-
 -
 - Install with [[nvm]]
 	- ```bash
