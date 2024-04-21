@@ -1,1 +1,3 @@
-- [F-Droid](https://f-droid.org/) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. #[[Android/App Distributor]] #FOSS #mysetup
+tags:: [[Android/App Distributor]] [[FOSS]] [[mysetup]]
+
+- [F-Droid](https://f-droid.org/) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
