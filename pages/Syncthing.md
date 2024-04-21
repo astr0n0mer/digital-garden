@@ -1,4 +1,6 @@
-- [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, over the same network. #FOSS #mysetup #network-sync
+tags:: [[FOSS]] [[network-sync]] [[mysetup]]
+
+- [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, over the same network.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing)
   @@html: <a href="https://github.com/syncthing/syncthing/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=syncthing&repo=syncthing&theme=tokyonight" alt="syncthing/syncthing/"/></a>@@
 -

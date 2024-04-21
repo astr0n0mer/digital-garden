@@ -1,6 +1,6 @@
-tags:: [[GitHub]] [[CLI]]
+tags:: [[GitHub]] [[CLI]] [[mysetup]]
 
-- [gh](https://github.com/cli/cli) is [[GitHub]] on the command line. It brings pull requests, issues, and other GitHub concepts to the [[Terminal]] next to where you are already working with  [[Git]]  and your code. #mysetup #Shell/command
+- [gh](https://github.com/cli/cli) is [[GitHub]] on the command line. It brings pull requests, issues, and other GitHub concepts to the [[Terminal]] next to where you are already working with  [[Git]]  and your code. #Shell/command
 - [cli/cli](https://github.com/cli/cli/)
   @@html: <a href="https://github.com/cli/cli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=cli&repo=cli&theme=tokyonight" alt="cli/cli/"/></a>@@
 -
