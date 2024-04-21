@@ -1,1 +1,3 @@
-- [Vimium](https://vimium.github.io/) is a [[Browser extension]] which provides keyboard shortcuts for navigation and control in the spirit of the [[Vim]] editor. #mysetup #productivity-tool
+tags:: [[productivity-tool]] [[mysetup]]
+
+- [Vimium](https://vimium.github.io/) is a [[Browser extension]] which provides keyboard shortcuts for navigation and control in the spirit of the [[Vim]] editor.
