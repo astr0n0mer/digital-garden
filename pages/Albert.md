@@ -1,5 +1,6 @@
--
-- [Albert](https://albertlauncher.github.io/) is a [[C++]]/ [[Qt]] based desktop agnostic keyboard [[Launcher]] that helps you to accomplish your workflows in a breeze. The goals are usability, performance, extensibility and beauty. #FOSS #mysetup
+tags:: [[mysetup]]
+
+- [Albert](https://albertlauncher.github.io/) is a [[C++]]/ [[Qt]] based desktop agnostic keyboard [[Launcher]] that helps you to accomplish your workflows in a breeze. The goals are usability, performance, extensibility and beauty. #FOSS
 -
 - [Install](https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert) on Linux
 	- ```bash
