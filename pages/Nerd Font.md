@@ -9,6 +9,5 @@ tags:: [[font]] [[mysetup]]
 - [Install getnf](https://github.com/ronniedroid/getnf/#installation)
 	- ```bash
 	  curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
-	  exec $SHELL
-	  getnf --help
+	  exec $SHELL -c "getnf --help"
 	  ```
