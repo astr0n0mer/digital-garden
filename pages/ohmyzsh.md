@@ -1,4 +1,4 @@
-tags:: [[Zsh]] [[Shell]]
+tags:: [[Zsh]] [[Shell]] [[mysetup]]
 
 - [Oh My Zsh](https://ohmyz.sh/) is a delightful, open source, community-driven framework for managing your [[Zsh]] configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes #FOSS #mysetup
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/)

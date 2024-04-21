@@ -1,6 +1,6 @@
-tags:: [[FOSS]] [[notes]] [[privacy]]
+tags:: [[FOSS]] [[notes]] [[privacy]] [[mysetup]]
 
-- [Logseq](https://logseq.com/) is a [[FOSS]], [[privacy]]-first toolbox for managing your [[notes]], ideas, and information with features like linked references, queries, search, [[flashcard]]s, and more, designed to help you think and write with confidence. #mysetup
+- [Logseq](https://logseq.com/) is a [[FOSS]], [[privacy]]-first toolbox for managing your [[notes]], ideas, and information with features like linked references, queries, search, [[flashcard]]s, and more, designed to help you think and write with confidence.
 - [logseq/logseq](https://github.com/logseq/logseq)
   @@html: <a href="https://github.com/logseq/logseq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=logseq&repo=logseq&theme=tokyonight" alt="logseq/logseq/"/></a>@@
 -
