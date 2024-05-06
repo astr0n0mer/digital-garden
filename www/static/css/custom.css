@@ -31,6 +31,14 @@
   font-family: "Hack Nerd Font", "cursive";
 }
 
+[id~="anonymouspro"] * {
+  font-family: "AnonymicePro Nerd Font", "cursive";
+}
+
+[id~="liberationmono"] * {
+  font-family: "LiterationMono Nerd Font", "cursive";
+}
+
 .article-cover {
   max-height: 250px;
 }
