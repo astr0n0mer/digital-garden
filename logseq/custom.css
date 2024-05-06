@@ -35,6 +35,10 @@
   font-family: "AnonymicePro Nerd Font", "cursive";
 }
 
+[id~="liberationmono"] * {
+  font-family: "AnonymicePro Nerd Font", "cursive";
+}
+
 .article-cover {
   max-height: 250px;
 }
