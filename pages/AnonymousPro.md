@@ -1,0 +1,1 @@
+tags:: [[Nerd Font]]
