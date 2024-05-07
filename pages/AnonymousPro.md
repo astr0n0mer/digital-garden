@@ -1,7 +1,6 @@
 tags:: [[Nerd Font]]
 
-- [_username_/_repo_](https://github.com/_username_/_repo_)
-  @@html: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AnonymousPro"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=_username_&repo=_repo_&theme=tokyonight" alt="_username_/_repo_"/></a>@@
+- [AnonymousPro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AnonymousPro)
 - ## Demo:
 	- {{embed ((d8603886-be5b-4ed9-9f0d-c433203b00d7))}}
 - ## Install
