@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[YouTube]]
+tags:: [[FOSS]] [[YouTube/Alternative]]
 
 - [Invidious](https://invidious.io/) is an open source [[alternative front-end]] to [[YouTube]].
   [iv-org/invidious](https://github.com/iv-org/invidious)
