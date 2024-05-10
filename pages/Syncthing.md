@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[network-sync]] [[mysetup]]
+tags:: [[FOSS]] [[network-sync]] [[Cross Platform]] [[mysetup]]
 
 - [Syncthing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, over the same network.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing)
@@ -8,7 +8,7 @@ tags:: [[FOSS]] [[network-sync]] [[mysetup]]
 	- Download [Syncthing-Fork](https://f-droid.org/repository/browse/?fdid=com.github.catfriend1.syncthingandroid) from [[F-Droid]]
 	- <ins>Note:</ins>Make sure you sync a folder **from** Android **to** Computer. Only this way the folder will be *send and receive* type. If you share **from** a Computer **to** Android the folder will just be *send* type in Android.
 -
-- [Install](https://apt.syncthing.net/) on [[Linux]]
+- [Install](https://apt.syncthing.net/) on Linux
 	- ```bash
 	  # Add the release PGP keys:
 	  sudo mkdir -p /etc/apt/keyrings
@@ -22,7 +22,7 @@ tags:: [[FOSS]] [[network-sync]] [[mysetup]]
 	  sudo apt-get install syncthing
 	  ```
 -
-- Install on [[macOS]] (with [[Silicon chip]])
+- Install on macOS (with [[Silicon chip]])
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
