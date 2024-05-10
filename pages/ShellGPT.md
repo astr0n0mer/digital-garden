@@ -1,3 +1,7 @@
-tags:: [[GPT]] [[Terminal]] [[FOSS]]
+tags:: [[GPT]] [[FOSS]] [[CLI]]
 
-- [ShellGPT](): A command-line productivity tool powered by AI large language models (LLM). This command-line tool offers streamlined generation of shell commands, code snippets, documentation, eliminating the need for external resources
+- A command-line productivity tool powered by AI large language models (LLM). This command-line tool offers streamlined generation of shell commands, code snippets, documentation, eliminating the need for external resources.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+  @@html: <a href="https://github.com/TheR1D/shell_gpt/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=TheR1D&repo=shell_gpt&theme=tokyonight" alt="TheR1D/shell_gpt"/></a>@@
+-
+-
