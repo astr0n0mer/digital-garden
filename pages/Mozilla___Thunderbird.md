@@ -1,1 +1,1 @@
-- [Thunderbird](https://www.thunderbird.net/en-US/)
+- [Thunderbird](https://www.thunderbird.net/)
