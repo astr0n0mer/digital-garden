@@ -1,1 +1,2 @@
-- https://github.com/ggerganov/whisper.cpp/tree/master
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+  @@html: <a href="https://github.com/ggerganov/whisper.cpp/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ggerganov&repo=whisper.cpp&theme=tokyonight" alt="ggerganov/whisper.cpp"/></a>@@
