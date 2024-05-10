@@ -11,4 +11,5 @@ tags:: [[GPT]] [[FOSS]] [[CLI]]
 	  ```
 -
 - Review
+  background-color:: red
 	- Got [429 Too many requests](https://github.com/TheR1D/shell_gpt/wiki#429-too-many-requests) error. Learned that OpenAI API does not have a free tier and has different pricing than ChatGPT at chatgpt.com
