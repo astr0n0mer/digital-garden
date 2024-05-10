@@ -2,4 +2,5 @@
   #[[YouTube/Channel]] #[[Software Engineering]] 
   [YouTube](https://www.youtube.com/@ByteByteGo)
 -
-- https://github.com/ByteByteGoHq/system-design-101
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+  @@html: <a href="https://github.com/ByteByteGoHq/system-design-101/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ByteByteGoHq&repo=system-design-101&theme=tokyonight" alt="ByteByteGoHq/system-design-101"/></a>@@
