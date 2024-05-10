@@ -1,1 +1,1 @@
-tags:: [[Google]] [[Cloud]]
+tags:: [[Cloud]]
