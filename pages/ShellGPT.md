@@ -1,4 +1,4 @@
-tags:: [[GPT]] [[FOSS]] [[CLI]] [[mysetup]]
+tags:: [[GPT]] [[FOSS]] [[CLI]]
 
 - A command-line productivity tool powered by AI large language models (LLM). This command-line tool offers streamlined generation of shell commands, code snippets, documentation, eliminating the need for external resources.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
@@ -9,3 +9,6 @@ tags:: [[GPT]] [[FOSS]] [[CLI]] [[mysetup]]
 	  pipx install shell-gpt
 	  which sgpt
 	  ```
+-
+- Review
+	- Got [429 Too many requests](https://github.com/TheR1D/shell_gpt/wiki#429-too-many-requests) error. Learned that OpenAI API does not have a free tier and has different pricing than ChatGPT at chatgpt.com
