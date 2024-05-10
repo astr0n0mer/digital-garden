@@ -7,4 +7,5 @@ tags:: [[GPT]] [[FOSS]] [[CLI]] [[mysetup]]
 - [Install](https://github.com/TheR1D/shell_gpt#installation)
 	- ```bash
 	  pipx install shell-gpt
+	  which sgpt
 	  ```
