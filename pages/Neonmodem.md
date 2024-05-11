@@ -4,7 +4,7 @@ tags:: [[Hacker News]] [[FOSS]] [[mysetup]]
   [mrusme/neonmodem](https://github.com/mrusme/neonmodem)
   @@html: <a href="https://github.com/mrusme/neonmodem/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=mrusme&repo=neonmodem&theme=tokyonight" alt="mrusme/neonmodem"/></a>@@
 -
-- [Install](https://github.com/mrusme/neonmodem#installation) on [[macOS]]
+- [Install](https://github.com/mrusme/neonmodem#installation) on macOS
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
