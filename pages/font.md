@@ -75,4 +75,4 @@
 	  CLOCK: [2024-02-13 Tue 00:28:26]--[2024-03-24 Sun 15:52:19] =>  975:23:53
 	  :END:
 -
-- Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[css]]
+- Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[CSS]]
