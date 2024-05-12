@@ -1,4 +1,5 @@
 ## \IN-PROGRESS -- priority
+- {{query (task NOW IN-PROGRESS DOING)}}
 - {{query (and (task DOING IN-PROGRESS NOW) (not (priority C)))}}
   query-table:: false
 -
