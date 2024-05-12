@@ -1,0 +1,2 @@
+- [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai)
+  @@html: <a href="https://github.com/meetbryce/open-source-slack-ai/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=meetbryce&repo=open-source-slack-ai&theme=tokyonight" alt="meetbryce/open-source-slack-ai"/></a>@@
