@@ -1,4 +1,4 @@
-tags:: [[GPT]] [[FOSS]] [[CLI]]
+tags:: [[ChatGPT]] [[FOSS]] [[CLI]]
 
 - A command-line productivity tool powered by AI large language models (LLM). This command-line tool offers streamlined generation of shell commands, code snippets, documentation, eliminating the need for external resources.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
