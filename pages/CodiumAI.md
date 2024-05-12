@@ -1,3 +1,3 @@
-tags:: [[VS Code/Extension]]
+tags:: [[VS Code/Extension]] [[Coding Assistant]]
 
 -
