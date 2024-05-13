@@ -1,3 +1,3 @@
-- ![ on YouTube]()
+- ![Flash Bytes on YouTube]()
   #[[YouTube/Channel]]
-  [YouTube](https://www.youtube.com/@)
+  [YouTube](https://www.youtube.com/@FlashBytesYT)
