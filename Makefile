@@ -27,7 +27,7 @@ rm-conflicts:
 .PHONY: publish
 publish:
 	cd ~/projects/digital-garden && \
-	git add * && \
+	git add www && \
 	git commit -m "Manual push" && \
 	make -f ~/projects/digital-garden/Makefile cron
 
