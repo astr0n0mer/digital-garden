@@ -1,0 +1,2 @@
+- [The Open Graph protocol](https://ogp.me/)
+- [Generate Open Graph Meta Tags](https://www.opengraph.xyz/)
