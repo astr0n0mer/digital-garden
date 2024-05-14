@@ -14,4 +14,3 @@
 -
 - ## \TODO
 - {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)))}}
-  collapsed:: true
