@@ -1,4 +1,4 @@
-tags:: [[Local LLM]]
+tags:: [[FOSS]] [[Local LLM]]
 
 - [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
 - ![LM Studio](https://lmstudio.ai/static/media/demo2.9df5a0e5a9f1d72715e0.gif)
