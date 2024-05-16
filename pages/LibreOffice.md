@@ -11,9 +11,10 @@ tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 	  cd $TEMP_DIR
 	  curl -L $DOWNLOAD_URL --output $DOWNLOADED_FILE_NAME
 	  hdiutil attach $DOWNLOADED_FILE_NAME
-	  APP_FILE=$(find /Volumes/* -name "*.app" -maxdepth 2 -print -quit)
+	  VOLUME_NAME=$(ls /Volumes | grep -v "Macintosh HD" | grep -v -E '[0-9]+')
+	  APP_FILE=$(find /Volumes/$VOLUME_NAME -name "*.app" -maxdepth 2 -print -quit)
 	  cp -r $APP_FILE /Applications/
-	  hdiutil detach $DOWNLOADED_FILE_NAME
+	  hdiutil detach $VOLUME_NAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
