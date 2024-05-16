@@ -12,6 +12,7 @@ tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 	  curl -L $DOWNLOAD_URL --output $DOWNLOADED_FILE_NAME
 	  # below commands are untested
 	  hdiutil attach $DOWNLOADED_FILE_NAME
+	  APP_FILE=find /Volumes/* -name "*.app"
 	  cp /Volumes/LibreOffice /Applications
 	  hdiutil detach $DOWNLOADED_FILE_NAME
 	  popd > /dev/null
