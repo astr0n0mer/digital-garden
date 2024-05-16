@@ -24,6 +24,9 @@ tags:: [[FOSS]] [[network-sync]] [[Cross Platform]] [[mysetup]]
 -
 - Install on macOS (with [[Silicon chip]])
 	- ```bash
+	  brew install syncthing
+	  ```
+	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L https://github.com/syncthing/syncthing/releases/download/v1.27.2/syncthing-macos-arm64-v1.27.2.zip --output "syncthing-macos-arm64-v1.27.2.zip"
