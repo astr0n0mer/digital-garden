@@ -1,1 +1,1 @@
-tags:: [[Code/Editor]] [[mysetup]]
+tags:: [[Proprietary]] [[Code/Editor]] [[mysetup]]
