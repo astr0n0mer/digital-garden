@@ -12,7 +12,7 @@ tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 	  curl -L $DOWNLOAD_URL --output $DOWNLOADED_FILE_NAME
 	  # below commands are untested
 	  hdiutil attach $DOWNLOADED_FILE_NAME
-	  cp /Volumes/Logseq.app /Applications
+	  cp /Volumes/LibreOffice /Applications
 	  hdiutil detach $DOWNLOADED_FILE_NAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
