@@ -1,4 +1,4 @@
-tags:: [[FOSS]]
+tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 
 - [LibreOffice](https://www.libreoffice.org/) is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).
 -
@@ -11,9 +11,9 @@ tags:: [[FOSS]]
 	  cd $TEMP_DIR
 	  curl -L $DOWNLOAD_URL --output $DOWNLOADED_FILE_NAME
 	  # below commands are untested
-	  hdiutil attach Logseq-darwin-x64-0.10.5.dmg
+	  hdiutil attach $DOWNLOADED_FILE_NAME
 	  cp /Volumes/Logseq.app /Applications
-	  hdiutil detach Logseq-darwin-x64-0.10.5.dmg
+	  hdiutil detach $DOWNLOADED_FILE_NAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
 	  ```
