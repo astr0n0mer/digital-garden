@@ -10,10 +10,9 @@ tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
 	  curl -L $DOWNLOAD_URL --output $DOWNLOADED_FILE_NAME
-	  # below commands are untested
 	  hdiutil attach $DOWNLOADED_FILE_NAME
 	  APP_FILE=$(find /Volumes/* -name "*.app" | head -n 1)
-	  cp /Volumes/LibreOffice /Applications
+	  cp -r $APP_FILE /Applications/
 	  hdiutil detach $DOWNLOADED_FILE_NAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
