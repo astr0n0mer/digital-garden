@@ -3,6 +3,9 @@ tags:: [[Proprietary]] [[Code/Editor]] [[mysetup]]
 -
 - Install on macOs
 	- ```bash
+	  brew install --cask visual-studio-code
+	  ```
+	- ```bash
 	  DOWNLOAD_URL="https://update.code.visualstudio.com/latest/darwin-arm64/stable"
 	  DOWNLOADED_FILE_NAME="VSCode-darwin-arm64.zip"
 	  
