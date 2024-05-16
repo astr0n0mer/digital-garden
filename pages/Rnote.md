@@ -4,7 +4,7 @@ tags:: [[FOSS]] [[Drawing]] [[notes]]
   [flxzt/rnote](https://github.com/flxzt/rnote)
   @@html: <a href="https://github.com/flxzt/rnote/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=flxzt&repo=rnote&theme=tokyonight" alt="flxzt/rnote"/></a>@@
 -
-- Install on [[macOS]] with [[glab]]
+- Install on macOS with [[glab]]
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR

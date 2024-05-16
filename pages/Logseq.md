@@ -15,7 +15,7 @@ tags:: [[FOSS]] [[notes]] [[privacy]] [[mysetup]]
 	  rm -r $TEMP_DIR
 	  ```
 -
-- Install on [[macOS]]
+- Install on macOS
 	- ```bash
 	  brew install --cask logseq
 	  ```

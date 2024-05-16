@@ -4,7 +4,7 @@ tags:: [[macOS]] [[Backup]] [[Restore]]
   [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
   @@html: <a href="https://github.com/SijanC147/macprefs/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=SijanC147&repo=macprefs&theme=tokyonight" alt="SijanC147/macprefs"/></a>@@
 -
-- [Install](https://github.com/SijanC147/macprefs#installation) on [[macOS]] using [[Homebrew]]
+- [Install](https://github.com/SijanC147/macprefs#installation) on macOS using [[Homebrew]]
 	- ```bash
 	  brew install sijanc147/formulas/macprefs
 	  

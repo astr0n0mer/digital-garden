@@ -4,7 +4,7 @@ tags:: [[local-tunneling]] [[FOSS]] [[Self Host]]
   [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite)
   @@html: <a href="https://github.com/pagekite/PyPagekite/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=pagekite&repo=PyPagekite&theme=tokyonight" alt="pagekite/PyPagekite"/></a>@@
 -
-- [Install](https://pagekite.net/downloads) on [[macOS]]
+- [Install](https://pagekite.net/downloads) on macOS
 	- ```bash
 	  curl -O https://pagekite.net/pk/pagekite.py
 	  

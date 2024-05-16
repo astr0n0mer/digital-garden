@@ -15,7 +15,7 @@ tags:: [[FOSS]] [[JSON]]
 	  jq --version
 	  ```
 -
-- Install on [[macOS]]
+- Install on macOS
 	- ```bash
 	  brew install jq
 	  jq --version
