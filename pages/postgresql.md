@@ -1,5 +1,5 @@
 -
-- Install on [[Linux]]
+- Install on Linux
 	- ```bash
 	  sudo apt-get install postgresql
 	  # At this point, postgresql is installed and a default user has been set up

@@ -4,7 +4,7 @@ tags:: [[FOSS]] [[notes]] [[privacy]] [[mysetup]]
 - [logseq/logseq](https://github.com/logseq/logseq)
   @@html: <a href="https://github.com/logseq/logseq/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=logseq&repo=logseq&theme=tokyonight" alt="logseq/logseq/"/></a>@@
 -
-- Install on [[Linux]]
+- Install on Linux
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
@@ -16,6 +16,9 @@ tags:: [[FOSS]] [[notes]] [[privacy]] [[mysetup]]
 	  ```
 -
 - Install on [[macOS]]
+	- ```bash
+	  brew install --cask logseq
+	  ```
 	- ```bash
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR

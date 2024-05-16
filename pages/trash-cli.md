@@ -19,7 +19,7 @@
 	  done
 	  ```
 -
-- Uninstall on [[Linux]]
+- Uninstall on [[Linux]] Linux
 	- ```bash
 	  pipx uninstall trash-cli
 	  pipx uninstall 'trash-cli[completion]'
