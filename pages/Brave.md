@@ -17,3 +17,8 @@ tags:: [[Browser]]
 	  # Update Brave
 	  # sudo apt-get install --only-upgrade brave-browser
 	  ```
+-
+- Install on macOS:
+	- ```bash
+	  brew install --cask brave-browser
+	  ```
