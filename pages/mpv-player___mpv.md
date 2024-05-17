@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Media Player]]
+tags:: [[FOSS]] [[Video/Player]]
 
 - [mpv](https://mpv.io/) is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. It is based on the MPlayer and mplayer2 projects which it greatly improves.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv)
@@ -6,4 +6,5 @@ tags:: [[FOSS]] [[Media Player]]
 -
 - Install on macOS:
 	- ```bash
+	  brew install mpv
 	  ```
