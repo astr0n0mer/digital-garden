@@ -1,4 +1,4 @@
-tags:: [[Hacker News]] [[FOSS]] [[mysetup]]
+tags:: [[Hacker News]] [[FOSS]]
 
 - [Neon Modem Overdrive](https://neonmodem.com/) is a BBS-style [[CLI]] client that supports [[Discourse]], [[Lemmy]], [[Lobsters]] and [[Hacker News]] as backends, and seamlessly integrates all of them into a streamlined [[TUI]].
   [mrusme/neonmodem](https://github.com/mrusme/neonmodem)
