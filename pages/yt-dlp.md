@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Video/Player]] [[Audio/Player]] [[YouTube/Download]] [[CLI]]
+tags:: [[FOSS]] [[YouTube/Download]] [[CLI]]
 
 - A feature-rich command-line audio/video downloader
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
