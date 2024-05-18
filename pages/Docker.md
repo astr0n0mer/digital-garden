@@ -36,3 +36,6 @@
 	  apt install docker-compose
 	  docker-compose --version
 	  ```
+-
+- Install on macOS:
+	-
