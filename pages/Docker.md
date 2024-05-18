@@ -38,4 +38,7 @@
 	  ```
 -
 - Install on macOS:
-	-
+	- ```bash
+	  brew install docker
+	  brew install docker-compose
+	  ```
