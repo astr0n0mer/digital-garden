@@ -1,3 +1,3 @@
-- ![Dispatch on YouTube](https://t3.ftcdn.net/jpg/02/96/05/52/360_F_296055218_RXc721N9fSYIz3sEV7QALYquMVP31jdJ.jpg)
+- ![Dispatch on YouTube](https://sgp-cstore-pub.maxhub.com/maxhub_global_public/product-page/uw_series/zip/img/product-mask.png)
   #[[YouTube/Channel]]
   [YouTube](https://www.youtube.com/@sagaratytube)
