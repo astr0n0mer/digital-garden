@@ -1,2 +1,3 @@
 - [Email.ML](https://email.ml/)
+- [Guerrilla Mail](https://www.guerrillamail.com/) #FOSS
 - [Temp Mail](https://temp-mail.org/)
