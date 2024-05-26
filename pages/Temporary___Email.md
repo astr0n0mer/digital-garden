@@ -1,1 +1,2 @@
+- [Email.ML](https://email.ml/)
 - [Temp Mail](https://temp-mail.org/)
