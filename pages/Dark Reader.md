@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Dark Mode]] [[Browser/Extension]]
+tags:: [[FOSS]] [[Dark Mode]] [[Browser/Extension]] [[mysetup]]
 
 - [Dark Reader](https://darkreader.org/) is an open-source MIT-licensed browser extension designed to analyze web pages.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader)
