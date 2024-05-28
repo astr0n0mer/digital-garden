@@ -8,5 +8,5 @@ tags:: [[FOSS]] [[GitHub]] [[CLI]] [[gh/Extension]]
 - [Install](https://github.com/dlvhdr/gh-dash#-installation)
 	- ```bash
 	  gh extension install dlvhdr/gh-dash
-	  gh dash
+	  gh dash --help
 	  ```
