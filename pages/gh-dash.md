@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[GitHub]] [[CLI]]
+tags:: [[FOSS]] [[GitHub]] [[CLI]] [[gh/Extension]]
 
 - [gh-dash](https://dlvhdr.github.io/gh-dash/): A GitHub (`gh`) CLI extension to display a dashboard with pull requests and issues by filters you care about.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
