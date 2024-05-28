@@ -1,3 +1,2 @@
 - [Mailvelope](https://mailvelope.com/)
-- @@html: <img src="https://mailvelope.com/img/Mailvelope/hero_illustration.svg" alt="Mailvelope"/>@@
-- @@html: @@
+- @@html: <iframe src="https://mailvelope.com/" class="browser-tab"></iframe>@@
