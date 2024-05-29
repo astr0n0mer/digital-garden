@@ -4,4 +4,7 @@ tags:: [[FOSS]] [[CLI]]
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
   @@html: <a href="https://github.com/fastfetch-cli/fastfetch/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=fastfetch-cli&repo=fastfetch&theme=tokyonight" alt="fastfetch-cli/fastfetch"/></a>@@
 -
--
+- [Install](https://github.com/fastfetch-cli/fastfetch#installation)
+	- ```bash
+	  brew install fastfetch
+	  ```
