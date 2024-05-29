@@ -7,4 +7,5 @@ tags:: [[FOSS]] [[CLI]]
 - [Install](https://github.com/fastfetch-cli/fastfetch#installation)
 	- ```bash
 	  brew install fastfetch
+	  fastfetch
 	  ```
