@@ -1,1 +1,1 @@
-- [Plotly's](https://plotly.com/python/) Python graphing library makes interactive, publication-quality graphs. #data-visualization
+- [Plotly's](https://plotly.com/python/) Python graphing library makes interactive, publication-quality graphs. #Data/Visualization

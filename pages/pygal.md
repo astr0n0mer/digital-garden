@@ -1,3 +1,3 @@
 tags:: [[python]]
 
-- [pygal](https://www.pygal.org/) is a Python module that is mainly used to build SVG (Scalar Vector Graphics) graphs and charts. #data-visualization
+- [pygal](https://www.pygal.org/) is a Python module that is mainly used to build SVG (Scalar Vector Graphics) graphs and charts. #Data/Visualization
