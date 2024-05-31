@@ -4,6 +4,9 @@ tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
 -
 - Install on macOS
 	- ```bash
+	  brew install --cask libreoffice
+	  ```
+	- ```bash
 	  DOWNLOAD_URL="https://download.documentfoundation.org/libreoffice/stable/24.2.3/mac/aarch64/LibreOffice_24.2.3_MacOS_aarch64.dmg"
 	  DOWNLOADED_FILE_NAME=$(basename $DOWNLOAD_URL)
 	  
