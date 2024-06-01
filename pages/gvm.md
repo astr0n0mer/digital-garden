@@ -7,6 +7,6 @@ tags:: [[Go]] [[version-manager]]
 - [Install](https://github.com/moovweb/gvm#installing)
 	- ```bash
 	  # TODO install bison first
-	  $SHELL < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+	  curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | $SHELL
 	  gvm --help
 	  ```
