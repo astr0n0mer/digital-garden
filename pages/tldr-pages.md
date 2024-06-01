@@ -8,5 +8,8 @@ tags:: [[mysetup]]
 -
 - [Install](https://github.com/tldr-pages/tldr/#how-do-i-use-it) on Linux and macOS
 	- ```bash
+	  brew install tldr
+	  ```
+	- ```bash
 	  npm install -g tldr
 	  ```
