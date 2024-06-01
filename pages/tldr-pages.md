@@ -11,7 +11,7 @@ tags:: [[mysetup]]
 	  # to install the official rust client
 	  brew install tlrc
 	  
-	  # to install the python client
+	  # to install the nodejs/python client
 	  brew install tldr
 	  ```
 	- ```bash
