@@ -1,9 +1,9 @@
-tags:: [[Programming/Language]]
+tags:: [[Programming/Language]] [[Google]]
 
 -
 -
-- Install with [[gvm]]
+- Install with [[stefanmaric/g]]
 	- ```bash
-	  # TODO install gvm first
-	  
+	  gvm install latest
+	  go version
 	  ```
