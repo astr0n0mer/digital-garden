@@ -1,4 +1,4 @@
-tags:: [[Go]] [[version-manager]]
+tags:: [[Unmaintained]] [[Go]] [[version-manager]]
 
 - [gvm](https://github.com/moovweb/gvm): Go Version Manager #Shell/command
 - [moovweb/gvm](https://github.com/moovweb/gvm)
@@ -6,7 +6,7 @@ tags:: [[Go]] [[version-manager]]
 -
 - [Install](https://github.com/moovweb/gvm#installing)
 	- ```bash
-	  # TODO install bison first
+	  # TODO maybe install bison first
 	  curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | $SHELL
 	  gvm --help
 	  ```
