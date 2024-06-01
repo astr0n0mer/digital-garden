@@ -8,6 +8,10 @@ tags:: [[mysetup]]
 -
 - [Install](https://github.com/tldr-pages/tldr/#how-do-i-use-it) on Linux and macOS
 	- ```bash
+	  # to install the official rust client
+	  brew install tlrc
+	  
+	  # to install the python client
 	  brew install tldr
 	  ```
 	- ```bash
