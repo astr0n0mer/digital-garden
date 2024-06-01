@@ -2,7 +2,7 @@ tags:: [[Unmaintained]] [[Go]] [[version-manager]]
 
 - NOTE: Unmaintained project
   background-color:: red
-- [gvm](https://github.com/moovweb/gvm): Go Version Manager #Shell/command
+- [gvm](https://github.com/moovweb/gvm): Go Version Manager
 - [moovweb/gvm](https://github.com/moovweb/gvm)
   @@html: <a href="https://github.com/moovweb/gvm/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=moovweb&repo=gvm&theme=tokyonight" alt="moovweb/gvm"/></a>@@
 -
