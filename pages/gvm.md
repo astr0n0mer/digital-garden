@@ -8,4 +8,5 @@ tags:: [[Go]] [[version-manager]]
 	- ```bash
 	  # TODO install bison first
 	  $SHELL < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+	  gvm --help
 	  ```
