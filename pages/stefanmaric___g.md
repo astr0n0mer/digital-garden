@@ -52,5 +52,4 @@ tags:: [[Go]] [[Version Manager]]
 	  #      installed: go version go1.22.3 darwin/arm64
 	  
 	  gvm --help
-	  go version
 	  ```
