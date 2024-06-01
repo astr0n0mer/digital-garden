@@ -1,3 +1,4 @@
-tags:: [[version-manager]]
+tags:: [[Go]] [[version-manager]]
 
+- Go Version Manager
 -
