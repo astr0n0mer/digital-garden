@@ -7,3 +7,5 @@ tags:: [[GitHub/Action]]
 - [[Paper.js]]
   ![Paper.js](https://githubnext.com/assets/projects/repo-visualization/paperjs.svg)
 -
+- [[numpy]]
+  ![numpy](https://githubnext.com/assets/projects/repo-visualization/numpy.svg)
