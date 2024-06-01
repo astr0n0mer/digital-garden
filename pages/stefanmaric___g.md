@@ -1,4 +1,4 @@
-tags:: [[Go]] [[version-manager]]
+tags:: [[Go]] [[Version Manager]]
 
 - [stefanmaric/g](https://github.com/stefanmaric/g)
   @@html: <a href="https://github.com/stefanmaric/g/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=stefanmaric&repo=g&theme=tokyonight" alt="stefanmaric/g"/></a>@@

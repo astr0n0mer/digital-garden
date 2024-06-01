@@ -1,4 +1,4 @@
-tags:: [[Unmaintained]] [[Go]] [[version-manager]]
+tags:: [[Unmaintained]] [[Go]] [[Version Manager]]
 
 - NOTE: Unmaintained project
   background-color:: red
