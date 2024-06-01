@@ -6,4 +6,7 @@ tags:: [[Go]] [[Version Manager]]
 - [Install](https://github.com/stefanmaric/g#single-line-installation)
 	- ```bash
 	  curl -sSL https://git.io/g-install | sh -s
+	  # follow the prompts
+	  # I set the 
+	  gvm --help
 	  ```
