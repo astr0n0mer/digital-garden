@@ -1,4 +1,4 @@
-tags:: [[Email]]
+tags:: [[Email/Provider]]
 
 - [Proton Mail](https://proton.me/mail)
 -

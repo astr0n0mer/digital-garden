@@ -1,3 +1,3 @@
-tags:: [[Email/Client]]
+tags:: [[Email/Provider]]
 
 - [Disroot](https://disroot.org/)
