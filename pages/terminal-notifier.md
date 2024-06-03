@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[mysetup]]
+tags:: [[Notification]] [[CLI]]
 
 - [terminal-notifier](https://github.com/julienXX/terminal-notifier) is a [[CLI]] tool to send [[macOS]] User [[Notification]]s, which are available on macOS 10.10 and higher. #Shell/command
   [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier)

@@ -1,3 +1,3 @@
-tags:: [[FOSS]] [[Code/Editor]]
+tags:: [[Code/Editor]]
 
 -
