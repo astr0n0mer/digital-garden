@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Browser]] [[mysetup]]
+tags:: [[Browser]]
 
 - [Brave](https://brave.com/) is a FOSS web browser developed by Brave Software, Inc. based on the [[Chromium]] web browser.
 - [brave/brave-browser](https://github.com/brave/brave-browser)

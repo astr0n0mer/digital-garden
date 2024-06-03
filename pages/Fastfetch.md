@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[CLI]]
+tags:: [[CLI]]
 
 - Fastfetch is a [neofetch](https://github.com/dylanaraps/neofetch)-like tool for fetching system information and displaying them in a pretty way.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)

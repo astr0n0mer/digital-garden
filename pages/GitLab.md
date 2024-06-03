@@ -1,1 +1,1 @@
-tags:: [[Self Host]] [[FOSS]] [[GitHub/Alternative]]
+tags:: [[Self Host]] [[GitHub/Alternative]]
