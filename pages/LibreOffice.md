@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Microsoft/Office/Alternative]]
+tags:: [[Microsoft/Office/Alternative]]
 
 - [LibreOffice](https://www.libreoffice.org/) is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).
 -

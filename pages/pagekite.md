@@ -1,4 +1,4 @@
-tags:: [[local-tunneling]] [[FOSS]] [[Self Host]]
+tags:: [[local-tunneling]] [[Self Host]]
 
 - [pagekite](https://pagekite.net/), a fast and reliable tool to make localhost servers visible to the public Internet.
   [pagekite/PyPagekite](https://github.com/pagekite/PyPagekite)

@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[notes]] [[privacy]] [[mysetup]]
+tags:: [[notes]] [[privacy]]
 
 - [Logseq](https://logseq.com/) is a [[FOSS]], [[privacy]]-first toolbox for managing your [[notes]], ideas, and information with features like linked references, queries, search, [[flashcard]]s, and more, designed to help you think and write with confidence.
 - [logseq/logseq](https://github.com/logseq/logseq)
