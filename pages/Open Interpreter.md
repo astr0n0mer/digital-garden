@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[LLM]]
+tags:: [[LLM]]
 
 - [Open Interpreter](https://www.openinterpreter.com/) lets LLMs run code on your computer to complete tasks.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)

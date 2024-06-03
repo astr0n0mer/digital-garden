@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Ad Blocker]]
+tags:: [[Ad Blocker]]
 
 - [Pi-hole](https://pi-hole.net/) is a [[DNS/Sinkhole]] that protects your devices from unwanted content without installing any client-side software.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)

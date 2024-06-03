@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Network/Boot]] [[distro-hop]]
+tags:: [[Network/Boot]] [[distro-hop]]
 
 - [netboot.xyz](https://netboot.xyz/) enables you to boot into many types of operating systems using lightweight tooling to get you up and running as soon as possible.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
