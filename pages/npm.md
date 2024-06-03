@@ -1,1 +1,1 @@
-tags:: [[Package/Manager]]
+tags:: [[JavaScript]] [[Package/Manager]]

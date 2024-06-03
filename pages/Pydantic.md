@@ -1,4 +1,4 @@
-tags:: [[python]]
+tags:: [[Python]]
 
 - [Pydantic](https://docs.pydantic.dev/) is the most widely used data validation library for Python.
   [pydantic/pydantic](https://github.com/pydantic/pydantic)

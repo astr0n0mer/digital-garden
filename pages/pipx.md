@@ -1,4 +1,4 @@
-tags:: [[python]] [[Package/Manager]]
+tags:: [[Python]] [[Package/Manager]]
 
 - [pipx](https://pipx.pypa.io/) — Install and Run Python Applications in Isolated Environments
   [pypa/pipx](https://github.com/pypa/pipx)
