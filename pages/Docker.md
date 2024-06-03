@@ -1,3 +1,5 @@
+tags:: [[Container]]
+
 -
 - [Install](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) on [[Ubuntu]] [[Linux]]
 	- ```bash
@@ -20,22 +22,22 @@
 	  # Verify docker engine installation
 	  sudo docker run hello-world
 	  ```
-- [To not have to prefix docker commands with sudo](https://docs.docker.com/engine/install/linux-postinstall/)
-	- ```bash
-	  # Create the docker group.
-	  sudo groupadd docker
-	  # Add your user to the docker group.
-	  sudo usermod -aG docker $USER
-	  # Activate the changes to groups
-	  newgrp docker
-	  # Verify that you can run docker commands without sudo
-	  docker info
-	  ```
-- Install `docker-compose`
-	- ```bash
-	  apt install docker-compose
-	  docker-compose --version
-	  ```
+	- [To not have to prefix docker commands with sudo](https://docs.docker.com/engine/install/linux-postinstall/)
+		- ```bash
+		  # Create the docker group.
+		  sudo groupadd docker
+		  # Add your user to the docker group.
+		  sudo usermod -aG docker $USER
+		  # Activate the changes to groups
+		  newgrp docker
+		  # Verify that you can run docker commands without sudo
+		  docker info
+		  ```
+	- Install `docker-compose`
+		- ```bash
+		  apt install docker-compose
+		  docker-compose --version
+		  ```
 -
 - Install on macOS:
 	- ```bash
