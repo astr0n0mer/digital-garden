@@ -1,4 +1,4 @@
-tags:: [[package-manager]]
+tags:: [[Package/Manager]]
 
 - [PnPM](https://pnpm.io/) is a fast, disk space efficient package manager.
   [pnpm/pnpm](https://github.com/pnpm/pnpm)

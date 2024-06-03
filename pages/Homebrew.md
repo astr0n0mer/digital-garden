@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[package-manager]] [[mysetup]]
+tags:: [[FOSS]] [[Package/Manager]] [[mysetup]]
 
 - [Homebrew](https://brew.sh/) is a package manager for [[macOS]] (or [[Linux]]) that installs and manages software packages, including [[RubyGems]], and provides a simple way to install and manage non-open source software through its Cask feature. #Shell/command
 - [Homebrew/brew](https://github.com/Homebrew/brew)

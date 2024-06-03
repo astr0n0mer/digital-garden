@@ -1,1 +1,1 @@
-tags:: [[package-manager]]
+tags:: [[Package/Manager]]
