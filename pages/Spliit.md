@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Self Host]] [[Split Expenses]]
+tags:: [[Self Host]] [[Splitwise/Alternative]]
 
 - [Spliit](https://spliit.app/) is a free and open source alternative to [[Splitwise]].
   [spliit-app/spliit](https://github.com/spliit-app/spliit)
