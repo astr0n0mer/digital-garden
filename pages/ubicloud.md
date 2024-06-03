@@ -1,1 +1,1 @@
-tags:: [[FOSS]] [[Self Host]]
+tags:: [[Self Host]]
