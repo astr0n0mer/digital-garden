@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Hacker News]]
+tags:: [[Hacker News/CLI]]
 
 - haxor-news is a Hacker News command line interface ([[CLI]]).
   [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news)
