@@ -1,4 +1,4 @@
-tags:: [[Hacker News]] [[CLI]]
+tags:: [[Hacker News/CLI]]
 
 - A text-first HN client.
 - [piqoni/hn-text](https://github.com/piqoni/hn-text)
