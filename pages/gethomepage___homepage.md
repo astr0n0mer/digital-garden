@@ -1,4 +1,4 @@
-tags:: [[Self Host]] [[FOSS]] [[Homepage]]
+tags:: [[Self Host]] [[Homepage]]
 
 - [homepage](https://gethomepage.dev/latest/) is a highly customizable homepage (or startpage / application dashboard) with [[Docker]] and service API integrations.
   [gethomepage/homepage](https://github.com/gethomepage/homepage)

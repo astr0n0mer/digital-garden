@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Browser/Extension]]
+tags:: [[Ad Blocker]] [[Browser/Extension]]
 
 - [SponsorBlock](https://sponsor.ajay.app/) is an [[FOSS]] crowdsourced [[Browser/Extension]] and open [[API]] for skipping sponsor segments in [[YouTube/Video]]s.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)

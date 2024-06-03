@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Shell]]
+tags:: [[Shell]]
 
 - [Fig](https://fig.io/) makes the shell easier for individuals and more collaborative for teams.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete)

@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Authenticator]] [[Android/App]]
+tags:: [[Authenticator]] [[Android/App]]
 
 - [Authenticator](https://authenticator.cc/) generates 2-Step Verification codes in your browser.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)

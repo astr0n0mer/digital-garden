@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Email/Client]]
+tags:: [[Email/Client]]
 
 - [Roundcube](https://roundcube.net/) Webmail is a browser-based multilingual IMAP client with an application-like user interface.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)

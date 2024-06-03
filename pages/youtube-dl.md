@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[YouTube]] [[YouTube/Download]] [[CLI]]
+tags:: [[YouTube/Download]] [[CLI]]
 
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/): Command-line program to download videos from YouTube.com and other video sites.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
