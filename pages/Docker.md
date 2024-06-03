@@ -1,6 +1,6 @@
 tags:: [[Container]]
 
--
+- [Docker](https://github.com/docker) is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
 - [moby/moby](https://github.com/moby/moby)
   @@html: <a href="https://github.com/moby/moby/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=moby&repo=moby&theme=tokyonight" alt="moby/moby"/></a>@@
 - [Where is the Docker source code located (github repo)?](https://stackoverflow.com/a/71612845/7753274)
