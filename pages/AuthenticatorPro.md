@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Authenticator]] [[Android/App]]
+tags:: [[Authenticator]] [[Android/App]]
 
 - [AuthenticatorPro](https://authenticatorpro.jmh.me/): Two-Factor Authentication (2FA) client for Android + Wear OS
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro)

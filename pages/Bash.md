@@ -1,1 +1,1 @@
-tags:: [[FOSS]] [[Shell]]
+tags:: [[Shell]]

@@ -1,4 +1,4 @@
-tags:: [[local-tunneling]] [[FOSS]]
+tags:: [[local-tunneling]]
 
 - Tunnelmole - Connect to local servers from anywhere
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)

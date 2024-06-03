@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Authenticator]] [[Android/App]]
+tags:: [[Authenticator]] [[Android/App]]
 
 - [Aegis Authenticator](https://getaegis.app/) is a free, secure and open source app for Android to manage your 2-step verification tokens for your online services.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) | [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)

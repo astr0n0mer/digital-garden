@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[CLI]] [[mysetup]]
+tags:: [[CLI]]
 
 - [trash](https://hasseg.org/trash/) is a CLI program for [[macOS]] that moves files or folders to the [[trash]]. #Shell/command 
   [ali-rantakari/trash](https://github.com/ali-rantakari/trash)
