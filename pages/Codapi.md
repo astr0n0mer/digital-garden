@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[interactive/Snippets]]
+tags:: [[interactive/Snippets]]
 
 - [Codapi](https://codapi.org/) is a platform for embedding interactive code snippets directly into your product documentation, online course or blog post.
 - [nalgeon/codapi](https://github.com/nalgeon/codapi)

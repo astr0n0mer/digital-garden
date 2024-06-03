@@ -1,4 +1,4 @@
-tags:: [[FOSS]] [[Multimedia/Management]]
+tags:: [[Self Host]] [[Multimedia/Management]]
 
 - [immich](https://immich.app/) is a high performance self-hosted photo and video management solution.
   [immich-app/immich](https://github.com/immich-app/immich)

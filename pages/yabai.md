@@ -1,4 +1,4 @@
-tags:: [[Tiling Window Manager]] [[macOS]] [[FOSS]]
+tags:: [[Tiling Window Manager]] [[macOS]]
 
 - [yabai](https://github.com/koekeishiya/yabai) is a [[Tiling Window Manager]] for [[macOS]] based on binary space partitioning
   [koekeishiya/yabai](https://github.com/koekeishiya/yabai)

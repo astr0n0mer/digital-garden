@@ -1,4 +1,4 @@
-tags:: [[local-tunneling]] [[FOSS]]
+tags:: [[local-tunneling]]
 
 - [localtunnel](https://www.npmjs.com/package/localtunnel) exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
   [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
