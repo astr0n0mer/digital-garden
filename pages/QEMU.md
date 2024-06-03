@@ -1,7 +1,8 @@
-tags:: [[FOSS]] [[mysetup]]
+tags:: [[machine emulator]]
 
-- [QEMU](https://www.qemu.org/) is a generic and open source [[machine emulator]] and [[virtualizer]]
--
+- [QEMU](https://www.qemu.org/) s a generic and open source machine & userspace emulator and
+  virtualizer.
+- [GitLab repo](https://gitlab.com/qemu-project/qemu)
 -
 - [Install](https://christitus.com/vm-setup-in-linux/) on Linux
 	- ```bash
