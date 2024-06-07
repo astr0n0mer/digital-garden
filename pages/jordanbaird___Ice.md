@@ -8,4 +8,5 @@ tags:: [[macOS/exclusive]] [[Menubar/Manager]]
 - [Install](https://github.com/jordanbaird/Ice#install)
 	- ```bash
 	  brew install jordanbaird-ice
+	  open -a Ice
 	  ```
