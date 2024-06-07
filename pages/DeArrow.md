@@ -1,4 +1,4 @@
-tags:: [[Browser/Extension]] [[Ad Blocker]] [[YouTube]]
+tags:: [[Freemium]] [[Browser/Extension]] [[Ad Blocker]] [[YouTube]]
 
 - [DeArrow](https://dearrow.ajay.app/) is an open source browser extension for crowdsourcing better titles and thumbnails on YouTube.
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)

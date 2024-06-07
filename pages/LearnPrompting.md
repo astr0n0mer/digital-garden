@@ -1,1 +1,1 @@
-- [LearnPrompting](https://learnprompting.org/) is a platform that offers courses and resources to help professionals effectively use AI technology. #AI #freemium #prompting
+- [LearnPrompting](https://learnprompting.org/) is a platform that offers courses and resources to help professionals effectively use AI technology. #AI #Freemium #prompting
