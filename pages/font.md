@@ -68,7 +68,7 @@
 	  :LOGBOOK:
 	  CLOCK: [2023-12-31 Sun 21:34:24]--[2024-02-13 Tue 00:28:43] =>  1034:54:19
 	  :END:
-	- DONE [#C] [[FiraCode]]
+	- DONE [#C] [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 	  DEADLINE: <2024-03-16 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-02-13 Tue 00:28:24]
