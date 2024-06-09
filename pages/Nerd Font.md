@@ -13,4 +13,5 @@ tags:: [[font]]
 	  getnf --help
 	  ```
 -
+- View live demo of fonts using [[Programmingfonts]]
 - @@html: <iframe src="https://www.programmingfonts.org/" alt="Programming Fonts" class="browser-tab"></iframe>@@
