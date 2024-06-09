@@ -63,19 +63,19 @@
 	  ```
 -
 - #explore
-	- DONE [#C] [[Cartograph CF]]
+	- DONE [[Cartograph CF]]
 	  DEADLINE: <2024-02-10 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2023-12-31 Sun 21:34:24]--[2024-02-13 Tue 00:28:43] =>  1034:54:19
 	  :END:
-	- DONE [#C] [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
+	- DONE [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 	  DEADLINE: <2024-03-16 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-02-13 Tue 00:28:24]
 	  CLOCK: [2024-02-13 Tue 00:28:26]--[2024-03-24 Sun 15:52:19] =>  975:23:53
 	  :END:
 	- DONE [AnonymousPro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AnonymousPro)
-	- DONE #explore source-foundry/Hack
+	- DONE [Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
 	  DEADLINE: <2024-04-27 Sat>
 	- DONE [LiberationMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/LiberationMono)
 	- DONE [Agave](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Agave)
