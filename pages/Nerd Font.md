@@ -1,4 +1,4 @@
-tags:: [[font]]
+tags:: [[Font]]
 
 - [Nerd fonts](https://www.nerdfonts.com/) are playful and fun fonts with a geeky or tech-inspired theme, popular among gamers, tech enthusiasts, and fans of science fiction and fantasy.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
