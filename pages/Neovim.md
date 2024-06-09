@@ -4,7 +4,7 @@ tags:: [[Code/Editor]]
 - [neovim/neovim](https://github.com/neovim/neovim)
   @@html: <a href="https://github.com/neovim/neovim/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=neovim&repo=neovim&theme=tokyonight" alt="neovim/neovim"/></a>@@
 -
-- Install
+- [Install](https://github.com/neovim/neovim/#install-from-package)
 	- ```bash
 	  brew install neovim
 	  nvim --help
