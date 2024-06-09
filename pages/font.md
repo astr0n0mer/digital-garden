@@ -75,6 +75,9 @@
 	  CLOCK: [2024-02-13 Tue 00:28:26]--[2024-03-24 Sun 15:52:19] =>  975:23:53
 	  :END:
 	- DONE [AnonymousPro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AnonymousPro)
+	- DONE #explore source-foundry/Hack
+	  DEADLINE: <2024-04-27 Sat>
+	- DONE [LiberationMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/LiberationMono)
 	- DONE [Agave](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Agave)
 -
 - Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[CSS]]
