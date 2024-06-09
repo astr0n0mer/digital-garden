@@ -1,4 +1,4 @@
-tags:: [[Proprietary]] [[Code/Editor]] [[mysetup]]
+tags:: [[Proprietary]] [[Code/Editor]]
 
 -
 - Install on macOs
