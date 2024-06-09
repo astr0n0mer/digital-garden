@@ -10,4 +10,3 @@ tags:: [[Nerd Font]]
 	  # the font is automatically installed and downloaded files are removed
 	  ```
 -
-- @@html: <iframe src="https://www.programmingfonts.org/#agave" alt="Agave Nerd Font" class="browser-tab"></iframe>@@
