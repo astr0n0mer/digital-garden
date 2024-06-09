@@ -80,6 +80,7 @@
 	- DONE [LiberationMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/LiberationMono)
 	- DONE [Agave](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Agave)
 	- DOING [AurulentSansMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AurulentSansMono)
+	  DEADLINE: <2024-07-06 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-06-09 Sun 15:41:15]
 	  CLOCK: [2024-06-09 Sun 15:41:17]
