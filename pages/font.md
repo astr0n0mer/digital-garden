@@ -79,5 +79,10 @@
 	  DEADLINE: <2024-04-27 Sat>
 	- DONE [LiberationMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/LiberationMono)
 	- DONE [Agave](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Agave)
+	- DOING [AurulentSansMono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AurulentSansMono)
+	  :LOGBOOK:
+	  CLOCK: [2024-06-09 Sun 15:41:15]
+	  CLOCK: [2024-06-09 Sun 15:41:17]
+	  :END:
 -
 - Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[CSS]]
