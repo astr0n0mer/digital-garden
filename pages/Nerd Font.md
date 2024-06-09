@@ -13,4 +13,4 @@ tags:: [[font]]
 	  getnf --help
 	  ```
 -
-- View live demo of fonts using [[Programmingfonts]]
+- View live demo of fonts using [[Programming Fonts]]
