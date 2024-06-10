@@ -6,3 +6,5 @@ tags:: [[Code/Editor]]
 -
 - DONE Vim in 700 Seconds on [[Fireship]]
   {{video https://www.youtube.com/watch?v=-txKSRn0qeA&t=324s}}
+-
+- ![How to use Vim](https://rawgit.com/darcyparker/1886716/raw/vimModeStateDiagram.svg)
