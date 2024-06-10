@@ -9,3 +9,6 @@ tags:: [[Code/Editor]]
 	  brew install neovim
 	  nvim --help
 	  ```
+-
+- DONE Neovim in 100 Seconds on [[Fireship]]
+  {{video https://www.youtube.com/watch?v=c4OyfL5o7DU}}
