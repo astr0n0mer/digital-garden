@@ -1,4 +1,4 @@
-tags:: [[Formatter]] [[TypeScript]]
+tags:: [[Formatter]] [[TypeScript]] [[JSX]] [[JSON]] [[YAML]] [[HTML]] [[CSS]] [[Markdown]]
 
 - [Prettier](https://prettier.io/): An opinionated code formatter
 - [prettier/prettier](https://github.com/prettier/prettier)
