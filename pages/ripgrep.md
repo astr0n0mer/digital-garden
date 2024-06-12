@@ -5,3 +5,6 @@
 	- ```bash
 	  brew install ripgrep
 	  ```
+-
+- Feature comparison of ack, ag, git-grep, GNU grep and ripgrep
+  @@html: <iframe src="https://beyondgrep.com/feature-comparison/" alt="Feature comparison" class="browser-tab"></iframe>@@
