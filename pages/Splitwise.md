@@ -1,1 +1,1 @@
-tags:: [[Split Expenses]]
+tags:: [[Proprietary]] [[Split Expenses]]
