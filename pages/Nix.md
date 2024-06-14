@@ -1,0 +1,1 @@
+tags:: [[NixOS]] [[Package/Manager]]
