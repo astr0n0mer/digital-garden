@@ -1,0 +1,1 @@
+- [curl](https://command-not-found.com/curl): Transfers data from or to a server. Supports most protocols, including HTTP, FTP, and POP3. [More information](https://curl.se/docs/manpage.html). #Shell/command
