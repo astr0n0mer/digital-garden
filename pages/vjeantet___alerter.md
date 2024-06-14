@@ -1,4 +1,4 @@
-tags:: [[Terminal/Notification]]
+tags:: [[Terminal/Notification]] [[macOS/exclusive]]
 
 - [alerter](https://github.com/vjeantet/alerter) is a [[CLI]] tool to send [[macOS]] X User Alerts, which are available in Mac OS X 10.8 and higher.
 - [vjeantet/alerter](https://github.com/vjeantet/alerter)
