@@ -1,0 +1,14 @@
+- TODO set up [[CICD]]([[GitHub/Action]]) to publish [[Logseq]] graph on schedule using [[Cron]]
+  :LOGBOOK:
+  CLOCK: [2024-01-16 Tue 20:12:50]--[2024-06-10 Mon 00:26:54] =>  3484:14:04
+  :END:
+	- [logseq/publish-spa](https://github.com/logseq/publish-spa)
+	  @@html: <a href="https://github.com/logseq/publish-spa/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=logseq&repo=publish-spa&theme=tokyonight" alt="logseq/publish-spa/"/></a>@@
+	- [GitHub Actions -> Events that trigger workflows -> schedule](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule)
+- DONE [#B] #explore [[K-9 Mail]]
+  :LOGBOOK:
+  CLOCK: [2023-12-24 Sun 00:52:23]--[2024-05-26 Sun 22:51:03] =>  3717:58:40
+  :END:
+-
+- [[Stumbled upon]]
+	- [su](https://command-not-found.com/su): Switch shell to another user. [More information](https://manned.org/su) #Shell/command

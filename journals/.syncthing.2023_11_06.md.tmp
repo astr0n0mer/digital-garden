@@ -1,0 +1,2 @@
+- DONE #explore [dataclasses](https://docs.python.org/3/library/dataclasses.html) in [[Python]]
+- DONE use [chat.postEphemeral](https://api.slack.com/methods/chat.postEphemeral) and [chat.postMessage](https://api.slack.com/methods/chat.postMessage) to send career progression radar chart privately in a channel and DM the requester

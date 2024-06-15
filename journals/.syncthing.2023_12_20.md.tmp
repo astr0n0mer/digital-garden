@@ -1,0 +1,35 @@
+- DONE figure out why [[VSCodium]] can't use [[VS Code]] profiles
+	- most likely because [VSCodium uses a different Extension Marketplace](https://github.com/VSCodium/vscodium#extensions-and-the-marketplace)
+	- DONE explore the [workarounds to use proprietary extension in VSCodium](https://github.com/VSCodium/vscodium#extensions-and-the-marketplace)
+		- update the `extensionsGallery` property in `/usr/share/codium/resources/app/product.json` to use the VS Code marketplace
+		- ```json
+		  {
+		    ...
+		    "extensionsGallery": {
+		      "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		      "itemUrl": "https://marketplace.visualstudio.com/items"
+		    }
+		    ...
+		  }
+		  ```
+		- a better solution is to create `product.json` in the `~/.config/VSCodium` folder, VSCodium will merge the original and custom `product.json` on launch
+		- References:
+			- [Using extensions in compiled VSCode](https://stackoverflow.com/a/62697535/7753274)
+			  (*read answer comments as well*)
+			- [VS Code change link for marketplace](https://stackoverflow.com/a/75141057/7753274)
+			- [GitHub PR: customize the extensions gallery](https://github.com/VSCodium/vscodium/pull/674)
+- TODO [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) by [[Jake Lazaroff]] #[[Reading List]] #CRDT
+- TODO [How Render Scaled Knative to 100k+ Web Apps](https://render.com/blog/knative) by [[Render]] #[[Reading List]]
+- DONE [You’re not lacking creativity, you’re overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre) by [[Jorge Medina]] #[[Reading List]]
+  :LOGBOOK:
+  CLOCK: [2024-02-02 Fri 12:40:27]--[2024-02-02 Fri 14:13:30] =>  01:33:03
+  :END:
+  @@html: <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90ee7dae-eb04-4a0e-96bb-5b83087069d6_1400x750.png" alt="" class="article-cover" />@@
+- TODO [USB Made Simple](https://www.usbmadesimple.co.uk/) #[[Reading List]] [[USB]]
+- DONE [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities) by [[Garrit Franke]] #[[Reading List]] [[Git]]
+- TODO #explore [Best Online Linux Terminals and Online Bash Editors](https://itsfoss.com/online-linux-terminals/) #Shell #Terminal
+- TODO #explore [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) 
+  @@html: <a href="https://github.com/PurpleI2P/i2pd"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=PurpleI2P&repo=i2pd&theme=tokyonight" alt="PurpleI2P/i2pd"/></a>@@
+- DONE [#C] Stop using [[Virtualbox]], Here's how to use [[QEMU]] instead on [[Chris Titus Tech]]
+  {{video https://www.youtube.com/watch?v=Kq849CpGd88}}
+  [Setup Qemu in Debian Linux](https://christitus.com/vm-setup-in-linux/)

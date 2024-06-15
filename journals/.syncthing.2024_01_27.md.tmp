@@ -1,0 +1,23 @@
+- TODO [Rclone syncs your files to cloud storage (rclone.org)](https://news.ycombinator.com/item?id=39151937) on [[Hacker News]] #cloud-sync
+- TODO [Show HN: Anki/Duolingo-like app using educational YouTube videos (platoedu.org)](https://news.ycombinator.com/item?id=39148336) on [[Hacker News]] #YouTube/Video
+- TODO [Oasis – a small, statically-linked Linux system (github.com/oasislinux)](https://news.ycombinator.com/item?id=39142748) on [[Hacker News]] #[[Linux/Distribution]]
+- TODO [CRDTs Turned Inside Out (interjectedfuture.com)](https://news.ycombinator.com/item?id=39130945) on [[Hacker News]] #CRDT
+- DONE [The Uncomfortable – a collection of deliberately inconvenient objects (theuncomfortable.com)](https://news.ycombinator.com/item?id=39132423) on [[Hacker News]] #useless
+- TODO [#C] [[Premature Optimization]] on [[CodeAesthetic]]
+  {{video https://www.youtube.com/watch?v=tKbV6BpH-C8}}
+- DONE [#C] Explaining File [[Compress]]ion Formats on [[ExplainingComputers]] #Archive
+  :LOGBOOK:
+  CLOCK: [2024-01-27 Sat 20:30:04]
+  CLOCK: [2024-01-27 Sat 20:30:05]--[2024-01-27 Sat 20:41:30] => 00:11:25
+  :END:
+  {{video https://www.youtube.com/watch?v=VPj_dILDK6I}}
+- DONE [#C] One Tool for Everything on [[Chris Titus Tech]] #[[Chris Titus Tech/winutil script]]
+  {{video https://www.youtube.com/watch?v=GQBRrVGgB_Q}}
+- DONE [#C] The Most Terrifying Game Isn't A Horror Game... on [[HitStart]] #[[Spec Ops: The Line]]
+  {{video https://www.youtube.com/watch?v=5b91DSqcgHo}}
+-
+- [[Stumbled upon]]
+	- [tar](https://command-not-found.com/tar): Archiving utility. Often combined with a compression method, such as gzip or bzip2. [More information](https://www.gnu.org/software/tar). #Shell/command #Compress
+	- [readlink](https://command-not-found.com/readlink): Follow [[symlink]]s and get symlink information. [More information](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#readlink-invocation). #Shell/command #File
+	- [printf](https://command-not-found.com/printf): Format and print text. [More information](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation). #Shell/command
+	- [wc](https://command-not-found.com/wc): [[Count]] lines, words, and bytes. [More information](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#wc-invocation). #Shell/command

@@ -1,0 +1,37 @@
+- DONE [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797) on [[Hacker News]] #[[dotfiles]] #[[Git bare repository]]
+- DONE #explore [[Git bare repository]]
+	- DONE [Dotfiles: Best way to store in a bare git repository](https://www.atlassian.com/git/tutorials/dotfiles) by [[Nicola Paolucci]] from [[Atlassian]] #[[Reading List]]
+	- DONE Git Bare Repository - A Better Way To Manage Dotfiles on [[DistroTube]]
+	  {{video https://www.youtube.com/watch?v=tBoLDpTWVOM}}
+- TODO [#C] #explore Give Your .dotfiles a Home with [[GNU Stow]] on [[System Crafters]]
+  {{video https://www.youtube.com/watch?v=CxAT1u8G7is}}
+- TODO #explore [How to Manage Your Dotfiles With Dotbot](https://haseebmajid.dev/posts/2022-10-15-how-to-manage-your-dotfiles-with-dotbot/) by [[Haseeb Majid]] [[Dotbot]] #[[Reading List]]
+- TODO #explore [Ansible for dotfiles: the introduction I wish I've had](https://phelipetls.github.io/posts/introduction-to-ansible/) by [[Phelipe Teles]] [[Ansible]] #[[Reading List]]
+- DONE Switch Distributions Quickly | How to Backup and Restore Your Configurations on [[Chris Titus Tech]]
+  {{video https://www.youtube.com/watch?v=NXzY3OG6f3o}}
+	- zip `~/.config` as `config.tgz` in your old system
+	  logseq.order-list-type:: number
+	- copy `.tgz` to your new system
+	  logseq.order-list-type:: number
+	- extract `.tgz` file in `~`
+	  logseq.order-list-type:: number
+-
+-
+- [[Stumbled upon]]
+	- [exec](https://command-not-found.com/exec): Replace the current [[process]] with another process. [More information](https://linuxcommand.org/lc3_man_pages/exech.html). #Shell/command
+	- [make](https://command-not-found.com/make): Task runner for targets described in [[Makefile]] . [More information](https://www.gnu.org/software/make/manual/make.html). #Shell/command
+	- [ln](https://command-not-found.com/ln): Creates links to [[File]]s and [[directory]]ies. #Shell/command
+	- [autojump](https://command-not-found.com/autojump): Quickly jump to a [[directory]]. #Shell/command
+	  __*replaced by [z](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/z/README.md) [[ohmyzsh/plugin]]*
+	- [dirname](https://command-not-found.com/dirname): Calculates the parent [[directory]] of a given file or directory path. #Shell/command
+	- [find](https://command-not-found.com/find): [[Find]] files or directories under the given directory tree, recursively. #Shell/command
+	- [gio](https://command-not-found.com/gio): A library of handy utility functions. #Shell/command
+	- [grep](https://command-not-found.com/grep): [[Find]] patterns in files using regular expressions. #Shell/command
+	- [json_pp](https://command-not-found.com/json_pp): Extends from ((65884b88-9881-4dbe-b34d-18eaeb2c4131)) . #Shell/command
+	- [json_xs](https://command-not-found.com/json_xs): [[Convert]]s between some input and output formats (one of them is JSON). #Shell/command
+	  id:: 65884b88-9881-4dbe-b34d-18eaeb2c4131
+	- [sort](https://command-not-found.com/sort): [[Sort]] lines of text files. #Shell/command
+	- [tee](https://command-not-found.com/tee): Read from [[stdin]] and write to [[stdout]] and files (or commands). #Shell/command
+	- [tidy](https://command-not-found.com/tidy): [[HTML]] [[Syntax Checker]] and [[Formatter]]. #Shell/command
+	- [xargs](https://command-not-found.com/xargs): [[Execute]] a command with piped arguments coming from another command, a file, etc. #Shell/command
+	- [xclip](https://command-not-found.com/xclip): X11 clipboard manipulation tool, similar to xsel. #Shell/command

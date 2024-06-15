@@ -1,0 +1,15 @@
+- DONE Change [[Font]] family on [[Slack]]
+  ```bash
+  /slackfont "Comic Sans MS"
+  ```
+  Note: This is temporary, and the font will reset on app restart.
+  Reference: [How to personalize Slack with a custom font](https://9to5mac.com/2020/09/11/how-to-change-slack-fonts/)
+- TODO [#C] [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500) on [[Hacker News]] #Pomodoro
+- DONE this is why you're addicted to [[Cloud/Computing]] on [[Fireship]]
+  {{video https://www.youtube.com/watch?v=4Wa5DivljOM}}
+- DONE How Did [[Open Source]] Catch Up To [[OpenAI]]? [[Mixtral/8x7B]] on [[bycloud]]
+  {{video https://www.youtube.com/watch?v=PYZIOMvkUF8}}
+- DONE [#C] How Vercel builds Vercel on [[Vercel]]
+  {{video https://www.youtube.com/watch?v=-huwRrj_HA4}}
+- TODO [#A] Download and store all your policy copies. I've starred their links in Messages app.
+  DEADLINE: <2024-02-17 Sat>

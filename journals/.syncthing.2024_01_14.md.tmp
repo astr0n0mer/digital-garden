@@ -1,0 +1,27 @@
+- DONE [How to (and how not to) design REST APIs (github.com/stickfigure)](https://news.ycombinator.com/item?id=38103310) on [[Hacker News]] [[REST API]]
+- TODO [A Distributed Systems Reading List](https://dancres.github.io/Pages/) #[[Reading List]] #[[Distributed System]]
+- CANCELLED [YouTransfer: Self-hosted file transfer and sharing solution (github.com/youtransfer)](https://news.ycombinator.com/item?id=38978630) on [[Hacker News]]
+  [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer)
+  @@html: <a href="https://github.com/YouTransfer/YouTransfer/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=YouTransfer&repo=YouTransfer&theme=tokyonight" alt="YouTransfer/YouTransfer/"/></a>@@
+  The project has been abandoned since [[2020-05-08]], so I didn't try this out. #Unmaintained
+  [[Snapdrop]] seems to be a better alternative.
+- DONE [What is the difference between a terminal, a shell, a TTY and a console? (2012) (unix.stackexchange.com)](https://news.ycombinator.com/item?id=38984096) on [[Hacker News]] 
+  [What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'?](https://www.reddit.com/r/programming/comments/41u5hw/comment/cz5ejh6/) on [[Reddit]]
+  #Console #Shell #Terminal #TTY
+  
+  ```markdown
+  //===========================\\
+  ||          Terminal         ||
+  ||             |-----------| ||
+  || Keyboard--->|   Input   |-++->|---|   |-------|
+  ||             |-----------| ||  |tty|<=>| shell |
+  ||         |---------|<------++--|---|   |-------|
+  || Print<--|  Output |       ||
+  ||         |---------|       ||
+  ||                           ||
+  \\===========================//
+  ```
+- DONE How to Find Meaning in a Meaningless World - Written by [[Pursuit of Wonder]] on [[After Skool]]
+  {{video https://www.youtube.com/watch?v=-CbBgcpz3b0}}
+- DONE World of Tomorrow by [[Don Hertzfeldt]]
+  {{video https://www.youtube.com/watch?v=4PUIxEWmsvI}}
