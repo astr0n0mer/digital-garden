@@ -56,7 +56,7 @@ tags:: [[macOS/exclusive]]
 	  # nix flake update --commit-lock-file
 	  ```
 -
-- To reproduce this build on a new system
+- To recreate this build on a new system
 	- Install Nix with one of the installers
 	  logseq.order-list-type:: number
 	- logseq.order-list-type:: number
