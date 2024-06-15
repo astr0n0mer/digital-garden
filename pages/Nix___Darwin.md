@@ -55,3 +55,11 @@ tags:: [[macOS/exclusive]]
 	  # to auto-commit the lock file to a git repo
 	  # nix flake update --commit-lock-file
 	  ```
+-
+- To reproduce this build on a new system
+	- Install Nix with one of the installers
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
+	  ```shell
+	  nix run nix-darwin -- --flake github:my-user/my-repo#my-config
+	  ```
