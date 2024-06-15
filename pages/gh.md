@@ -14,6 +14,9 @@ tags:: [[GitHub/CLI]]
 	  brew install gh
 	  ```
 -
+- Install using Nix
+	- @@html: <iframe src="https://search.nixos.org/packages?query=gh&show=gh" alt="gh on Nix" class="browser-tab"></iframe>@@
+-
 - Setup commands
 	- logseq.order-list-type:: number
 	  ```bash
