@@ -44,5 +44,6 @@ tags:: [[macOS/exclusive]]
 	- We can now run the following after updating our config anytime.
 	  logseq.order-list-type:: number
 		- ```shell
+		  # exec $SHELL
 		  darwin-rebuild switch --flake .
 		  ```
