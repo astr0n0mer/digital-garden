@@ -47,3 +47,11 @@ tags:: [[macOS/exclusive]]
 		  # exec $SHELL
 		  darwin-rebuild switch --flake .
 		  ```
+-
+- Updating the System
+	- ```shell
+	  nix flake update
+	  darwin-rebuild switch --flake .
+	  # to auto-commit the lock file to a git repo
+	  # nix flake update --commit-lock-file
+	  ```
