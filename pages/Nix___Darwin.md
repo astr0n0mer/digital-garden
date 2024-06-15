@@ -6,7 +6,7 @@ tags:: [[macOS/exclusive]]
 -
 - [Darwin Configuration Options](https://daiderd.com/nix-darwin/manual/index.html)
 -
-- Install
+- Setup
 	- Install Nix using [Determinate System's installer for the shell](https://github.com/DeterminateSystems/nix-installer)
 	  logseq.order-list-type:: number
 		- ```bash
@@ -25,19 +25,19 @@ tags:: [[macOS/exclusive]]
 		  cd $_
 		  nix flake init -t nix-darwin
 		  ```
-	- Update `hostPlatform` and `hostname`
+	- Update `hostPlatform` and `hostname` in `~/.config/nix-darwin-config/flake.nix`
 	  logseq.order-list-type:: number
 		- If you use Macs with Apple Silicon CPU, `nixpkgs.hostPlatform = "aarch64-darwin"`. On Intel-based Macs it can be left as `x86_64-darwin`.
 		  logseq.order-list-type:: number
 		- The `simple` part at the bottom of the file in the `darwinConfigurations."simple"` attribute can be renamed to our hostname. This way we don’t need to provide the name explicitly when building or rebuilding the system configuration.
 		  logseq.order-list-type:: number
 			- shell command to get hostname
-			  ```bash
+			  ```shell
 			  hostname -s
 			  ```
 	- Bootstrap this new configuration
 	  logseq.order-list-type:: number
-		- ```bash
+		- ```shell
 		  # make sure you're in ~/.config/nix-darwin-config
 		  nix run nix-darwin -- switch --flake .
 		  ```
