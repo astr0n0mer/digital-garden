@@ -19,11 +19,12 @@ tags:: [[macOS/exclusive]]
 	- [Install nix-darwin](https://github.com/LnL7/nix-darwin#installing)
 	  logseq.order-list-type:: number
 		- ```bash
-		  md ~/.config/nix-darwin-config
+		  mkdir -p ~/.config/nix-darwin-config
 		  cd $_
 		  nix flake init -t nix-darwin
 		  ```
-	- Update hostPlatform and hostname
+	- Update `hostPlatform` and `hostname`
 	  logseq.order-list-type:: number
-		- If you use Macs with Apple Silicon CPU
+		- If you use Macs with Apple Silicon CPU, `nixpkgs.hostPlatform = "aarch64-darwin"`. On Intel-based Macs it can be left as `x86_64-darwin`.
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
