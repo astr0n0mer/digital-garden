@@ -41,4 +41,5 @@ tags:: [[macOS/exclusive]]
 		  # make sure you're in ~/.config/nix-darwin-config
 		  nix run nix-darwin -- switch --flake .
 		  ```
-	- logseq.order-list-type:: number
+	- Now you can run the
+	  logseq.order-list-type:: number
