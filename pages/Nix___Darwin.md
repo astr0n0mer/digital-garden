@@ -41,5 +41,8 @@ tags:: [[macOS/exclusive]]
 		  # make sure you're in ~/.config/nix-darwin-config
 		  nix run nix-darwin -- switch --flake .
 		  ```
-	- Now you can run the
+	- We can now run the following after updating our config anytime.
 	  logseq.order-list-type:: number
+		- ```shell
+		  darwin-rebuild switch --flake .
+		  ```
