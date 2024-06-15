@@ -29,6 +29,7 @@ tags:: [[macOS/exclusive]]
 		  logseq.order-list-type:: number
 		- The `simple` part at the bottom of the file in the `darwinConfigurations."simple"` attribute can be renamed to our hostname. This way we don’t need to provide the name explicitly when building or rebuilding the system configuration.
 		  logseq.order-list-type:: number
+			- shell command: `hostname -s`
 	- Bootstrap this new configuration
 	  logseq.order-list-type:: number
 		- ```bash
