@@ -1,4 +1,4 @@
-tags:: [[macOS]]
+tags:: [[macOS/exclusive]]
 
 - Nix modules for darwin, `/etc/nixos/configuration.nix` for macOS.
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
@@ -16,7 +16,7 @@ tags:: [[macOS]]
 		    | sh -s -- install
 		  nix --version
 		  ```
-	- Install nix-darwin
+	- [Install nix-darwin](https://github.com/LnL7/nix-darwin#installing)
 	  logseq.order-list-type:: number
 		- ```bash
 		  ```
