@@ -4,6 +4,8 @@ tags:: [[macOS/exclusive]]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
   @@html: <a href="https://github.com/LnL7/nix-darwin/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=LnL7&repo=nix-darwin&theme=tokyonight" alt="LnL7/nix-darwin"/></a>@@
 -
+- [Darwin Configuration Options](https://daiderd.com/nix-darwin/manual/index.html)
+-
 - Install
 	- Install Nix using [Determinate System's installer for the shell](https://github.com/DeterminateSystems/nix-installer)
 	  logseq.order-list-type:: number
@@ -29,10 +31,14 @@ tags:: [[macOS/exclusive]]
 		  logseq.order-list-type:: number
 		- The `simple` part at the bottom of the file in the `darwinConfigurations."simple"` attribute can be renamed to our hostname. This way we don’t need to provide the name explicitly when building or rebuilding the system configuration.
 		  logseq.order-list-type:: number
-			- shell command: `hostname -s`
+			- shell command to get hostname
+			  ```bash
+			  hostname -s
+			  ```
 	- Bootstrap this new configuration
 	  logseq.order-list-type:: number
 		- ```bash
 		  # make sure you're in ~/.config/nix-darwin-config
 		  nix run nix-darwin -- switch --flake .
 		  ```
+	- logseq.order-list-type:: number
