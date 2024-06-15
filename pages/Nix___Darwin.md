@@ -63,3 +63,5 @@ tags:: [[macOS/exclusive]]
 	  ```shell
 	  nix run nix-darwin -- --flake github:my-user/my-repo#my-config
 	  ```
+-
+- How to rollback an update
