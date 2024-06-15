@@ -7,13 +7,16 @@ tags:: [[macOS]]
 - Install
 	- Install Nix using [Determinate System's installer for the shell](https://github.com/DeterminateSystems/nix-installer)
 	  logseq.order-list-type:: number
-	  ```bash
-	  curl \
-	    --proto '=https' \
-	    --tlsv1.2 \
-	    -sSf \
-	    -L https://install.determinate.systems/nix \
-	    | sh -s -- install
-	  nix --version
-	  ```
-	- logseq.order-list-type:: number
+		- ```bash
+		  curl \
+		    --proto '=https' \
+		    --tlsv1.2 \
+		    -sSf \
+		    -L https://install.determinate.systems/nix \
+		    | sh -s -- install
+		  nix --version
+		  ```
+	- Install nix-darwin
+	  logseq.order-list-type:: number
+		- ```bash
+		  ```
