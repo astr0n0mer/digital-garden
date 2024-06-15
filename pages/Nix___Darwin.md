@@ -19,6 +19,11 @@ tags:: [[macOS/exclusive]]
 	- [Install nix-darwin](https://github.com/LnL7/nix-darwin#installing)
 	  logseq.order-list-type:: number
 		- ```bash
-		  
+		  md ~/.config/nix-darwin-config
+		  cd $_
 		  nix flake init -t nix-darwin
 		  ```
+	- Update hostPlatform and hostname
+	  logseq.order-list-type:: number
+		- If you use Macs with Apple Silicon CPU
+		  logseq.order-list-type:: number
