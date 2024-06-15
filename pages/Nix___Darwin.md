@@ -19,4 +19,6 @@ tags:: [[macOS/exclusive]]
 	- [Install nix-darwin](https://github.com/LnL7/nix-darwin#installing)
 	  logseq.order-list-type:: number
 		- ```bash
+		  
+		  nix flake init -t nix-darwin
 		  ```
