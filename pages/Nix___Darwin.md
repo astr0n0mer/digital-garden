@@ -14,5 +14,6 @@ tags:: [[macOS]]
 	    -sSf \
 	    -L https://install.determinate.systems/nix \
 	    | sh -s -- install
+	  nix --version
 	  ```
 	- logseq.order-list-type:: number
