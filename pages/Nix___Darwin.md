@@ -27,4 +27,7 @@ tags:: [[macOS/exclusive]]
 	  logseq.order-list-type:: number
 		- If you use Macs with Apple Silicon CPU, `nixpkgs.hostPlatform = "aarch64-darwin"`. On Intel-based Macs it can be left as `x86_64-darwin`.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- The `simple` part at the bottom of the file in the `darwinConfigurations."simple"` attribute can be renamed to our hostname. This way we don’t need to provide the name explicitly when building or rebuilding the system configuration.
+		  logseq.order-list-type:: number
+	- Run
+	  logseq.order-list-type:: number
