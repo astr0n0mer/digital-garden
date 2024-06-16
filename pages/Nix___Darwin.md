@@ -38,20 +38,19 @@ tags:: [[macOS/exclusive]]
 	- Bootstrap this new configuration
 	  logseq.order-list-type:: number
 		- ```shell
-		  # make sure you're in ~/.config/nix-darwin-config
-		  nix run nix-darwin -- switch --flake .
+		  nix run nix-darwin -- switch --flake ~/.config/nix-darwin-config
+		  exec $SHELL
 		  ```
 	- We can now run the following after updating our config anytime.
 	  logseq.order-list-type:: number
 		- ```shell
-		  # exec $SHELL
-		  darwin-rebuild switch --flake .
+		  darwin-rebuild switch --flake ~/.config/nix-darwin-config
 		  ```
 -
 - Updating the System
 	- ```shell
 	  nix flake update
-	  darwin-rebuild switch --flake .
+	  darwin-rebuild switch --flake ~/.config/nix-darwin-config
 	  # to auto-commit the lock file to a git repo
 	  # nix flake update --commit-lock-file
 	  ```
