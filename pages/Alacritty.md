@@ -5,3 +5,7 @@ tags:: [[Terminal]]
   @@html: <a href="https://github.com/alacritty/alacritty/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=alacritty&repo=alacritty&theme=tokyonight" alt="alacritty/alacritty"/></a>@@
 - ![Alacritty](https://raw.githubusercontent.com/alacritty/alacritty/master/extra/promo/alacritty-readme.png)
 -
+- Install
+	- ```shell
+	  brew install --cask alacritty
+	  ```
