@@ -5,12 +5,11 @@ tags:: [[Terminal]]
   @@html: <a href="https://github.com/alacritty/alacritty/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=alacritty&repo=alacritty&theme=tokyonight" alt="alacritty/alacritty"/></a>@@
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme)
   @@html: <a href="https://github.com/alacritty/alacritty-theme/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=alacritty&repo=alacritty-theme&theme=tokyonight" alt="alacritty/alacritty-theme"/></a>@@
-- ![Alacritty](https://raw.githubusercontent.com/alacritty/alacritty/master/extra/promo/alacritty-readme.png)
+-
+- [Alacritty Configuration](https://alacritty.org/config-alacritty.html)
+- ![Alacritty](https://raw.githubusercontent.com/alacritty/alacritty/master/extra/promo/alacritty-readme.png){:height 427, :width 778}
 -
 - Install
 	- ```shell
 	  brew install --cask alacritty
 	  ```
--
-- Alacritty Configuration
-	- @@html: <iframe src="https://alacritty.org/config-alacritty.html" alt="Alacritty Configuration" class="browser-tab"></iframe>@@
