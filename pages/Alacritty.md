@@ -11,3 +11,6 @@ tags:: [[Terminal]]
 	- ```shell
 	  brew install --cask alacritty
 	  ```
+-
+- Alacritty Configuration
+	- @@html: <iframe src="https://alacritty.org/config-alacritty.html" alt="Alacritty Configuration" class="browser-tab"></iframe>@@
