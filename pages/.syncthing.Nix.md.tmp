@@ -1,0 +1,7 @@
+tags:: [[NixOS]] [[Package/Manager]]
+
+-
+- [Nix & NixOS Cheatsheet](https://nixcademy.com/cheatsheet.html)
+-
+- Nix packages
+	- @@html: <iframe src="https://search.nixos.org/packages" alt="Nix packages" class="browser-tab"></iframe>@@
