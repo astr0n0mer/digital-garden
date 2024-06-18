@@ -16,3 +16,5 @@ tags:: [[NixOS]] [[Package/Manager]]
 		  curl -L https://nixos.org/nix/install | sh -s -- --daemon
 		  nix --version
 		  ```
+	- Setup [[Home Manager]]
+	  logseq.order-list-type:: number
