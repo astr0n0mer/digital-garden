@@ -64,4 +64,6 @@ tags:: [[macOS/exclusive]]
 	  ```
 -
 - How to rollback an update
-	-
+	- ```shell
+	  nix profile rollback
+	  ```
