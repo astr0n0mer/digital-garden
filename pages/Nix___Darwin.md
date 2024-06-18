@@ -65,5 +65,6 @@ tags:: [[macOS/exclusive]]
 -
 - How to rollback an update
 	- ```shell
-	  nix profile rollback
+	  nix profile rollback # to rollback profile version to (current_version - 1)
+	  nix profile rollback --to 20 # to rollback profile version to 20
 	  ```
