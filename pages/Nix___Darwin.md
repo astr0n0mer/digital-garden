@@ -7,17 +7,8 @@ tags:: [[macOS/exclusive]]
 - [Darwin Configuration Options](https://daiderd.com/nix-darwin/manual/index.html)
 -
 - Setup
-	- Install Nix using [Determinate System's installer for the shell](https://github.com/DeterminateSystems/nix-installer)
+	- ((6671a9c4-122e-4c01-88b0-04738eada87c))
 	  logseq.order-list-type:: number
-		- ```bash
-		  curl \
-		    --proto '=https' \
-		    --tlsv1.2 \
-		    -sSf \
-		    -L https://install.determinate.systems/nix \
-		    | sh -s -- install
-		  nix --version
-		  ```
 	- [Install nix-darwin](https://github.com/LnL7/nix-darwin#installing)
 	  logseq.order-list-type:: number
 		- ```bash

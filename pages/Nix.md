@@ -10,8 +10,9 @@ tags:: [[NixOS]] [[Package/Manager]]
 	- @@html: <iframe src="https://search.nixos.org/packages" alt="Nix packages" class="browser-tab"></iframe>@@
 -
 - Setup
-	- Install Nix
+	- Install Nix using [Determinate System's installer for the shell](https://github.com/DeterminateSystems/nix-installer)
 	  logseq.order-list-type:: number
+	  id:: 6671a9c4-122e-4c01-88b0-04738eada87c
 		- ```shell
 		  curl \
 		    --proto '=https' \
