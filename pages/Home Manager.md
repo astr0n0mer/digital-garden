@@ -20,3 +20,8 @@
 		  nix-channel --add https://github.com/nix-community/home-manager/archive/master.tar.gz home-manager
 		  nix-channel --update
 		  ```
+	- Run the Home Manager installation command
+	  logseq.order-list-type:: number
+		- ```shell
+		  nix-shell '<home-manager>' -A install
+		  ```
