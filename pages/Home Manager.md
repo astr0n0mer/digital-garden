@@ -4,14 +4,12 @@
 - Setup
 	- Make sure that your user is able to build and install Nix packages
 	  logseq.order-list-type:: number
-		- If your user is a part of `nixbld` group then
+		- Check if current user is a part of `nixbld` group
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
-			  ```shell
+			- ```shell
 			  groups $(whoami)
 			  ```
-		- else
+		- If not, then add current user to `nixbld` group
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
-			  ```shell
+			- ```shell
 			  ```
