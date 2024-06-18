@@ -26,5 +26,9 @@
 		  # I had to close and reopen my Terminal app for this to work
 		  nix-shell '<home-manager>' -A install
 		  ```
-	- Now update your home
+	- Now update your Home Manager config at `~/.config/home-manager/home.nix` and then build it
 	  logseq.order-list-type:: number
+		- ```shell
+		  home-manager build
+		  home-manager switch
+		  ```
