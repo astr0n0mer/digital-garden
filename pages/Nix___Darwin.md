@@ -49,10 +49,9 @@ tags:: [[macOS/exclusive]]
 - To recreate this build on a new system
 	- Install Nix with one of the installers
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
-	  ```shell
-	  nix run nix-darwin -- --flake github:my-user/my-repo#my-config
-	  ```
+		- ```shell
+		  nix run nix-darwin -- --flake github:my-user/my-repo#my-config
+		  ```
 -
 - How to rollback an update
 	- ```shell
