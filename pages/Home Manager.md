@@ -23,4 +23,6 @@
 	- Run the Home Manager installation command
 	  logseq.order-list-type:: number
 		- ```shell
+		  # I had to close and reopen my Terminal app for this to work
+		  nix-shell '<home-manager>' -A install
 		  ```
