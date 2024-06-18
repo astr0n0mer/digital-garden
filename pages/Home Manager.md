@@ -32,3 +32,5 @@
 		  home-manager build
 		  home-manager switch
 		  ```
+-
+- [Rollback](https://nix-community.github.io/home-manager/index.xhtml#sec-usage-rollbacks)
