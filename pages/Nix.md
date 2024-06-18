@@ -14,4 +14,5 @@ tags:: [[NixOS]] [[Package/Manager]]
 	  logseq.order-list-type:: number
 		- ```shell
 		  curl -L https://nixos.org/nix/install | sh -s -- --daemon
+		  nix --version
 		  ```
