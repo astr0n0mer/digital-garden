@@ -9,8 +9,9 @@ tags:: [[NixOS]] [[Package/Manager]]
 - Nix packages
 	- @@html: <iframe src="https://search.nixos.org/packages" alt="Nix packages" class="browser-tab"></iframe>@@
 -
-- Set up
+- Setup
 	- Install Nix
 	  logseq.order-list-type:: number
 		- ```shell
+		  curl -L https://nixos.org/nix/install | sh -s -- --daemon
 		  ```
