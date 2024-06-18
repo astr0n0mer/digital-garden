@@ -2,6 +2,7 @@
   @@html: <a href="https://github.com/nix-community/home-manager/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=nix-community&repo=home-manager&theme=tokyonight" alt="nix-community/home-manager"/></a>@@
 -
 - Setup
-	-
+	- Make sure that your user is able to build and install Nix packages.
+	  logseq.order-list-type:: number
 	- ```shell
 	  ```
