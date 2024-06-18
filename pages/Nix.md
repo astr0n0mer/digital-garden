@@ -13,7 +13,12 @@ tags:: [[NixOS]] [[Package/Manager]]
 	- Install Nix
 	  logseq.order-list-type:: number
 		- ```shell
-		  curl -L https://nixos.org/nix/install | sh -s -- --daemon
+		  curl \
+		    --proto '=https' \
+		    --tlsv1.2 \
+		    -sSf \
+		    -L https://install.determinate.systems/nix \
+		    | sh -s -- install
 		  nix --version
 		  ```
 	- Setup [[Home Manager]]
