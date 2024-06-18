@@ -12,4 +12,5 @@
 		- If not, then add current user to `nixbld` group
 		  logseq.order-list-type:: number
 			- ```shell
+			  sudo usermod -a -G nixbld $(whoami)
 			  ```
