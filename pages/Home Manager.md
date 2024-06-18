@@ -23,5 +23,4 @@
 	- Run the Home Manager installation command
 	  logseq.order-list-type:: number
 		- ```shell
-		  nix-shell '<home-manager>' -A install
 		  ```
