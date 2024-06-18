@@ -26,3 +26,5 @@
 		  # I had to close and reopen my Terminal app for this to work
 		  nix-shell '<home-manager>' -A install
 		  ```
+	- Now update your home
+	  logseq.order-list-type:: number
