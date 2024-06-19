@@ -1,3 +1,4 @@
+filters:: {"done" false}
 tags:: [[NixOS]] [[Package/Manager]]
 
 - [Nix](https://nixos.org/) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
