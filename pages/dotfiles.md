@@ -1,3 +1,4 @@
+filters:: {"dotfiles/manager" false}
 tags:: [[Configuration]]
 
 - A dotfile is a file containing configuration settings and preferences for a specific application or software, such as vim, zsh, or git, which can be shared and synchronized across multiple devices and environments.
