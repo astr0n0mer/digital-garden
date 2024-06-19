@@ -4,5 +4,10 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
   @@html: <a href="https://github.com/koekeishiya/yabai/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=koekeishiya&repo=yabai&theme=tokyonight" alt="koekeishiya/yabai"/></a>@@
 -
+- [Install](https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release))
+	- ```shell
+	  brew install koekeishiya/formulae/yabai
+	  ```
+-
 - Note: Some features [require partially disabling System Integrity Protection (SIP)](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection) to inject a script into Dock.app.
   background-color:: red
