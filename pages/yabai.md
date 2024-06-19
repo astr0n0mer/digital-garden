@@ -11,13 +11,14 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 	  logseq.order-list-type:: number
 		- ```shell
 		  brew install koekeishiya/formulae/yabai
+		  yabai --version
 		  ```
 	- Install [[skhd]]
 	  logseq.order-list-type:: number
 	- Start yabai
 	  logseq.order-list-type:: number
 		- ```shell
-		  yabai --start-service
+		  yabai --start-service # provide Accessibility permissions
 		  yabai --restart-service
 		  ```
 -
