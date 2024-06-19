@@ -5,7 +5,7 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
   @@html: <a href="https://github.com/koekeishiya/yabai/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=koekeishiya&repo=yabai&theme=tokyonight" alt="koekeishiya/yabai"/></a>@@
 -
 - [Install](https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release))
-	- Create a few extra desktops, 5 seems good (⌃⇧)
+	- Create a few extra desktops (spaces), 5 seems good (⌃⇧)
 	  logseq.order-list-type:: number
 	- Install yabai
 	  logseq.order-list-type:: number
