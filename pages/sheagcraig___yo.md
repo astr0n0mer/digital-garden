@@ -1,4 +1,4 @@
-tags:: [[Terminal/Notification]]
+tags:: [[Terminal/Notification]] [[macOS/exclusive]]
 
 - [Yo](https://github.com/sheagcraig/yo): Custom User Notifications with [[Swift]]
 - [sheagcraig/yo](https://github.com/sheagcraig/yo)
