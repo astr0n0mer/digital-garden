@@ -1,7 +1,7 @@
 tags:: [[macOS/exclusive]] [[Backup]] [[Restore]]
 
-- [macprefs](https://github.com/SijanC147/macprefs): A tool to backup and restore [[macOS]] preferences. #Shell/command
-  [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
+- [macprefs](https://github.com/SijanC147/macprefs): A tool to backup and restore macOS preferences.
+- [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
   @@html: <a href="https://github.com/SijanC147/macprefs/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=SijanC147&repo=macprefs&theme=tokyonight" alt="SijanC147/macprefs"/></a>@@
 -
 - [Install](https://github.com/SijanC147/macprefs#installation) on macOS using Homebrew
