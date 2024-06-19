@@ -6,5 +6,9 @@ tags:: [[Keybinding/Manager]] [[macOS/exclusive]]
 - [Install](https://github.com/koekeishiya/skhd#install)
 	- ```shell
 	  brew install koekeishiya/formulae/skhd
-	  skhd --start-service
+	  ```
+- Start
+	- ```shell
+	  skhd --start-service # provide Accessibility permissions
+	  skhd --restart-service
 	  ```
