@@ -1,4 +1,4 @@
-tags:: [[macOS]] [[Backup]] [[Restore]]
+tags:: [[macOS/exclusive]] [[Backup]] [[Restore]]
 
 - [macprefs](https://github.com/SijanC147/macprefs): A tool to backup and restore [[macOS]] preferences. #Shell/command
   [SijanC147/macprefs](https://github.com/SijanC147/macprefs)
