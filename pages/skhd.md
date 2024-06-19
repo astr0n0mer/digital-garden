@@ -11,4 +11,5 @@ tags:: [[Keybinding/Manager]] [[macOS/exclusive]]
 	- ```shell
 	  skhd --start-service # provide Accessibility permissions
 	  skhd --restart-service
+	  skhd --reload
 	  ```
