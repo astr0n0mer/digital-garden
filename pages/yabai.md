@@ -12,6 +12,8 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 		- ```shell
 		  brew install koekeishiya/formulae/yabai
 		  ```
+	- Install [[skhd]]
+	  logseq.order-list-type:: number
 -
 - Note: Some features require [partially disabling System Integrity Protection (SIP)](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection) to inject a script into Dock.app.
   background-color:: red
