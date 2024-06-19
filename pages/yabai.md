@@ -17,7 +17,8 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 	- Start yabai
 	  logseq.order-list-type:: number
 		- ```shell
-		  brew services start yabai
+		  yabai --start-service
+		  yabai --restart-service
 		  ```
 -
 - Note: Some features require [partially disabling System Integrity Protection (SIP)](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection) to inject a script into Dock.app.
