@@ -1,6 +1,6 @@
 tags:: [[Node.js]] [[Version Manager]] [[mysetup]]
 
-- [nvm](https://github.com/nvm-sh/nvm) is a version manager for node.js, designed to be installed per-user, and invoked per-shell. #Shell/command
+- [nvm](https://github.com/nvm-sh/nvm) is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm/)
   @@html: <a href="https://github.com/nvm-sh/nvm/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=nvm-sh&repo=nvm&theme=tokyonight" alt="nvm-sh/nvm/"/></a>@@
 -
