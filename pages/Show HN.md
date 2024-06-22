@@ -1,6 +1,6 @@
 tags:: [[Hacker News]]
 
-- {{query (and "[Show HN:" (task TODO DOING DONE))}}
-  query-table:: true
+- {{query (and "[Show HN:" (task TODO DOING))}}
   query-sort-by:: block
+  query-table:: true
   query-sort-desc:: false
