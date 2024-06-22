@@ -1,0 +1,2 @@
+- [Dconf Editor](https://apps.gnome.org/DconfEditor/) is a tool to allow direct editing of the dconf configuration database.
+- [dconf-editor](https://gitlab.gnome.org/GNOME/dconf-editor) repo
