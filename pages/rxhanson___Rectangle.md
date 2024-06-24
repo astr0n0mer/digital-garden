@@ -1,4 +1,4 @@
-tags:: [[macOS/exclusive]] [[Tiling Window Manager]]
+tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 
 - [Rectangle](https://rectangleapp.com/) is a window management app based on Spectacle, written in Swift.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
