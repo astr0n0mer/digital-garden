@@ -7,4 +7,7 @@ tags:: [[Git]] [[dotfiles/Manager]]
   :END:
 -
 - Review
-	- I've used git bare respository to manage my dotfiles for almost a year, and it worked
+	- I've used git bare respository to manage my dotfiles for almost a year, and it worked great.
+	- I'm now switching to using GNU Stow for this due the following reasons:
+		- Doing git operations is painful since your
+		  logseq.order-list-type:: number
