@@ -7,4 +7,4 @@ tags:: [[Git]] [[dotfiles/Manager]]
   :END:
 -
 - Review
-	-
+	- I've used git bare respository to manage my dotfiles for almost a year, and it worked
