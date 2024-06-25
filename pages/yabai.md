@@ -23,10 +23,10 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 		  yabai --restart-service
 		  ```
 -
-- Troubleshooting
-	- Checkout the log files
-	  ```shell
-	  ```
+- Troubleshooting: Checkout the log files```shell
+  less /tmp/yabai_$(whoami).err.log
+  less /tmp/yabai_$(whoami).out.log
+  ```
 -
 - Note: Some features require [partially disabling System Integrity Protection (SIP)](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection) to inject a script into Dock.app.
   background-color:: red
