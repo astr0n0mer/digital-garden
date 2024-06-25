@@ -23,7 +23,8 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 		  yabai --restart-service
 		  ```
 -
-- Troubleshooting: Checkout the log files```shell
+- Troubleshooting: Checkout the log files
+  ```shell
   less /tmp/yabai_$(whoami).err.log
   less /tmp/yabai_$(whoami).out.log
   ```

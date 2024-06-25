@@ -13,3 +13,9 @@ tags:: [[Keybinding/Manager]] [[macOS/exclusive]]
 	  skhd --restart-service
 	  skhd --reload
 	  ```
+-
+- Troubleshooting
+  ```shell
+  less /tmp/skhd_$(whoami).err.log
+  less /tmp/skhd_$(whoami).out.log
+  ```
