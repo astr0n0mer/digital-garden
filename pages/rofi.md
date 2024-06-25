@@ -8,7 +8,8 @@ tags:: [[dmenu/Alternative]]
 	- ```shell
 	  #! install MacPorts
 	  sudo port install rofi
-	  #! the install has a confirmation and takes quite some time
+	  # the install has a confirmation and takes quite some time
 	  ln -s /opt/local/bin/rofi ~/.local/bin/rofi
 	  ls -al $_
+	  #! logout and log back in
 	  ```
