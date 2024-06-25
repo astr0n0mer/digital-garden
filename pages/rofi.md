@@ -13,3 +13,5 @@ tags:: [[dmenu/Alternative]]
 	  ls -al $_
 	  #! logout and log back in
 	  ```
+-
+- Configuration
