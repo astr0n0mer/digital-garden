@@ -8,4 +8,5 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 - [Install](https://github.com/ianyh/Amethyst/#getting-amethyst)
 	- ```shell
 	  brew install --cask amethyst
+	  open -a 'Amethyst'
 	  ```
