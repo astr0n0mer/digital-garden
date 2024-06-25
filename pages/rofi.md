@@ -6,6 +6,7 @@ tags:: [[dmenu/Alternative]]
 -
 - [Install](https://github.com/davatorium/rofi/blob/next/INSTALL.md#macos) on macOS
 	- ```shell
-	  # install MacPorts
+	  #! install MacPorts
 	  sudo port install rofi
+	  #! the install has a confirmation and takes quite some time
 	  ```
