@@ -2,4 +2,9 @@ tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
 
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)
   @@html: <a href="https://github.com/oliverschwendener/ueli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=oliverschwendener&repo=ueli&theme=tokyonight" alt="oliverschwendener/ueli"/></a>@@
-- @@html: <video ></video>@@
+- @@html: <video src="https://ueli.app/assets/demo.mp4" alt="Ueli Demo" autoplay controls></video>@@
+-
+- Install on macOS
+	- ```shell
+	  brew install --cask ueli
+	  ```
