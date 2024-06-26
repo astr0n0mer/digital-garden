@@ -8,9 +8,7 @@ tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
 - Install on macOS
 	- ```shell
 	  TEMP_DIR=$(mktemp -d)
-	  cd $TEMP_DIR
 	  gh release download --repo oliverschwendener/ueli --pattern "*arm64*.dmg" --dir $TEMP_DIR
-	  open ~/Library/Caches/Homebrew/downloads/*Ueli*.dmg
-	  popd
+	  open $TEMP_DIR/*Ueli*.dmg
 	  rm -r $TEMP_DIR
 	  ```
