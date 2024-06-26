@@ -7,6 +7,10 @@ tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
 -
 - Install on macOS
 	- ```shell
-	  brew install --cask ueli
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  
 	  open ~/Library/Caches/Homebrew/downloads/*Ueli*.dmg
+	  popd
+	  rm $TEMP_DIR
 	  ```
