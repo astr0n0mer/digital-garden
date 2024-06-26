@@ -9,8 +9,8 @@ tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
 	- ```shell
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
-	  
+	  gh release download --repo oliverschwendener/ueli --pattern "*arm64*.dmg" --dir $TEMP_DIR
 	  open ~/Library/Caches/Homebrew/downloads/*Ueli*.dmg
 	  popd
-	  rm $TEMP_DIR
+	  rm -r $TEMP_DIR
 	  ```
