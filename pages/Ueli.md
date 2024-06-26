@@ -8,4 +8,5 @@ tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
 - Install on macOS
 	- ```shell
 	  brew install --cask ueli
+	  open ~/Library/Caches/Homebrew/downloads/*Ueli*.dmg
 	  ```
