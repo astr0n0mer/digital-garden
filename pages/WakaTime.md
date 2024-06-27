@@ -1,1 +1,2 @@
 - [WakaTime](https://wakatime.com/)
+- ![WakaTime](https://wakatime.com/static/img/ScreenShots/editor-and-dashboard-b.png)
