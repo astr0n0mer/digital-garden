@@ -1,4 +1,4 @@
-tags:: [[Gitpod/Alternative]] [[Self Host]]
+tags:: [[Remote/Development]] [[Self Host]]
 
 - [Coder](https://coder.com/) enables organizations to set up development environments in their public or private cloud infrastructure.
 - [coder/coder](https://github.com/coder/coder)
