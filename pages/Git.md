@@ -4,7 +4,7 @@ tags:: [[Version Control]]
 - Git is a FOSS distributed [[Version Control]] system designed to handle everything from small to very large projects with speed and efficiency.
 - [[Linus Torvalds]], the creator of the [[Linux/Kernel]], developed Git in 2005.
 -
-- Install on Linux
+- Install using apt
 	- ```shell
 	  sudo apt-get install git
 	  ```
