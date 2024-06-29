@@ -4,8 +4,9 @@ tags:: [[dmenu/Alternative]]
   @@html: <a href="https://github.com/davatorium/rofi/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=davatorium&repo=rofi&theme=tokyonight" alt="davatorium/rofi"/></a>@@
 - @@html: <video src="https://user-images.githubusercontent.com/84911063/139428874-fe182dd6-82c6-49b8-8da1-920ddda3d1ed.mp4" alt="Rofi Demo" autoplay controls></video>@@
 -
-- Install using apt
+- [Install using apt](https://github.com/davatorium/rofi/blob/next/INSTALL.md#debian-or-ubuntu)
 	- ```shell
+	  apt install rofi
 	  ```
 -
 - [Install](https://github.com/davatorium/rofi/blob/next/INSTALL.md#macos) on macOS
