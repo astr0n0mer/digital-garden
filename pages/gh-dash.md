@@ -6,7 +6,7 @@ tags:: [[gh/Extension]]
 - ![gh-dash](https://user-images.githubusercontent.com/6196971/198704107-6775a0ba-669d-418b-9ae9-59228aaa84d1.gif)
 -
 - [Install](https://github.com/dlvhdr/gh-dash#-installation)
-	- ```bash
-	  gh extension install dlvhdr/gh-dash
-	  gh dash --help
-	  ```
+  - ```shell
+    gh extension install dlvhdr/gh-dash
+    gh dash --help
+    ```

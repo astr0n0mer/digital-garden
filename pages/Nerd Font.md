@@ -7,10 +7,10 @@ tags:: [[Font]]
   @@html: <a href="https://github.com/ronniedroid/getnf/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ronniedroid&repo=getnf&theme=tokyonight" alt="ronniedroid/getnf"/></a>@@
 -
 - [Install getnf](https://github.com/ronniedroid/getnf/#installation)
-	- ```bash
-	  curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
-	  exec $SHELL
-	  getnf --help
-	  ```
+  - ```shell
+    curl -fsSL https://raw.githubusercontent.com/ronniedroid/getnf/master/install.sh | bash
+    exec $SHELL
+    getnf --help
+    ```
 -
 - View live demo of fonts using [[Programming Fonts]]

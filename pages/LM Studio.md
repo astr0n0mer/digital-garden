@@ -7,6 +7,6 @@ tags:: [[Local LLM]]
   @@html: <a href="https://github.com/lmstudio-ai/lms/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=lmstudio-ai&repo=lms&theme=tokyonight" alt="lmstudio-ai/lms"/></a>@@
 -
 - Install
-	- ```bash
-	  brew install --cask lm-studio
-	  ```
+  - ```shell
+    brew install --cask lm-studio
+    ```

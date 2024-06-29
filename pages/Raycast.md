@@ -4,6 +4,6 @@ tags:: [[Keystroke Launcher]]
 - [Raycast Manual](https://manual.raycast.com/)
 -
 - Install on macOS with Homebrew
-	- ```bash
-	  brew install --cask raycast
-	  ```
+  - ```shell
+    brew install --cask raycast
+    ```

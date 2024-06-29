@@ -5,6 +5,6 @@ tags:: [[Hacker News/CLI]]
   @@html: <a href="https://github.com/piqoni/hn-text/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=piqoni&repo=hn-text&theme=tokyonight" alt="piqoni/hn-text"/></a>@@
 -
 - [Install](https://github.com/piqoni/hn-text#installation)
-	- ```bash
-	  go install github.com/piqoni/hn-text@latest
-	  ```
+  - ```shell
+    go install github.com/piqoni/hn-text@latest
+    ```

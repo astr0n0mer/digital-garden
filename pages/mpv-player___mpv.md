@@ -5,6 +5,6 @@ tags:: [[Video/Player]]
   @@html: <a href="https://github.com/mpv-player/mpv/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=mpv-player&repo=mpv&theme=tokyonight" alt="mpv-player/mpv"/></a>@@
 -
 - Install on macOS:
-	- ```bash
-	  brew install mpv
-	  ```
+  - ```shell
+    brew install mpv
+    ```

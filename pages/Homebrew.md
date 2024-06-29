@@ -5,11 +5,11 @@ tags:: [[Package/Manager]]
   @@html: <a href="https://github.com/Homebrew/brew/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=Homebrew&repo=brew&theme=tokyonight" alt="Homebrew/brew"/></a>@@
 -
 - Install
-	- ```bash
-	  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-	  ```
-	- Add to shell profile:
-		- ```bash
-		  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
-		  eval "$(/opt/homebrew/bin/brew shellenv)"
-		  ```
+  - ```shell
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+  - Add to shell profile:
+    - ```shell
+      (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
+      eval "$(/opt/homebrew/bin/brew shellenv)"
+      ```

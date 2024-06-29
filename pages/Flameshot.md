@@ -7,6 +7,6 @@ tags:: [[Screenshot]]
 - ![Flameshot](https://flameshot.org/img/flameshot-demo.gif)
 -
 - [Install](https://github.com/flameshot-org/flameshot#installation)
-	- ```bash
-	  brew install --cask flameshot
-	  ```
+  - ```shell
+    brew install --cask flameshot
+    ```

@@ -5,6 +5,6 @@ tags:: [[YouTube/Download]] [[CLI]]
   @@html: <a href="https://github.com/ytdl-org/youtube-dl/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ytdl-org&repo=youtube-dl&theme=tokyonight" alt="ytdl-org/youtube-dl"/></a>@@
 -
 - Install with Homebrew:
-	- ```bash
-	  brew install youtube-dl
-	  ```
+  - ```shell
+    brew install youtube-dl
+    ```

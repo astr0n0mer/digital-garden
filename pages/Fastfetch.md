@@ -6,7 +6,7 @@ tags:: [[CLI]]
 - ![Fastfetch](https://github.com/fastfetch-cli/fastfetch/raw/dev/screenshots/example1.png)
 -
 - [Install](https://github.com/fastfetch-cli/fastfetch#installation)
-	- ```bash
-	  brew install fastfetch
-	  fastfetch
-	  ```
+  - ```shell
+    brew install fastfetch
+    fastfetch
+    ```

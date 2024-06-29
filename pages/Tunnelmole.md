@@ -5,7 +5,7 @@ tags:: [[local-tunneling]]
   @@html: <a href="https://github.com/robbie-cahill/tunnelmole-client/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=robbie-cahill&repo=tunnelmole-client&theme=tokyonight" alt="robbie-cahill/tunnelmole-client"/></a>@@
 -
 - Example
-  ```bash
+  ```shell
   # for exposing localhost:8000
   npx tunnelmole 8000
   ```

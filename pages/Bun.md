@@ -5,6 +5,6 @@ tags:: [[JavaScript/Runtime]] [[Javascript/Bundler]] [[Javascript/Test Runner]] 
   @@html: <a href="https://github.com/oven-sh/bun/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=oven-sh&repo=bun&theme=tokyonight" alt="oven-sh/bun"/></a>@@
 -
 - Install on Linux and macOS
-	- ```bash
-	  curl -fsSL https://bun.sh/install | bash
-	  ```
+  - ```shell
+    curl -fsSL https://bun.sh/install | bash
+    ```

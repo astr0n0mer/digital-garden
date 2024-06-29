@@ -5,6 +5,6 @@ tags:: [[Python]] [[Virtual Environment]]
   @@html: <a href="https://github.com/pypa/virtualenv/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=pypa&repo=virtualenv&theme=tokyonight" alt="pypa/virtualenv"/></a>@@
 -
 - Install on Linux and macOS
-	- ```bash
-	  pip install virtualenv
-	  ```
+  - ```shell
+    pip install virtualenv
+    ```

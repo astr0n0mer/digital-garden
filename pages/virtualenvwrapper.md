@@ -6,10 +6,10 @@ tags:: [[Python]] [[virtualenv]] [[Virtual Environment]]
 - [virtualenvwrapper.readthedocs.io](https://virtualenvwrapper.readthedocs.io/)
 -
 - [Install](https://virtualenvwrapper.readthedocs.io/#introduction) on Linux and macOS
-	- ```bash
-	  pip install virtualenv
-	  pip install virtualenvwrapper
-	  # add following lines to your shell startup file
-	  # export WORKON_HOME="$HOME/.virtualenvs"
-	  # source $HOME/.pyenv/versions/3.12.1/bin/virtualenvwrapper.sh
-	  ```
+  - ```shell
+    pip install virtualenv
+    pip install virtualenvwrapper
+    # add following lines to your shell startup file
+    # export WORKON_HOME="$HOME/.virtualenvs"
+    # source $HOME/.pyenv/versions/3.12.1/bin/virtualenvwrapper.sh
+    ```

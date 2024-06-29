@@ -5,6 +5,6 @@ tags:: [[Terminal]]
   @@html: <a href="https://github.com/tmux/tmux/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=tmux&repo=tmux&theme=tokyonight" alt="tmux/tmux"/></a>@@
 -
 - [Install](https://github.com/tmux/tmux/wiki/Installing)
-	- ```bash
-	  brew install tmux
-	  ```
+  - ```shell
+    brew install tmux
+    ```

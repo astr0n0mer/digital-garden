@@ -1,5 +1,5 @@
 -
 - Install on macOS:
-	- ```bash
-	  brew install --cask slack
-	  ```
+  - ```shell
+    brew install --cask slack
+    ```

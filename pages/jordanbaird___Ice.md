@@ -6,7 +6,7 @@ tags:: [[macOS/exclusive]] [[Menubar/Manager]]
 - ![Ice](https://icemenubar.app/gallery_gen/499a546714aced2d37b2d25814735a82_fit.gif)
 -
 - [Install](https://github.com/jordanbaird/Ice#install)
-	- ```bash
-	  brew install jordanbaird-ice
-	  open -a Ice
-	  ```
+  - ```shell
+    brew install jordanbaird-ice
+    open -a Ice
+    ```

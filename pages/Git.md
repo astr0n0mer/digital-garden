@@ -4,17 +4,17 @@ tags:: [[Version Control]]
 - [[Linus Torvalds]], the creator of the [[Linux/Kernel]], developed Git in 2005.
 -
 - Install on Linux
-	- ```bash
-	  sudo apt-get install git
-	  ```
+  - ```shell
+    sudo apt-get install git
+    ```
 -
 - Install on macOS
-	- ```bash
-	  brew install git
-	  ```
+  - ```shell
+    brew install git
+    ```
 -
 - Setup commands
-	- ```bash
-	  git config --global user.email "user@email.com"
-	  git config --global user.name "astr0n0mer"
-	  ```
+  - ```shell
+    git config --global user.email "user@email.com"
+    git config --global user.name "astr0n0mer"
+    ```

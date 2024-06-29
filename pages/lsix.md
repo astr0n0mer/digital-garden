@@ -4,8 +4,8 @@
 - ![lsix](https://raw.githubusercontent.com/hackerb9/lsix/master/README.md.d/example1.png)
 -
 - [Install](https://github.com/hackerb9/lsix#installation)
-	- ```bash
-	  brew install lsix
-	  ```
+  - ```shell
+    brew install lsix
+    ```
 -
 - Did not work on macOS default Terminal
