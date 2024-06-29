@@ -7,25 +7,27 @@
   :END:
   ```shell
   git config --global user.email "ID+USERNAME@users.noreply.github.com"
+  git config --global user.email
   ```
 - DONE [tell Git about your signing key to verify commit signatures](https://docs.github.com/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key#telling-git-about-your-ssh-key) #Git #GitHub #Security
   :LOGBOOK:
   CLOCK: [2024-02-02 Fri 01:44:16]--[2024-02-02 Fri 01:51:21] => 00:07:05
   :END:
-  
+
   ```shell
   git config --global gpg.format ssh
   git config --global user.signingkey ~/.ssh/astr0n0mer.pub
-  
+
   # Now you need to tell GitHub about this signing key
   # Reference: https://stackoverflow.com/a/76068031/7753274
-  
+
   # Add ~/.ssh/astr0n0mer.pub as signing key on GitHub
   # Do this even if you have the same key as your authentication key
   # https://github.com/settings/ssh/new
   # set Key type: Signing Key
   cat ~/.ssh/astr0n0mer.pub | pbcopy
   ```
+
 - DONE [enable signing commits](https://docs.github.com/authentication/managing-commit-signature-verification/signing-commits) by default in [[Git]] #Security
   :LOGBOOK:
   CLOCK: [2024-02-02 Fri 01:51:19]--[2024-02-02 Fri 01:52:29] => 00:01:10

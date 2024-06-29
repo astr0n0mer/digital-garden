@@ -1,0 +1,11 @@
+- DONE Expose local [[frappe]] bench to the internet
+  - Used [[ngrok]] to expose a custom localhost to the internet
+    ```shell
+    ngrok http http://development.localhost:8000 --host-header="development.localhost:8000"
+    ```
+    For some usage policy violation, the above command got me and Allan blocked from ngrok
+  - Used [[localtunnel]] as [[ngrok]] replacement for now
+- DONE Create radar/spider chart
+  - Saw some examples of radar/spider chart being created using [[plotly]] and [[pygal]]
+- DONE #explore [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) #local-tunneling #[[Awesome/Tunneling]]
+  @@html: <a href="https://github.com/anderspitman/awesome-tunneling/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=anderspitman&repo=awesome-tunneling&theme=tokyonight" alt="anderspitman/awesome-tunneling/"/></a>@@

@@ -1,0 +1,20 @@
+- Used `bench backup` and `bench restore` commands to create dummy datasets in [[frappe]] bench
+- Steps:
+  - Import data into Frappe
+    logseq.order-list-type:: number
+  - Create site backup
+    logseq.order-list-type:: number
+    - ```shell
+      bench --site source.localhost backup <path_to_sql_backup_file>
+      ```
+  - Restore site backup
+    logseq.order-list-type:: number
+    - ```shell
+      bench --site destination.localhost restore <path_to_sql_backup_file> --force
+      # MySQL root password: 123
+      ```
+- Notes:
+  - Any apps present while taking the backup should be present when you're restoring the backup
+    logseq.order-list-type:: number
+  - Need to see what happens if I do not have the other apps that are present in source but not in destination localhost
+    logseq.order-list-type:: number

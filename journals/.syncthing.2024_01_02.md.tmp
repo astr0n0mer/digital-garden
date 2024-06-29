@@ -1,0 +1,23 @@
+- DONE [#B] set up [[GitHub/Copilot]] on [[VS Code]] and [[VSCodium]]
+- TODO #explore [[GitHub/Codespaces]]
+- TODO #explore [[GitHub/Education]]
+- CANCELLED set up an alias in [[Shell]] to run a command N times
+  ```shell
+  n=5;
+  for ((i=0 ; i<$n ; i++)); do; echo $i; done;
+  ```
+	- This is already available in [[ohmyzsh]] as `repeat`
+		- ```shell
+		  repeat 5 { echo "Hi" }
+		  ```
+	- Referenece:
+	  [Is there a better way to run a command N times in bash?](https://stackoverflow.com/a/3737773/7753274)
+- DONE How does [[Bluetooth]] Even Exist??? on [[This.]]
+  {{video https://www.youtube.com/watch?v=NIH1iGtDvJY}}
+-
+- [[Stumbled upon]]
+	- [fg](https://command-not-found.com/fg): Run jobs in foreground. [More information](https://manned.org/fg). #Shell/command
+	- [bg](https://command-not-found.com/bg): Resumes jobs that have been suspended (e.g. using `Ctrl` + `Z`), and keeps them running in the background. [More information](https://manned.org/bg). #Shell/command
+	- [jobs](https://command-not-found.com/jobs): Display status of jobs in the current session. [More information](https://manned.org/jobs). #Shell/command
+	- [kill](https://command-not-found.com/kill): Sends a signal to a [[process]], usually related to stopping the process. All signals except for `SIGKILL` and `SIGSTOP` can be intercepted by the process to perform a clean exit. [More information](https://manned.org/kill). #Shell/command
+	- [lsof](https://command-not-found.com/lsof): Lists open [[File]]s and the corresponding [[process]]es. Note: Root privileges (or [[sudo]] ) is required to list files opened by others. [More information](https://manned.org/lsof). #Shell/command
