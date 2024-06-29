@@ -1,4 +1,4 @@
-tags:: [[Ad Blocker]] [[VPN]] [[Android/App]] [[mysetup]]
+tags:: [[Ad Blocker]] [[VPN]] [[Android/App]]
 
 - [AdAway](https://adaway.org/) is an open source ad blocker for Android using the hosts file ([Hosts Sources](https://github.com/AdAway/AdAway/wiki/HostsSources)).
   [AdAway/AdAway](https://github.com/AdAway/AdAway)
