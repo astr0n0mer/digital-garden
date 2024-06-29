@@ -1,4 +1,4 @@
-tags:: [[JavaScript]] [[Package/Manager]] [[mysetup]]
+tags:: [[JavaScript]] [[Package/Manager]]
 
 -
 -
