@@ -1,0 +1,10 @@
+- DONE #fix [Font size is extra extra extra large #1501](https://github.com/alacritty/alacritty/issues/1501#issuecomment-614867213) #Alacritty
+  ```shell
+  [env]
+  WINIT_X11_SCALE_FACTOR="1.0"
+  ```
+- DONE #fix [Control screen brightness in i3](https://unix.stackexchange.com/a/529164) #i3
+  ```shell
+  DISPLAY_NAME=xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1
+  xrandr --output $DISPLAY_NAME --brightness 0.7
+  ```
