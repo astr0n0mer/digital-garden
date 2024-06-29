@@ -1,0 +1,9 @@
+- DONE add [[digital-garden]] and [[Dashy]] links to [[GitHub/Profile README]]
+	- Cannot add iframes in [[GitHub/Profile README]], so I added a screenshot of [[digital-garden]] graph and linked it to my digital garden.
+	- Did not add [[Dashy]] to README
+- TODO #explore [[uBlock Origin]]
+- Procedure Cricket at [The Sports Foundry](https://maps.app.goo.gl/YYZiNA78wud7Sa2n7) #Procedure
+-
+- [[Stumbled upon]]
+	- [tail](https://command-not-found.com/tail): Display the last part of a [[File]] . See also: `head`. [More information](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#tail-invocation). #Shell/command
+	- [head](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html): Display the first part of a [[File]]. See also: `tail`. #Shell/command

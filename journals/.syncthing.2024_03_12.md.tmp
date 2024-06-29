@@ -1,0 +1,15 @@
+- DONE set up [[glab]]
+- DONE [Rnote – An open-source vector-based drawing app (flxzt.net)](https://news.ycombinator.com/item?id=39671212) on [[Hacker News]] #Rnote
+- DONE [JSON Canvas – An open file format for infinite canvas data (jsoncanvas.org)](https://news.ycombinator.com/item?id=39670922) on [[Hacker News]] #JSON #Canvas
+- TODO [Show HN: Prompts as (WASM) Programs (github.com/microsoft)](https://news.ycombinator.com/item?id=39670665) on [[Hacker News]]
+- DONE [Why and how to write things on the Internet (benkuhn.net)](https://news.ycombinator.com/item?id=39674394) on [[Hacker News]]
+  :LOGBOOK:
+  CLOCK: [2024-03-12 Tue 09:29:26]--[2024-06-28 Fri 00:41:00] => 2583:11:34
+  :END:
+- TODO [#C] set up ssh/config
+  https://stackoverflow.com/a/56285988/7753274
+- DONE [How to check the processor architecture on your mac](https://medium.com/@donald.murillo07/how-to-check-the-processor-architecture-on-your-mac-541829ec2d5f) #macOS #[[Processor/Architecture]]
+  ```shell
+  uname -p
+  # uname -a
+  ```

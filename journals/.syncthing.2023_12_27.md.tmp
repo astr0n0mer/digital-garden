@@ -1,0 +1,13 @@
+- DONE [#B] figure out if you can setup `screen` on [[Shell]] startup using [[screenrc]] file
+  :LOGBOOK:
+  CLOCK: [2024-01-06 Sat 01:20:41]--[2024-01-07 Sun 13:25:54] =>  36:05:13
+  :END:
+	- could not start `screen` sessions in detached mode when using `.screenrc` file as `-d` option was not allowed in `screenrc` file.
+	  so a session with `syncthing` running would take up the current terminal and I wouldn't be able to push it to background jobs
+	- Instead I now use `screen -dmS syncthing syncthing` to start `syncthing` in detached mode
+	- ((659a57de-92ec-4072-8e22-46f98a8a28cc))
+- DONE [#B] set up [[Cron]] for hourly/daily/weekly tasks
+- TODO #explore [[chezmoi]]
+- TODO #explore [[yadm]]
+- CANCELLED #explore [[homesick]]
+- TODO #explore [[homeshick]]

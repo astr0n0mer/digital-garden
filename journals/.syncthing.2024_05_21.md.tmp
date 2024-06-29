@@ -1,0 +1,15 @@
+- TODO [Coding My Handwriting (amygoodchild.com)](https://news.ycombinator.com/item?id=40408291) on [[Hacker News]]
+- TODO [OpenProject – open-source project management software (openproject.org)](https://news.ycombinator.com/item?id=40399577) on [[Hacker News]]
+- TODO [Noi: an AI-enhanced, customizable browser (github.com/lencx)](https://news.ycombinator.com/item?id=40399923) on [[Hacker News]]
+- TODO [A web version of Anthropic's prompt engineering interactive tutorial (thenameless.net)](https://news.ycombinator.com/item?id=40395057) on [[Hacker News]]
+- TODO [Regular expression matching can be simple and fast (2007) (swtch.com)](https://news.ycombinator.com/item?id=40422997) on [[Hacker News]]
+- TODO [How terminal works. Part 1: Xterm, user input (kevroletin.github.io)](https://news.ycombinator.com/item?id=40419325) on [[Hacker News]]
+- DONE [#C] #[[DOES NOT WORK]] set up [Pylance 2024.3.102 Vsix File](https://www.vsixhub.com/vsix/136403/) from [VsixHub](https://www.vsixhub.com/) #VSCodium #Pylance
+  :LOGBOOK:
+  CLOCK: [2024-05-24 Fri 03:04:23]--[2024-05-24 Fri 03:18:27] => 00:14:04
+  :END:
+  - Download VSIX File from [VsixHub >](https://www.vsixhub.com/go.php?post_id=136403&app_id=364d2426-116a-433a-a5d8-a5098dc3afbd&s=4WQQGbtOYWGK2&link=https%3A%2F%2Ff2.vsixhub.com%2Ffile.php%3Fversion%3D2024.3.102%26ext_name%3Dvscode-pylance)
+  - [How to install VS code extension manually?](https://stackoverflow.com/a/50232194/7753274)
+  - ```shell
+    codium --profile codium-python --install-extension ~/Downloads/vscode-pylance-2024.3.102_vsixhub.com.vsix
+    ```
