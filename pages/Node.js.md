@@ -1,4 +1,4 @@
-tags:: [[JavaScript]] [[runtime]] [[mysetup]]
+tags:: [[JavaScript/Runtime]]
 
 -
 -
