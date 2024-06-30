@@ -1,5 +1,4 @@
-- ![Phidata on YouTube](https://mintlify.s3-us-west-1.amazonaws.com/phidata/images/assistant.png)
-  #[[YouTube/Channel]] #LLM 
+- #[[YouTube/Channel]] #LLM 
   [YouTube](https://www.youtube.com/@phidata)
 -
 - [Phidata](https://docs.phidata.com/introduction) is a framework for adding memory, knowledge and tools to LLMs.
