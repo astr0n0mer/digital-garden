@@ -7,4 +7,5 @@ tags:: [[dotfiles/Manager]]
 - Install on macOS
 	- ```shell
 	  brew install ansible
+	  ansible --version
 	  ```
