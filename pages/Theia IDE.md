@@ -1,4 +1,4 @@
-tags:: [[Code/Editor]] [[VS Code/Alternative]]
+tags:: [[Code/Editor]]
 
 - The [Theia IDE](https://theia-ide.org/#theiaide) is a standard IDE built on the [Theia Platform](https://theia-ide.org/).
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
