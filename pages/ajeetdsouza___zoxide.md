@@ -1,1 +1,2 @@
-- https://github.com/ajeetdsouza/zoxide
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+  @@html: <a href="https://github.com/ajeetdsouza/zoxide/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=ajeetdsouza&repo=zoxide&theme=tokyonight" alt="ajeetdsouza/zoxide"/></a>@@
