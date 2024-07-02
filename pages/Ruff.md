@@ -5,4 +5,8 @@ tags:: [[Python/Formatter]] [[Python/Linter]]
   @@html: <a href="https://github.com/astral-sh/ruff/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astral-sh&repo=ruff&theme=tokyonight" alt="astral-sh/ruff"/></a>@@
 - ![Ruff benchmarks](https://user-images.githubusercontent.com/1309177/232603514-c95e9b0f-6b31-43de-9a80-9e844173fd6a.svg)
 -
-- Install
+- Install with pip
+	- ```shell
+	  pip install ruff
+	  ruff --version
+	  ```
