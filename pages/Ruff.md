@@ -1,4 +1,4 @@
-tags:: [[Python]] [[Formatter]] [[Linter]]
+tags:: [[Python/Formatter]] [[Python/Linter]]
 
 - [Ruff](https://docs.astral.sh/ruff/): An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
