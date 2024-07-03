@@ -13,6 +13,7 @@
 -
 - ## \Explore
 - {{query (and [[explore]] (not (task CANCELLED DONE)))}}
+  collapsed:: true
 -
 - ## \TODO
-- {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)))}}
+- {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)) (not [[explore]]))}}
