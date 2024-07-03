@@ -11,5 +11,8 @@
 - {{query (and (task LATER WAIT TODO) (not "{{video") (priority A B C))}}
   query-table:: false
 -
+- ## \Explore
+- {{query (not)}}
+-
 - ## \TODO
 - {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)))}}
