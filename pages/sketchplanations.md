@@ -1,1 +1,2 @@
-- [sketchplanations]
+- [sketchplanations](https://sketchplanations.com/): Explaining the world one sketch at a time
+- @@html: <iframe src="https://sketchplanations.com/" alt="sketchplanations" class="browser-tab"></iframe>@@
