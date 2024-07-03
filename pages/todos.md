@@ -12,7 +12,7 @@
   query-table:: false
 -
 - ## \Explore
-- {{query (not)}}
+- {{query (and [[explore]] (not (task CANCELLED DONE)))}}
 -
 - ## \TODO
 - {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)))}}
