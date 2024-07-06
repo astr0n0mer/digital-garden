@@ -7,10 +7,11 @@ tags:: [[Spreadsheet]]
 - Install
 	- ```shell
 	  pip3 install visidata
+	  vd --version
 	  ```
 	- Note for macOS: I also had to install `ncurses` for `visidata` to work
 	  ```shell
 	  brew install ncurses
 	  ```
 -
-- @@html: <iframe src="https://www.visidata.org/" alt="VisiData" @@
+- @@html: <iframe src="https://www.visidata.org/" alt="VisiData" class="browser-tab"></iframe>@@
