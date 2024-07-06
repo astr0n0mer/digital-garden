@@ -8,3 +8,4 @@ tags:: [[Spreadsheet]]
 	- ```shell
 	  pip3 install visidata
 	  ```
+	- Note for macOS: I also had to install ncurses
