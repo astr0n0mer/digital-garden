@@ -1,4 +1,4 @@
-tags:: [[Spreadsheet]]
+tags:: [[Terminal/Spreadsheet]]
 
 - [VisiData](https://www.visidata.org/): A terminal spreadsheet multitool for discovering and arranging data
 - [saulpw/visidata](https://github.com/saulpw/visidata)
