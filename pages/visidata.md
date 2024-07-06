@@ -12,3 +12,5 @@ tags:: [[Spreadsheet]]
 	  ```shell
 	  brew install ncurses
 	  ```
+-
+- @@html: <iframe src="https://www.visidata.org/" alt="VisiData" @@
