@@ -6,4 +6,5 @@ tags:: [[YouTube/Terminal]]
 - [Install](https://github.com/mps-youtube/yewtube#installation)
 	- ```shell
 	  pipx install yewtube
+	  
 	  ```
