@@ -6,5 +6,9 @@ tags:: [[Spotify]]
 -
 - [Install](https://github.com/Rigellute/spotify-tui/#installation)
 	- ```shell
+	  #! spotify-tui relies on openssl@1.1 which is deprecated
+	  brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/cca2f8cc65/Formula/openssl@1.1.rb
+	  brew link --force openssl@1.1
+	  
 	  brew install spotify-tui
 	  ```
