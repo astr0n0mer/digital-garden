@@ -5,7 +5,7 @@ tags:: [[YouTube/Terminal]]
   @@html: <a href="https://github.com/Siriusmart/youtube-tui/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=Siriusmart&repo=youtube-tui&theme=tokyonight" alt="Siriusmart/youtube-tui"/></a>@@
 - ![youtube-tui demo](https://raw.githubusercontent.com/Siriusmart/youtube-tui/master/docs/src/images/search-showcase.png)
 -
-- Install
+- [Install](https://siriusmart.github.io/youtube-tui/installation.html#features)
 	- ```shell
 	  cargo install youtube-tui --no-default-features -F 'halfblock'
 	  ```
