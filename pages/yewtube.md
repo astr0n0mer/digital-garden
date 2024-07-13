@@ -5,6 +5,6 @@ tags:: [[YouTube/Terminal]]
 -
 - [Install](https://github.com/mps-youtube/yewtube#installation)
 	- ```shell
+	  #! requires mplayer, mpv or VLC
 	  pipx install yewtube
-	  
 	  ```
