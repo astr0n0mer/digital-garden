@@ -5,4 +5,7 @@ tags:: [[YouTube/Terminal]]
 -
 - Install
 	- ```shell
+	  TEMP_DIR=$(mktemp -d)
+	  gh release download --repo sudipghimire533/ytui-music --pattern "*macos*" --dir $TEMP_DIR
+	  open $TEMP_DIR/*Ueli*.dmg && rm -r $TEMP_DIR
 	  ```
