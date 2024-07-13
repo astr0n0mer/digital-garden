@@ -8,3 +8,6 @@ tags:: [[Unmaintained]] [[Spotify]]
 	- ```shell
 	  brew install spotify-tui
 	  ```
+-
+- Note: [Requires Spotify Premium account](https://github.com/Rigellute/spotify-tui/#limitations)
+  background-color:: red
