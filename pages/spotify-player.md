@@ -8,3 +8,5 @@ tags:: [[Spotify]]
 	- ```shell
 	  brew install spotify_player
 	  ```
+-
+- Note: [Requires Spotify Premium account](https://github.com/aome510/spotify-player#requirements)
