@@ -7,5 +7,6 @@ tags:: [[YouTube/Terminal]]
 -
 - Install
 	- ```shell
+	  brew install libsixel #! since I did not have sixel installed
 	  cargo install youtube-tui
 	  ```
