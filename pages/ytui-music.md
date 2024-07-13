@@ -14,10 +14,5 @@ tags:: [[YouTube/Terminal]]
 	  sudo ln -s $(which mpv) /usr/local/opt/mpv
 	  ```
 -
-- Note: Could not get this to work on macOS 14
-  ```shell
-  $ ytui_music
-  dyld[24069]: Library not loaded: /usr/local/opt/mpv/lib/libmpv.2.dylib
-    Referenced from: <4D86F5CC-5EF3-3F76-A2BD-FEAB0ED81A40> /Users/imran/.local/bin/ytui_music
-    Reason: tried: '/usr/local/opt/mpv/lib/libmpv.2.dylib' (errno=20), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/opt/mpv/lib/libmpv.2.dylib' (no such file), '/usr/local/opt/mpv/lib/libmpv.2.dylib' (errno=20), '/usr/local/lib/libmpv.2.dylib' (no such file), '/usr/lib/libmpv.2.dylib' (no such file, not in dyld cache)
-  ```
+- Note: Could not get this to work on macOS 14 (`ytui_music` was unable to find `mpv`)
+  background-color:: red
