@@ -10,3 +10,4 @@ tags:: [[Spotify]]
 	  ```
 -
 - Note: [Requires Spotify Premium account](https://github.com/aome510/spotify-player#requirements)
+  background-color:: red
