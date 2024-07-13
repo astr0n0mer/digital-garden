@@ -11,5 +11,5 @@ tags:: [[YouTube/Terminal]]
 	  chmod +x ~/.local/bin/ytui_music
 	  
 	  sudo mkdir -p /usr/local/opt
-	  ln -s $(which mpv) /usr/local/opt/mpv
+	  sudo ln -s $(which mpv) /usr/local/opt/mpv
 	  ```
