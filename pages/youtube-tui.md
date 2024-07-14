@@ -7,5 +7,6 @@ tags:: [[YouTube/Terminal]]
 -
 - [Install](https://siriusmart.github.io/youtube-tui/installation.html#features)
 	- ```shell
+	  #! install cargo
 	  cargo install youtube-tui --no-default-features -F 'halfblock'
 	  ```
