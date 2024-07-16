@@ -5,9 +5,9 @@ tags:: [[NixOS]] [[Package/Manager]]
 - [NixOS/nix](https://github.com/NixOS/nix)
   @@html: <a href="https://github.com/NixOS/nix/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=NixOS&repo=nix&theme=tokyonight" alt="NixOS/nix"/></a>@@
 -
-- [Nix & NixOS Cheatsheet](https://nixcademy.com/cheatsheet.html)
+- [Nix & NixOS Cheatsheet](https://nixcademy.com/cheatsheet/)
 -
-- Nix packages
+- [Nix packages](https://search.nixos.org/packages)
 	- @@html: <iframe src="https://search.nixos.org/packages" alt="Nix packages" class="browser-tab"></iframe>@@
 -
 - Setup
