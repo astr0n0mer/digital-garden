@@ -9,3 +9,8 @@ tags:: [[YouTube/Terminal]]
 	  #! requires mplayer, mpv or VLC
 	  pipx install yewtube
 	  ```
+-
+- Review
+	- Selecting a video is done using their serial number on the list
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
