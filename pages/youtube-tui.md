@@ -10,3 +10,9 @@ tags:: [[YouTube/Terminal]]
 	  #! install cargo
 	  cargo install youtube-tui --no-default-features -F 'halfblock'
 	  ```
+-
+- Review
+	- Has audio and video support using mpv
+	  logseq.order-list-type:: number
+	- Cannot pause tracks in between
+	  logseq.order-list-type:: number

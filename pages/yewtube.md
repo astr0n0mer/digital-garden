@@ -13,4 +13,5 @@ tags:: [[YouTube/Terminal]]
 - Review
 	- Selecting a video is done using their serial number on the list
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Has play and pause feature
+	  logseq.order-list-type:: number
