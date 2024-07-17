@@ -7,3 +7,6 @@ tags:: [[YouTube/Terminal]]
 	- ```shell
 	  cargo install ytermusic --git https://github.com/ccgauche/ytermusic
 	  ```
+-
+- Review
+	- Setting up auth using browser cookies is too much work
