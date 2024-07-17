@@ -5,4 +5,5 @@ tags:: [[YouTube/Terminal]]
 -
 - [Install](https://github.com/tramhao/termusic#installation)
 	- ```shell
+	  brew install protobuf
 	  ```
