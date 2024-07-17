@@ -5,4 +5,5 @@ tags:: [[YouTube/Terminal]]
 -
 - [Install](https://github.com/tramhao/termusic#installation)
 	- ```shell
+	  nix-shell -p termusic
 	  ```
