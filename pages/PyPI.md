@@ -1,4 +1,4 @@
-tags:: [[Python/Package Repository]]
+tags:: [[Python/Package/Repository]]
 
 - [Python Package Index (PyPI)](https://pypi.org/) is a repository of software for the Python programming language.
 - [pypi/warehouse](https://github.com/pypi/warehouse)
