@@ -1,4 +1,4 @@
-tags:: [[Python/Package]]
+tags:: [[Python/Virtual Environment]]
 
 - [pyenv](https://github.com/pyenv/pyenv) is a tool that helps manage multiple [[Python]] versions and [[Virtual Environment]]s on a machine.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv/)
