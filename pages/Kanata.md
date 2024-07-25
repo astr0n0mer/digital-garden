@@ -11,10 +11,17 @@ tags:: [[Keyboard/Remapper]]
 	  curl -L "https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/raw/main/dist/Karabiner-DriverKit-VirtualHIDDevice-3.1.0.pkg" -o "Karabiner-DriverKit-VirtualHIDDevice.pkg"
 	  sudo installer -pkg Karabiner-DriverKit-VirtualHIDDevice.pkg -target /
 	  /Applications/.Karabiner-VirtualHIDDevice-Manager.app/Contents/MacOS/Karabiner-VirtualHIDDevice-Manager activate
+	  
+	  curl -L "https://github.com/jtroo/kanata/releases/download/latest/kanata_macos_arm64" -o "kanata"
+	  mv $_ ~/.local/bin/
+	  
+	  
 	  popd
 	  rm -r $TEMP_DIR
 	  
-	  cargo install kanata
+	  
+	  
+	  
 	  kanata --version
 	  
 	  #! Allow accessibility permission to kanata
