@@ -5,9 +5,10 @@ tags:: [[Keyboard/Remapper]]
 -
 - [Install](https://github.com/jtroo/kanata/#pre-built-executables) on macOS
 	- ```shell
-	  #! Install and activate "Karabiner VirtualHiDDevice Driver" first
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
+	  
+	  #! Install and activate "Karabiner VirtualHiDDevice Driver" first
 	  curl -L "https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/raw/main/dist/Karabiner-DriverKit-VirtualHIDDevice-3.1.0.pkg" -o "Karabiner-DriverKit-VirtualHIDDevice.pkg"
 	  sudo installer -pkg Karabiner-DriverKit-VirtualHIDDevice.pkg -target /
 	  /Applications/.Karabiner-VirtualHIDDevice-Manager.app/Contents/MacOS/Karabiner-VirtualHIDDevice-Manager activate
@@ -21,6 +22,6 @@ tags:: [[Keyboard/Remapper]]
 	  rm -r $TEMP_DIR
 	  
 	  kanata --version
-	  #! Allow accessibility permission to kanata
-	  #! System Settings > Privacy & Security > Accessibility > kanata
+	  #? [Might be optional] Allow accessibility permission to kanata
+	  #? System Settings > Privacy & Security > Accessibility > kanata
 	  ```
