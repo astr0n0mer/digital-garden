@@ -8,8 +8,8 @@ tags:: [[Keyboard/Remapper]]
 	  #! Need to install "Karabiner VirtualHiDDevice Driver" first
 	  TEMP_DIR=$(mktemp -d)
 	  cd $TEMP_DIR
-	  curl -L "https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/blob/main/dist/Karabiner-DriverKit-VirtualHIDDevice-3.1.0.pkg" -o "Karabiner-DriverKit-VirtualHIDDevice.pkg"
-	  sudo installer -pkg ./Karabiner-DriverKit-VirtualHIDDevice.pkg -target /
+	  curl -L "https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/raw/main/dist/Karabiner-DriverKit-VirtualHIDDevice-3.1.0.pkg" -o "Karabiner-DriverKit-VirtualHIDDevice.pkg"
+	  sudo installer -pkg Karabiner-DriverKit-VirtualHIDDevice.pkg -target /
 	  popd
 	  rm -r $TEMP_DIR
 	  
