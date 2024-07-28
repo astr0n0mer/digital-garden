@@ -11,3 +11,7 @@ tags:: [[YouTube/Terminal]]
 -
 - Review
 	- Setting up auth using browser cookies is too much work
+		- Log out of your account on music.youtube.com, then log in.
+		  logseq.order-list-type:: number
+		- Now refresh the page, open the Network tab and copy the `Cookie` and `User-Agent` headers into `ytermusic`'s headers.txt file
+		  logseq.order-list-type:: number
