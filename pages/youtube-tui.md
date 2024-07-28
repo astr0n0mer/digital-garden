@@ -7,6 +7,9 @@ tags:: [[YouTube/Terminal]]
 -
 - [Install](https://siriusmart.github.io/youtube-tui/installation.html#features)
 	- ```shell
+	  #! I tried installing this using nix; apparently it was stuck in an infinite loop
+	  #! The `darwin-rebuild` command ran for 50+ min before I terminated it
+	  
 	  #! install cargo
 	  cargo install youtube-tui --no-default-features -F 'halfblock'
 	  ```
