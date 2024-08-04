@@ -13,8 +13,8 @@
   query-table:: false
 -
 - ## \Explore
-- {{query (and (or [[explore]] "Show HN") (not))}}
-- {{query (and [[explore]] (not (task CANCELLED DONE)))}}
+- {{query (and (or [[explore]] "Show HN") (not (task DONE CANCELED)))}}
+  collapsed:: true
 -
 - ## \TODO
-- {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)) (not [[explore]]))}}
+- {{query (and (task LATER TODO WAIT) (not "{{video") (not (priority A B C)) (not [[explore]]) (not "Show HN"))}}
