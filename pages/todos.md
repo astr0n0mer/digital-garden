@@ -13,6 +13,7 @@
   query-table:: false
 -
 - ## \Explore
+- {{query (and (or [[explore]] "Show HN") (not))}}
 - {{query (and [[explore]] (not (task CANCELLED DONE)))}}
 -
 - ## \TODO
