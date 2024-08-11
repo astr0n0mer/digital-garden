@@ -1,0 +1,17 @@
+tags:: [[Database/Client]]
+
+- [dbgate/dbgate](https://github.com/dbgate/dbgate)
+  @@html: <a href="https://github.com/dbgate/dbgate/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=dbgate&repo=dbgate&theme=tokyonight" alt="dbgate/dbgate"/></a>@@
+-
+- Install on macOS with gh
+	- ```shell
+	  TEMP_DIR=$(mktemp -d)
+	  cd $TEMP_DIR
+	  gh release download --repo commandprompt/pgmanage --asset-name "*.dmg"
+	  DMG_FILENAME=$(ls)
+	  hdiutil attach $DMG_FILENAME
+	  cp -r /Volumes/Rnote/Rnote.app /Applications/
+	  hdiutil detach "/Volumes/Rnote"
+	  popd > /dev/null
+	  rm -r $TEMP_DIR
+	  ```
