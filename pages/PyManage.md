@@ -5,8 +5,10 @@ tags:: [[Database/Client]]
 -
 - Install on macOS with gh
 	- ```shell
+	  DOWNLOADED_FILE_NAME="PgManage.dmg"
 	  TEMP_DIR=$(mktemp -d)
-	  gh release download --repo commandprompt/pgmanage --pattern "*.dmg" --dir $TEMP_DIR
+	  DOWNLOADED_FILE_PATH="$TEMP_DIR/$DOWNLOADED_FILE_NAME"
+	  gh release download --repo commandprompt/pgmanage --pattern "*.dmg" --output $DOWNLOADED_FILE_PATH
 	  
-	  
+	  hdiutil attach $DOWNLOADED_FILE_PATH
 	  ```
