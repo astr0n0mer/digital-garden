@@ -6,4 +6,5 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
 -
 - [Install](https://github.com/nikitabobko/AeroSpace#installation) on macOS
 	- ```shell
+	  brew install --cask nikitabobko/tap/aerospace
 	  ```
