@@ -1,4 +1,4 @@
-tags:: [[Launcher]]
+tags:: [[Keystroke Launcher]]
 
 - [Wox](https://wox-launcher.github.io/Wox/) is a cross-platform launcher that simply works. It's an alternative to [Alfred](https://www.alfredapp.com/) and [Launchy](http://www.launchy.net/)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
@@ -7,5 +7,5 @@ tags:: [[Launcher]]
 - Install on macOS
 	- ```shell
 	  brew tap wox-launcher/wox
-	  brew install wox --no-quarantine
+	  brew install wox --no-quarantine #! this flag is mandatory
 	  ```

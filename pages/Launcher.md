@@ -1,1 +1,1 @@
-- A keyboard launcher is a computer program that helps users locate and start other computer programs. It provides shortcuts to computer programs and stores them in one place so they are easier to find.
+-
