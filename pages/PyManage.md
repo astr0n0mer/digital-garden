@@ -1,4 +1,4 @@
-tags:: [[Database/Client]]
+tags:: [[PostgreSQL/Client]]
 
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage)
   @@html: <a href="https://github.com/commandprompt/pgmanage/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=commandprompt&repo=pgmanage&theme=tokyonight" alt="commandprompt/pgmanage"/></a>@@
