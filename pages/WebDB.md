@@ -1,4 +1,4 @@
-tags:: [[MongoDB]] [[Database/Client]]
+tags:: [[Database/Client]]
 
 - [WebDB](https://webdb.app/) is a comprehensive and free database Integrated Development Environment (IDE) designed to maximize efficiency in database development and management.
 - [WebDB-App/app](https://github.com/WebDB-App/app)
