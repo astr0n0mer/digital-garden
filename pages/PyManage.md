@@ -17,4 +17,5 @@ tags:: [[Database/Client]]
 	  hdiutil detach /Volumes/$VOLUME_NAME
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
+	  echo "App is available at /Applications/$(basename $APP_FILE)"
 	  ```
