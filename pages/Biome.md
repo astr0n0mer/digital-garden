@@ -5,5 +5,5 @@ tags:: [[Formatter]] [[Linter]] [[TypeScript]] [[JSX]] [[JSON]] [[Prettier/Alter
 - [biomejs/biome](https://github.com/biomejs/biome)
   @@html: <a href="https://github.com/biomejs/biome/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=biomejs&repo=biome&theme=tokyonight" alt="biomejs/biome"/></a>@@
 -
-- Language support
+- [Language support](https://biomejs.dev/internals/language-support/)
   @@html: <iframe src="https://biomejs.dev/internals/language-support/" alt="Biome language support" class="browser-tab"></iframe>@@
