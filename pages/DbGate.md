@@ -14,4 +14,8 @@ tags:: [[Database/Client]]
 	  hdiutil detach "/Volumes/Rnote"
 	  popd > /dev/null
 	  rm -r $TEMP_DIR
+	  
+	  TEMP_DIR=$(mktemp -d)
+	  gh release download --repo commandprompt/pgmanage --pattern "*.dmg" --dir $TEMP_DIR
+	  open $TEMP_DIR/*.dmg && rm -r $TEMP_DIR
 	  ```
