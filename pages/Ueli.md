@@ -1,4 +1,4 @@
-tags:: [[Keystroke Launcher]] [[Raycast/Alternative]]
+tags:: [[Keystroke Launcher]]
 
 - [Ueli](https://ueli.app/) is a keystroke launcher for Windows, macOS and Linux.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)
