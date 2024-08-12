@@ -1,4 +1,4 @@
-tags:: [[Keystroke Launcher]]
+tags:: [[Keystroke Launcher]] [[Linux/exclusive]]
 
 - [Albert](https://albertlauncher.github.io/) is a [[C++]]/ [[Qt]] based desktop agnostic keyboard launcher that helps you to accomplish your workflows in a breeze. The goals are usability, performance, extensibility and beauty.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert)
