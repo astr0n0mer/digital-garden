@@ -1,5 +1,9 @@
 tags:: [[Proprietary]] [[Code/Editor]]
 
+- [VS Code](https://code.visualstudio.com/)
+- [microsoft/vscode](https://github.com/microsoft/vscode)
+  @@html: <a href="https://github.com/microsoft/vscode/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight" alt="microsoft/vscode"/></a>@@
+- ![VS Code Demo](https://code.visualstudio.com/assets/home/home-screenshot-mac-2x-v2.png)
 -
 - Install on macOS
 	- ```shell
