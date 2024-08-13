@@ -1,7 +1,7 @@
 tags:: [[Code/Editor]] [[VS Code/Alternative]]
 
 - [VSCodium](https://vscodium.com/) is a community-driven, freely-licensed binary distribution of Microsoft's editor VS Code.
-  [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
   @@html: <a href="https://github.com/VSCodium/vscodium/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=VSCodium&repo=vscodium&theme=tokyonight" alt="VSCodium/vscodium/"/></a>@@
 - ![VSCodium Demo](https://vscodium.com/img/vscodium.png)
 -
