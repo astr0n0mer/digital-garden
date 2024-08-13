@@ -3,4 +3,4 @@
 - {{gh-repo-image ryan-oasis, nerd-fonts}}
 - {{img ryanoasis, nerd-fonts}}
 -
-- {{query (and "browser")}}
+-
