@@ -8,7 +8,7 @@ tags:: [[local-tunneling]] [[Self Host]]
 	- ```shell
 	  curl -O https://pagekite.net/pk/pagekite.py
 	  
-	  python3 pagekite.py 8000
+	  python3 pagekite.py 8000 muncher.pagekite.me
 	  
 	  # I haven't test this out myself
 	  python3 pagekite.py 8000 ragnarokfrappe.pagekite.me +rewritehost=development.localhost
