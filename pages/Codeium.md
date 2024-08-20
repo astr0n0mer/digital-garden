@@ -1,4 +1,4 @@
-tags:: [[VS Code/Extension]] [[Coding Assistant]]
+tags:: [[VS Code/Extension]] [[AI/Coding Assistant]]
 
 - [Codeium](https://codeium.com/): AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim)

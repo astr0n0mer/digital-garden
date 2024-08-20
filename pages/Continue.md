@@ -1,1 +1,1 @@
-- [Continue](https://continue.dev/) is an open-source autopilot for your IDE that provides task-based auto-complete, code refactoring, and explanation, allowing you to code with any LLM of your choice and customize your workflows. #[[Coding Assistant]]
+- [Continue](https://continue.dev/) is an open-source autopilot for your IDE that provides task-based auto-complete, code refactoring, and explanation, allowing you to code with any LLM of your choice and customize your workflows. #[[AI/Coding Assistant]]
