@@ -11,3 +11,9 @@
 - TODO `F`/`T` like `f`/`t` but backwards
 - TODO `s` sentence
 - TODO `p` paragraph
+- DOING `C-v` start block select, `I<insert_something>`, `Esc`
+  :LOGBOOK:
+  CLOCK: [2024-08-22 Thu 00:45:39]
+  CLOCK: [2024-08-22 Thu 00:45:44]
+  :END:
+-
