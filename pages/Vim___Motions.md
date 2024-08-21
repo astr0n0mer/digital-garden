@@ -21,4 +21,5 @@
   CLOCK: [2024-08-22 Thu 00:53:29]
   CLOCK: [2024-08-22 Thu 00:53:31]
   :END:
-- TODO `qa`, `q`, `@a`, `@@` work
+- TODO `qa`, `q`, `@a`, `@@` work with macros
+-
