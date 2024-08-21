@@ -1,1 +1,2 @@
-- TODO
+- TODO `:e <path/to/file>` edit a file
+-
