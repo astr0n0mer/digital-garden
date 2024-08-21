@@ -1,8 +1,8 @@
 - {{query (and (task DOING) (page [[Vim/Motions]]))}}
 -
-- DOING [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- DONE [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
   :LOGBOOK:
-  CLOCK: [2024-08-22 Thu 00:33:19]
+  CLOCK: [2024-08-22 Thu 00:33:19]--[2024-08-22 Thu 01:28:39] =>  00:55:20
   :END:
 - TODO `:e <path/to/file>` edit a file
 - DOING `#`/`*` go to previous/next word under the cursor
