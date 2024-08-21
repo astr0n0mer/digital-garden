@@ -22,4 +22,9 @@
   CLOCK: [2024-08-22 Thu 00:53:31]
   :END:
 - TODO `qa`, `q`, `@a`, `@@` work with macros
--
+- DOING `<`, `>`, `=` deident/indent/auto indent
+  :LOGBOOK:
+  CLOCK: [2024-08-22 Thu 01:07:28]
+  CLOCK: [2024-08-22 Thu 01:07:29]
+  :END:
+- TODO `J` join lines together
