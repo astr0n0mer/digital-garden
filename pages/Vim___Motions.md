@@ -33,3 +33,5 @@
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 01:09:32]
   :END:
+- TODO `:split`/`:vsplit` horizontal/vertical split
+- TODO `C-w` split window controls
