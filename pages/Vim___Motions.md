@@ -1,3 +1,5 @@
+- {{query (and (task DOING) (page [[Vim/Motions]]))}}
+-
 - DOING [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:33:19]
@@ -27,4 +29,7 @@
   CLOCK: [2024-08-22 Thu 01:07:28]
   CLOCK: [2024-08-22 Thu 01:07:29]
   :END:
-- TODO `J` join lines together
+- DOING `J` join lines together
+  :LOGBOOK:
+  CLOCK: [2024-08-22 Thu 01:09:32]
+  :END:
