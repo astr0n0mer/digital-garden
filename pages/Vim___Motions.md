@@ -16,8 +16,9 @@
   CLOCK: [2024-08-22 Thu 00:45:39]
   CLOCK: [2024-08-22 Thu 00:45:44]
   :END:
-- DOING `C-p`
+- DOING `C-p`, `C-n` cycle completions
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:53:29]
   CLOCK: [2024-08-22 Thu 00:53:31]
   :END:
+- TODO `qa`, `q`, `@a`, `@@` work
