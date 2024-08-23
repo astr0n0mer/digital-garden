@@ -3,5 +3,5 @@
 - {{gh-repo-image ryan-oasis, nerd-fonts}}
 - {{img ryanoasis, nerd-fonts}}
 -
-- {{query (and (task DONE) [[Hacker News]] (not " #"))}}
+- {{query (and (task DONE) (not " #"))}}
 -
