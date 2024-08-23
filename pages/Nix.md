@@ -4,6 +4,8 @@ tags:: [[NixOS]] [[Package/Manager]]
 - [Nix](https://nixos.org/) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [NixOS/nix](https://github.com/NixOS/nix)
   @@html: <a href="https://github.com/NixOS/nix/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=NixOS&repo=nix&theme=tokyonight" alt="NixOS/nix"/></a>@@
+- DONE [[Nix]] in 100 Seconds on [[Fireship]]
+  {{video https://www.youtube.com/watch?v=FJVFXsNzYZQ}}
 -
 - [Nix & NixOS Cheatsheet](https://nixcademy.com/cheatsheet/)
 -
