@@ -4,6 +4,7 @@ tags:: [[Tiling Window Manager]] [[macOS/exclusive]]
   @@html: <a href="https://github.com/nikitabobko/AeroSpace/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=nikitabobko&repo=AeroSpace&theme=tokyonight" alt="nikitabobko/AeroSpace"/></a>@@
 - ![AeroSpace Demo](https://nikitabobko.github.io/AeroSpace/assets/tree.png)
 -
+-
 - [Install](https://github.com/nikitabobko/AeroSpace#installation) on macOS
 	- ```shell
 	  brew install --cask nikitabobko/tap/aerospace
