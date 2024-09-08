@@ -34,6 +34,7 @@ publish:
 .PHONY: cron
 cron:
 	cd ~/projects/digital-garden && \
+		mkdir -p "./bak" && \
 		echo "$(shell date)" >> ./bak/crontab.log 2>&1 && \
 		git push >> ./bak/crontab.log 2>&1 && \
 		${TERMINAL_NOTIFIER} \
