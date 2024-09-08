@@ -27,3 +27,8 @@ tags:: [[NixOS]] [[Package/Manager]]
 		  ```
 	- Setup [[Home Manager]]
 	  logseq.order-list-type:: number
+-
+- Uninstall
+	- ```shell
+	  /nix/nix-installer uninstall
+	  ```

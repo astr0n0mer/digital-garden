@@ -1,1 +1,1 @@
-tags:: [[Cloud]]
+tags:: [[Cloud/Computing]] [[PaaS]]
