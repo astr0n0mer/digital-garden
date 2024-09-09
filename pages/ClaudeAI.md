@@ -1,1 +1,1 @@
-tags:: [[LLM]]
+tags:: [[Proprietary]] [[LLM]]
