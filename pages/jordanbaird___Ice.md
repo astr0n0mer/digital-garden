@@ -1,4 +1,4 @@
-tags:: [[macOS/exclusive]] [[Menubar/Manager]]
+tags:: [[macOS/exclusive]] [[Menubar]]
 
 - [Ice](https://icemenubar.app/) is a powerful menu bar management tool.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
