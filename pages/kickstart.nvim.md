@@ -6,4 +6,5 @@ tags:: [[Neovim/Template]]
 - Install
 	- ```shell
 	  git clone git@github.com:nvim-lua/kickstart.nvim.git ~/.config/nvim
+	  nvim
 	  ```
