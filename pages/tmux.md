@@ -8,3 +8,6 @@ tags:: [[Terminal/Multiplexer]]
 	- ```shell
 	  brew install tmux
 	  ```
+-
+- [tmux cheatsheet](https://tmuxcheatsheet.com/)
+- @@html: <iframe src="https://tmuxcheatsheet.com/" class="browser-tab"></iframe>@@
