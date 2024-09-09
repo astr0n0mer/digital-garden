@@ -1,0 +1,5 @@
+tags:: [[Neovim/Plugin]]
+
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
+  @@html: <a href="https://github.com/stevearc/oil.nvim/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=stevearc&repo=oil.nvim&theme=tokyonight" alt="stevearc/oil.nvim"/></a>@@
+- @@html: <video src="https://private-user-images.githubusercontent.com/506791/209727111-6b4a11f4-634a-4efa-9461-80e9717cea94.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyODY4MDYsIm5iZiI6MTcyNTI4NjUwNiwicGF0aCI6Ii81MDY3OTEvMjA5NzI3MTExLTZiNGExMWY0LTYzNGEtNGVmYS05NDYxLTgwZTk3MTdjZWE5NC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwMlQxNDE1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjdhMmRmNzJlMDVlN2Q4NzliMDdlYzk3Y2E5ODc5ZjIxY2ZlZjc0MzdlNGM4ZDE1ZGMwMmI2ZGEzY2E2MDgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mybnqIfVCzGGEfnW_xeXsgT4ES2KDyVcga6TYGEu9uM" autoplay controls></video>@@
