@@ -4,7 +4,10 @@
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:33:19]--[2024-08-22 Thu 01:28:39] =>  00:55:20
   :END:
-- TODO `:e <path/to/file>` edit a file
+- DOING `:e <path/to/file>` edit a file
+  :LOGBOOK:
+  CLOCK: [2024-09-10 Tue 02:08:23]
+  :END:
 - DOING `#`/`*` go to previous/next word under the cursor
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:27:59]
@@ -35,3 +38,7 @@
   :END:
 - TODO `:split`/`:vsplit` horizontal/vertical split
 - TODO `C-w` split window controls
+- DOING `<C-g>` {normal} displays your location and the file status.
+  :LOGBOOK:
+  CLOCK: [2024-09-10 Tue 02:08:57]
+  :END:
