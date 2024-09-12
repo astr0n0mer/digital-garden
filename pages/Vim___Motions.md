@@ -4,9 +4,9 @@
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:33:19]--[2024-08-22 Thu 01:28:39] =>  00:55:20
   :END:
-- DOING `:e <path/to/file>` edit a file
+- DONE `:e <path/to/file>` edit a file
   :LOGBOOK:
-  CLOCK: [2024-09-10 Tue 02:08:23]
+  CLOCK: [2024-09-10 Tue 02:08:23]--[2024-09-13 Fri 01:59:09] =>  71:50:46
   :END:
 - DOING `#`/`*` go to previous/next word under the cursor
   :LOGBOOK:
