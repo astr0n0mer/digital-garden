@@ -23,6 +23,7 @@ tags:: [[NixOS]] [[Package/Manager]]
 		    -sSf \
 		    -L https://install.determinate.systems/nix \
 		    | sh -s -- install
+		  . /nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh
 		  nix --version
 		  ```
 	- Setup [[Home Manager]]
