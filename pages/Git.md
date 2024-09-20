@@ -1,4 +1,4 @@
-filters:: {"2024-02-02" true}
+filters:: {}
 tags:: [[Version Control]]
 
 - Git is a FOSS distributed [[Version Control]] system designed to handle everything from small to very large projects with speed and efficiency.
