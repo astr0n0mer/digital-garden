@@ -85,11 +85,11 @@
 	  CLOCK: [2024-06-09 Sun 15:41:15]
 	  CLOCK: [2024-06-09 Sun 15:41:17]--[2024-08-11 Sun 14:14:54] =>  1510:33:37
 	  :END:
-	- DOING [Bitstream Vera Sans Mono](https://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans-Mono)
+	- DONE [Bitstream Vera Sans Mono](https://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans-Mono)
 	  DEADLINE: <2024-09-07 Sat>
 	  :LOGBOOK:
 	  CLOCK: [2024-08-11 Sun 14:14:15]
-	  CLOCK: [2024-08-11 Sun 14:14:19]
+	  CLOCK: [2024-08-11 Sun 14:14:19]--[2024-09-25 Wed 13:07:44] =>  1078:53:25
 	  :END:
 -
 - Reference: [How to import fonts in CSS?](https://stackoverflow.com/a/11737293/7753274) [[CSS]]
