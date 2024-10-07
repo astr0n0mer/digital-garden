@@ -32,9 +32,9 @@
   CLOCK: [2024-08-22 Thu 01:07:28]
   CLOCK: [2024-08-22 Thu 01:07:29]
   :END:
-- DOING `J` join lines together
+- DONE `J` join lines together
   :LOGBOOK:
-  CLOCK: [2024-08-22 Thu 01:09:32]
+  CLOCK: [2024-08-22 Thu 01:09:32]--[2024-10-07 Mon 23:13:04] =>  1126:03:32
   :END:
 - TODO `:split`/`:vsplit` horizontal/vertical split
 - TODO `C-w` split window controls
