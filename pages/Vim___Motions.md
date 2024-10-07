@@ -42,7 +42,7 @@
   :LOGBOOK:
   CLOCK: [2024-09-10 Tue 02:08:57]
   :END:
-- DOING `o`
+- DOING `o` switch cursor in visual mode
   :LOGBOOK:
   CLOCK: [2024-10-07 Mon 23:00:06]
   CLOCK: [2024-10-07 Mon 23:00:11]
