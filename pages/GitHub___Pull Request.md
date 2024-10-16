@@ -1,1 +1,1 @@
-- [My OSS PRs](https://github.com/search?q=author%3Aastr0n0mer+-user%3Aastr0n0mer+-user%3Aproceduretech+-user%3Atimelyschools+-user%3AWorkshop-Ventures&type=pullrequests)
+- [My OSS PRs](https://github.com/search?q=author%3Aastr0n0mer+-user%3Aastr0n0mer+-user%3Aproceduretech+-user%3Atimelyschools+-user%3AWorkshop-Ventures&type=pullrequests&s=updated&o=desc)
