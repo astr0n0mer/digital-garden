@@ -1,2 +1,2 @@
-- [Issues I've commented on](https://github.com/search?q=is%3Aissue+commenter%3Aastr0n0mer&type=issues&s=updated&o=desc)
+- [Issues I've commented on](https://github.com/search?q=is%3Aissue+commenter%3Aastr0n0mer+-user%3Aastr0n0mer&type=issues&s=updated&o=desc)
 - [Open Issues](https://github.com/search?q=user%3Aphilc+repo%3Avimium+-involves%3Aphilc+++-involves%3Agdh1995+-involves%3AUncleSnail&type=issues&s=updated&o=desc&state=open) in [[Vimium]]
