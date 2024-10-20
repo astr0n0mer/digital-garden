@@ -21,7 +21,7 @@
   CLOCK: [2024-08-22 Thu 00:45:39]
   CLOCK: [2024-08-22 Thu 00:45:44]
   :END:
-- DONE `C-p`, `C-n` cycle completions
+- DONE `C-p`, `C-n` cycle completions, `C-y` to accept
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 00:53:29]
   CLOCK: [2024-08-22 Thu 00:53:31]--[2024-09-10 Tue 02:07:45] =>  457:14:14
