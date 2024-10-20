@@ -37,13 +37,13 @@
   CLOCK: [2024-08-22 Thu 01:09:32]--[2024-10-07 Mon 23:13:04] =>  1126:03:32
   :END:
 - TODO `:split`/`:vsplit` horizontal/vertical split
-- TODO `C-w` split window controls
+- DONE `C-w` split window controls
 - DOING `<C-g>` {normal} displays your location and the file status.
   :LOGBOOK:
   CLOCK: [2024-09-10 Tue 02:08:57]
   :END:
-- DOING `o` switch cursor in visual mode
+- DONE `o` switch cursor in visual mode
   :LOGBOOK:
   CLOCK: [2024-10-07 Mon 23:00:06]
-  CLOCK: [2024-10-07 Mon 23:00:11]
+  CLOCK: [2024-10-07 Mon 23:00:11]--[2024-10-21 Mon 01:21:25] =>  314:21:14
   :END:
