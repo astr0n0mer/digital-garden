@@ -1,1 +1,1 @@
-tags:: [[Proprietary]] [[VS Code/Extension]]
+tags:: [[Proprietary]] [[Python/Linter]] [[VS Code/Extension]]
