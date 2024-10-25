@@ -1,4 +1,4 @@
-tags:: [[GitHub/Action]]
+tags:: [[GitHub/Action]] [[Repo/Analysis]]
 
 - A GitHub Action that creates an SVG diagram of your repo. Read more [in the writeup](https://githubnext.com/projects/repo-visualization).
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer)
