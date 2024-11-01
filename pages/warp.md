@@ -1,4 +1,4 @@
-tags:: [[Proprietary]] [[Cross Platform]] [[AI]] [[Terminal]]
+tags:: [[Proprietary]] [[Cross Platform]] [[AI]] [[Terminal/Emulator]]
 
 - [Warp](https://www.warp.dev/) is the terminal reimagined with AI and collaborative tools for better productivity.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp)

@@ -1,4 +1,4 @@
-tags:: [[Terminal]]
+tags:: [[Terminal/Emulator]]
 
 - [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [](https://github.com/wez/)[@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org/)
 - [wez/wezterm](https://github.com/wez/wezterm)

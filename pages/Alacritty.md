@@ -1,4 +1,4 @@
-tags:: [[Terminal]]
+tags:: [[Terminal/Emulator]]
 
 - [Alacritty](https://alacritty.org/) - A fast, cross-platform, OpenGL terminal emulator.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty)
