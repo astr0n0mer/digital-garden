@@ -35,12 +35,12 @@ tags:: [[macOS/exclusive]]
 	- We can now run the following after updating our config anytime.
 	  logseq.order-list-type:: number
 		- ```shell
-		  darwin-rebuild switch --flake ~/.config/nix-darwin-config
+		  darwin-rebuild switch --flake ~/.config/nix-darwin
 		  ```
 -
 - Updating the System
 	- ```shell
-	  cd ~/.dotfiles/nix-darwin/.config/nix-darwin
+	  cd ~/.config/nix-darwin
 	  nix flake update
 	  darwin-rebuild switch --flake ~/.dotfiles/nix-darwin/.config/nix-darwin
 	  # to auto-commit the lock file to a git repo
