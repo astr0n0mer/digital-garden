@@ -40,9 +40,9 @@ tags:: [[macOS/exclusive]]
 -
 - Updating the System
 	- ```shell
-	  cd ~/.config/nix-darwin-config
+	  cd ~/.config/nix-darwin
 	  nix flake update
-	  darwin-rebuild switch --flake ~/.config/nix-darwin-config
+	  darwin-rebuild switch --flake ~/.config/nix-darwin
 	  # to auto-commit the lock file to a git repo
 	  # nix flake update --commit-lock-file
 	  ```
