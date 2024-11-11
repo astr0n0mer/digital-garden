@@ -18,7 +18,7 @@ tags:: [[CLI]]
 	  $(brew --prefix)/opt/fzf/install
 	  ```
 -
-- Install fzf completion on zsh
+- Install `fzf` completion on zsh
 	- ```shell
 	  eval "$(fzf --zsh)"
 	  ```
