@@ -13,7 +13,10 @@
   CLOCK: [2024-08-22 Thu 00:27:59]
   :END:
 - TODO `,`/`;` find the next/previous character occurrence, like `fa`, `,a`, `;a`
-- TODO `F`/`T` like `f`/`t` but backwards
+- DOING `F`/`T` like `f`/`t` but backwards
+  :LOGBOOK:
+  CLOCK: [2024-11-16 Sat 20:13:24]
+  :END:
 - TODO `s` sentence
 - TODO `p` paragraph
 - DOING `C-v` start block select, `I<insert_something>`, `Esc`
