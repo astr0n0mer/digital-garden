@@ -1,2 +1,1 @@
-- [astr0n0mer/digital-garden](https://github.com/astr0n0mer/digital-garden)
-  @@html: <a href="https://github.com/astr0n0mer/digital-garden/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=digital-garden&theme=tokyonight" alt="astr0n0mer/digital-garden"/></a>@@
+-
