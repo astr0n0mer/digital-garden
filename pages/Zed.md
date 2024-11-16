@@ -1,4 +1,4 @@
-tags:: [[Code/Editor]]
+tags:: [[AI/Code/Editor]]
 
 - [Zed](https://zed.dev/) is a high-performance, multiplayer code editor from the creators of [[atom/atom]] and [[Tree-sitter]].
 - [zed-industries/zed](https://github.com/zed-industries/zed)
