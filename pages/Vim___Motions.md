@@ -27,10 +27,10 @@
   CLOCK: [2024-08-22 Thu 00:53:31]--[2024-09-10 Tue 02:07:45] =>  457:14:14
   :END:
 - TODO `qa`, `q`, `@a`, `@@` work with macros
-- DOING `<`, `>`, `=` deident/indent/auto indent
+- DONE `<`, `>`, `=` deident/indent/auto indent
   :LOGBOOK:
   CLOCK: [2024-08-22 Thu 01:07:28]
-  CLOCK: [2024-08-22 Thu 01:07:29]
+  CLOCK: [2024-08-22 Thu 01:07:29]--[2024-11-16 Sat 20:12:14] =>  2083:04:45
   :END:
 - DONE `J` join lines together
   :LOGBOOK:
