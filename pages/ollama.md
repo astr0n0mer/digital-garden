@@ -1,1 +1,1 @@
-tags:: [[LLM]]
+tags:: [[AI/Local Coding Assistant]]
