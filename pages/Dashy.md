@@ -10,3 +10,6 @@ tags:: [[Self Host]] [[productivity-tool]] [[Homepage]]
   logseq.order-list-type:: number
 - Make changes through the UI at [http://localhost:8080/](http://localhost:8080/) or directly in `~/.config/dashy/conf.yml`
   logseq.order-list-type:: number
+-
+- ### Review
+- Page load speed is too slow with >300 bookmarks
