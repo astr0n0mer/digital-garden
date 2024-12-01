@@ -23,7 +23,7 @@ tags:: [[Terminal/Email Client]]
 	      pass \
 	      notmuch \
 	      abook \
-	      urlview
+	      urlview \
 	  ```
 	- Adding an email using mutt-wizard
 	  logseq.order-list-type:: number
