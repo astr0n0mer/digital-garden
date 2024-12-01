@@ -23,18 +23,19 @@ tags:: [[Terminal/Email Client]]
 	      pass \
 	      notmuch \
 	      abook \
-	      
 	      urlview \
-	      pam-gnupg \
+	      gnupg
 	  ```
-	- logseq.order-list-type:: number
-	  ```shell
-	  MYEMAIL=johndoe@domain.com
-	  mw -a ${MYEMAIL} # INFO: this is expected to fail as you haven't set up your email credentials yet
-	  gpg --full-generate-key # INFO: you can choose defaults in this
-	  pass init ${MYEMAIL}
-	  
-	  # INFO: trying to open mutt-wizard again
-	  mw -a ${MYEMAIL}
-	  mw -y ${MYEMAIL}
-	  ```
+	- Adding an email using mutt-wizard
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  ```shell
+		  MYEMAIL=johndoe@domain.com
+		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you haven't set up your email credentials yet
+		  gpg --full-generate-key # INFO: you can choose defaults in this
+		  pass init ${MYEMAIL}
+		  
+		  # INFO: trying to open mutt-wizard again
+		  mw -a ${MYEMAIL}
+		  mw -y ${MYEMAIL}
+		  ```
