@@ -21,9 +21,9 @@ tags:: [[Terminal/Email Client]]
 	      isync \
 	      msmtp \
 	      pass \
-	      pam-gnupg \
 	      notmuch \
 	      abook \
+	      
 	      urlview \
-	      mpop
+	      pam-gnupg \
 	  ```
