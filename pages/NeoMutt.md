@@ -33,6 +33,9 @@ tags:: [[Terminal/Email Client]]
 		  
 		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you have not set up your email credentials yet
 		  gpg --full-generate-key # INFO: you can choose defaults in this
+		  
+		  
+		  
 		  pass init ${MYEMAIL}
 		  
 		  # INFO: trying to open mutt-wizard again
