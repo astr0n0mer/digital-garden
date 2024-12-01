@@ -8,3 +8,7 @@ tags:: [[Terminal/Email Client]]
 -
 - Setup on macOS (from [[The Linux Cast]])
 	- logseq.order-list-type:: number
+	  ```shell
+	  mkdir -p ~/projects_work/neomutt && cd $_
+	  git clone https://github.com/LukeSmithxyz/mutt-wizard
+	  ```
