@@ -10,7 +10,7 @@ tags:: [[Terminal/Email Client]]
 	- logseq.order-list-type:: number
 	  ```shell
 	  mkdir -p ~/projects_work/neomutt && cd $_
-	  git clone https://github.com/LukeSmithxyz/mutt-wizard
-	  cd mutt-wizard
+	  git clone https://github.com/LukeSmithxyz/mutt-wizard && cd $(basename "$_")
 	  sudo make install
 	  ```
+	- logseq.order-list-type:: number
