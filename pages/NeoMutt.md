@@ -29,6 +29,7 @@ tags:: [[Terminal/Email Client]]
 	  ```
 	- logseq.order-list-type:: number
 	  ```shell
-	  mw -a johndoe@domain.com # INFO
+	  MYEMAIL=johndoe@domain.com
+	  mw -a ${MYEMAIL} # INFO: this is expected to fail as you'd have not set up your email credentials yet
 	  
 	  ```
