@@ -17,13 +17,13 @@ tags:: [[Terminal/Email Client]]
 	  ```shell
 	  brew install \
 	  	neomutt \
-	      curl \
-	      isync \
-	      msmtp \
-	      pass \
-	      notmuch \
-	      abook \
-	      urlview \
+	  	abook \
+	  	curl \
+	  	isync \
+	  	msmtp \
+	  	notmuch \
+	  	pass \
+	  	urlview
 	  ```
 	- Adding an email using mutt-wizard
 	  logseq.order-list-type:: number
