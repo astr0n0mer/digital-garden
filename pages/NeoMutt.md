@@ -6,7 +6,7 @@ tags:: [[Terminal/Email Client]]
 - [NeoMutt on Terminal Trove](https://terminaltrove.com/neomutt/)
 - @@html: <iframe src="https://terminaltrove.com/neomutt/" class="browser-tab"></iframe>@@
 -
-- Setup on macOS (from [[The Linux Cast]])
+- Setup on macOS ((66dda9de-aa9f-422a-98e7-eaa0fb509a36))
 	- logseq.order-list-type:: number
 	  ```shell
 	  mkdir -p ~/projects_work/neomutt && cd $_
