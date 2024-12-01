@@ -28,9 +28,9 @@ tags:: [[Terminal/Email Client]]
 	  ```
 	- Adding an email using mutt-wizard
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
-		  ```shell
+		- ```shell
 		  MYEMAIL=johndoe@domain.com
+		  
 		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you haven't set up your email credentials yet
 		  gpg --full-generate-key # INFO: you can choose defaults in this
 		  pass init ${MYEMAIL}
