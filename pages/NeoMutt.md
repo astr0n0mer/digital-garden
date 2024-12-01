@@ -27,3 +27,7 @@ tags:: [[Terminal/Email Client]]
 	      urlview \
 	      pam-gnupg \
 	  ```
+	- logseq.order-list-type:: number
+	  ```shell
+	  mw -a johndoe@domain.com
+	  ```
