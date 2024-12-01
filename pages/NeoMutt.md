@@ -7,4 +7,4 @@ tags:: [[Terminal/Email Client]]
 - @@html: <iframe src="https://terminaltrove.com/neomutt/" class="browser-tab"></iframe>@@
 -
 - Setup on macOS (from [[The Linux Cast]])
-	-
+	- logseq.order-list-type:: number
