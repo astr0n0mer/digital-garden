@@ -11,4 +11,6 @@ tags:: [[Terminal/Email Client]]
 	  ```shell
 	  mkdir -p ~/projects_work/neomutt && cd $_
 	  git clone https://github.com/LukeSmithxyz/mutt-wizard
+	  cd mutt-wizard
+	  sudo make install
 	  ```
