@@ -36,5 +36,5 @@ tags:: [[Terminal/Email Client]]
 	  
 	  # INFO: trying to open mutt-wizard again
 	  mw -a ${MYEMAIL}
-	  
+	  mw -y ${MYEMAIL}
 	  ```
