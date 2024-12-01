@@ -29,5 +29,6 @@ tags:: [[Terminal/Email Client]]
 	  ```
 	- logseq.order-list-type:: number
 	  ```shell
-	  mw -a johndoe@domain.com
+	  mw -a johndoe@domain.com # INFO
+	  
 	  ```
