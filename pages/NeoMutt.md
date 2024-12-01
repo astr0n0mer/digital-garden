@@ -31,7 +31,7 @@ tags:: [[Terminal/Email Client]]
 		  MYEMAIL=johndoe@domain.com
 		  # Read the [README.md](https://github.com/LukeSmithxyz/mutt-wizard/?tab=readme-ov-file#watch-out-for-these-things)
 		  
-		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you haven't set up your email credentials yet
+		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you have not set up your email credentials yet
 		  gpg --full-generate-key # INFO: you can choose defaults in this
 		  pass init ${MYEMAIL}
 		  
