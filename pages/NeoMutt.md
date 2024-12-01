@@ -29,7 +29,7 @@ tags:: [[Terminal/Email Client]]
 	  logseq.order-list-type:: number
 		- ```shell
 		  MYEMAIL=johndoe@domain.com
-		  # Read the [README.md](https://github.com/LukeSmithxyz/mutt-wizard/?tab=readme-ov-file#watch-out-for-these-things)
+		  # IMPORTANT for Gmail: Read the [README.md](https://github.com/LukeSmithxyz/mutt-wizard/?tab=readme-ov-file#watch-out-for-these-things)
 		  
 		  mw -a ${MYEMAIL} # INFO: this is expected to fail as you have not set up your email credentials yet
 		  
@@ -86,6 +86,7 @@ tags:: [[Terminal/Email Client]]
 		  # /Users/tux/.password-store
 		  # Password store initialized for johndoe@domain.com
 		  
+		  # INFO: trying to open mutt-wizard again
 		  mw -a ${MYEMAIL}
 		  # Give your email server's IMAP address (excluding the port number):
 		  # imap.gmail.com
@@ -95,7 +96,5 @@ tags:: [[Terminal/Email Client]]
 		  # Retype password for johndoe@domain.com:
 		  # johndoe@domain.com (account #1) added successfully.
 		  
-		  # INFO: trying to open mutt-wizard again
-		  mw -a ${MYEMAIL}
-		  mw -y ${MYEMAIL}
+		  mw -y ${MYEMAIL} # sync emails from cloud
 		  ```
