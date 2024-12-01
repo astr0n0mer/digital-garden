@@ -14,3 +14,16 @@ tags:: [[Terminal/Email Client]]
 	  sudo make install
 	  ```
 	- logseq.order-list-type:: number
+	  ```shell
+	  brew install \
+	  	neomutt \
+	      curl \
+	      isync \
+	      msmtp \
+	      pass \
+	      pam-gnupg \
+	      notmuch \
+	      abook \
+	      urlview \
+	      mpop
+	  ```
