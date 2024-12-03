@@ -16,6 +16,11 @@ tags:: [[Terminal/Email Client]]
 	- logseq.order-list-type:: number
 	  ```shell
 	  brew install \
+	  
+	  ```
+	- logseq.order-list-type:: number
+	  ```shell
+	  brew install \
 	  	neomutt \
 	  	abook \
 	  	curl \
