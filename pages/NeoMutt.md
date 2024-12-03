@@ -16,28 +16,15 @@ tags:: [[Terminal/Email Client]]
 	- logseq.order-list-type:: number
 	  ```shell
 	  brew install \
-	  neomutt \
-	  curl \
-	  isync \
-	  msmtp \
-	  pass \
-	  ca-certificates \
-	  lynx \
-	  notmuch \
-	  abook \
-	  urlview \
-	  
-	  ```
-	- logseq.order-list-type:: number
-	  ```shell
-	  brew install \
 	  	neomutt \
-	  	abook \
 	  	curl \
 	  	isync \
 	  	msmtp \
-	  	notmuch \
 	  	pass \
+	  	ca-certificates \
+	  	lynx \
+	  	notmuch \
+	  	abook \
 	  	urlview
 	  ```
 	- Adding an email using mutt-wizard
