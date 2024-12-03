@@ -22,6 +22,10 @@ tags:: [[Terminal/Email Client]]
 	  msmtp \
 	  pass \
 	  ca-certificates \
+	  lynx \
+	  notmuch \
+	  abook \
+	  urlview \
 	  
 	  ```
 	- logseq.order-list-type:: number
