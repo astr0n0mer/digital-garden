@@ -16,6 +16,12 @@ tags:: [[Terminal/Email Client]]
 	- logseq.order-list-type:: number
 	  ```shell
 	  brew install \
+	  neomutt \
+	  curl \
+	  isync \
+	  msmtp \
+	  pass \
+	  ca-certificates \
 	  
 	  ```
 	- logseq.order-list-type:: number
