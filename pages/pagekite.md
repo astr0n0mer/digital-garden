@@ -6,6 +6,7 @@ tags:: [[local-tunneling]] [[Self Host]]
 -
 - [Install](https://pagekite.net/downloads) on macOS
 	- ```shell
+	  cd ~/.local/bin
 	  curl -O https://pagekite.net/pk/pagekite.py
 	  
 	  python3 pagekite.py 8000 muncher.pagekite.me
