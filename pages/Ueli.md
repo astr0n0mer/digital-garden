@@ -7,6 +7,8 @@ tags:: [[Keystroke Launcher]]
 -
 - Install on macOS
 	- ```shell
+	  ```
+	- ```shell
 	  TEMP_DIR=$(mktemp -d)
 	  gh release download --repo oliverschwendener/ueli --pattern "*arm64*.dmg" --dir $TEMP_DIR
 	  #! This open command will open a GUI installer
