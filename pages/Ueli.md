@@ -7,6 +7,7 @@ tags:: [[Keystroke Launcher]]
 -
 - Install on macOS
 	- ```shell
+	  brew install --cask ueli
 	  ```
 	- ```shell
 	  TEMP_DIR=$(mktemp -d)
