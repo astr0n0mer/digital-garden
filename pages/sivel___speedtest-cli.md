@@ -10,11 +10,11 @@ tags:: [[Internet/Speedtest]]
   speedtest.py --help
   
   curl \
-  --silent \
-  --remote-name \
-  
-  --create-file-mode 0744 \
-  https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+  	--silent \
+  	--output-dir ~/.local/bin \
+  	--create-file-mode 0744 \
+  	--remote-name \
+  	https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
   ```
 - ```shell
   # usage in interactive shells
