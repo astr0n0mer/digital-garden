@@ -26,7 +26,10 @@
 -
 - ## Tools:
 	- [crontab guru](https://crontab.guru/): Cron schedule expressions editor by [Cronitor](https://cronitor.io/)
-	-
+	- Test cron entries
+		- ```shell
+		  env -i /bin/bash -c 'PATH=/usr/local/bin:/usr/bin:/bin __some_command_to_run__'
+		  ```
 -
 - ### References:
 	- [What is launchd?](https://launchd.info/)
