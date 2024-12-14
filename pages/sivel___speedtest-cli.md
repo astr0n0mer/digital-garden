@@ -9,5 +9,6 @@ tags:: [[Internet/Speedtest]]
   speedtest.py --help
   ```
 - ```shell
-  speedtest.py --csv >> my_log_file.csv
+  speedtest.py --csv-header > my_log_file.csv
+  speedtest.py --secure --csv >> my_log_file.csv
   ```
