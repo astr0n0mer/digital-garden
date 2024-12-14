@@ -4,16 +4,12 @@ tags:: [[Internet/Speedtest]]
   @@html: <a href="https://github.com/sivel/speedtest-cli/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=sivel&repo=speedtest-cli&theme=tokyonight" alt="sivel/speedtest-cli"/></a>@@
 - ```shell
   # setup
-  cd ~/.local/bin
-  curl --silent --remote-name https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
-  chmod u+x speedtest.py
-  speedtest.py --help
-  
   curl \
   	--output-dir ~/.local/bin \
   	--create-file-mode 0744 \
   	--remote-name \
   	https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+  speedtest.py --help
   ```
 - ```shell
   # usage in interactive shells
