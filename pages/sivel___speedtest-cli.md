@@ -5,7 +5,8 @@ tags:: [[Internet/Speedtest]]
 - ```shell
   cd ~/.local/bin
   curl --silent --remote-name https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
-  python speedtest.py --help
+  chmod u+x speedtest.py
+  speedtest.py --help
   ```
 - ```shell
   python speedtest.py 
