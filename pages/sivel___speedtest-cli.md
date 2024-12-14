@@ -10,7 +10,6 @@ tags:: [[Internet/Speedtest]]
   speedtest.py --help
   
   curl \
-  	--silent \
   	--output-dir ~/.local/bin \
   	--create-file-mode 0744 \
   	--remote-name \
