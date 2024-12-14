@@ -8,4 +8,5 @@ tags:: [[Internet/Speedtest]]
   python speedtest.py --help
   ```
 - ```shell
+  python speedtest.py 
   ```
