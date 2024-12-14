@@ -3,15 +3,14 @@
 - ```shell
   # for Linux
   man systemd
-
+  
   # for macOS
   man launchd
-
+  
   # crontab is deprecated in favor of systemd/launchd
   # crontab -l # list current user's cron jobs
   # crontab -e # edit current user's cron jobs
   ```
-
 -
 - ```shell
   # Cron syntax
@@ -26,8 +25,9 @@
   ```
 -
 - ## Tools:
-  - [crontab guru](https://crontab.guru/): Cron schedule expressions editor by [Cronitor](https://cronitor.io/)
+	- [crontab guru](https://crontab.guru/): Cron schedule expressions editor by [Cronitor](https://cronitor.io/)
+	-
 -
 - ### References:
-  - [What is launchd?](https://launchd.info/)
-  - [How To Add Jobs To cron Under Linux or UNIX](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/) #Linux #Unix
+	- [What is launchd?](https://launchd.info/)
+	- [How To Add Jobs To cron Under Linux or UNIX](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/) #Linux #Unix
