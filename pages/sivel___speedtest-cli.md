@@ -12,3 +12,7 @@ tags:: [[Internet/Speedtest]]
   speedtest.py --csv-header > ~/.local/state/speedtest/speedtests.csv
   speedtest.py --secure --csv >> ~/.local/state/speedtest/speedtests.csv
   ```
+- ```shell
+  # cron entry
+  */15 * * * * python3 ~/.local/bin/speedtest.py --secure --csv >> ~/.local/state/speedtest/speedtests.csv
+  ```
