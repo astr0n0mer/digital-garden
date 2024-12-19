@@ -15,3 +15,6 @@ tags:: [[Keystroke Launcher]]
 	  #! This open command will open a GUI installer
 	  open $TEMP_DIR/*Ueli*.dmg && rm -r $TEMP_DIR
 	  ```
+-
+- Review
+	- Slower than Raycast, written in TypeScript
