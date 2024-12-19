@@ -1,4 +1,4 @@
-tags:: [[Keystroke Launcher]]
+tags:: [[Keystroke Launcher]] [[Linux/exclusive]]
 
 - [dmenu](https://tools.suckless.org/dmenu/) is a dynamic menu for X.
 -
