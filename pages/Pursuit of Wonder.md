@@ -1,3 +1,3 @@
-- ![Pursuit of Wonder](https://yt3.googleusercontent.com/LaJU3h6DGGjJ4VNxgekHfzU3RmocM1pUg7Xzge6apZskPIhjz5FbrpTx6EjHEhmnddPlFpYIwQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+- ![Pursuit of Wonder on YouTube](https://yt3.googleusercontent.com/udgwnyRQw0gzu7d4QB2r-fl2XDMTBulJ79CjSlsuDC4_pGvTtZ-nDjH2qgphqB5eP_KjCeOyn7w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
   #[[YouTube/Channel]] #Philosophy 
   [YouTube](https://www.youtube.com/@PursuitofWonder)
