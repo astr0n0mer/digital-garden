@@ -1,4 +1,4 @@
-tags:: [[text-editor]] [[Code/Editor]]
+tags:: [[Code/Editor]]
 
 - [Atom](https://atom-editor.cc/) is a hackable text editor for the 21st century, built on [[electron/electron]], and based on everything we love about our favorite editors.
 - [atom/atom](https://github.com/atom/atom)
