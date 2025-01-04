@@ -1,3 +1,3 @@
-tags:: [[Android/App]]
+tags:: [[Android/App Launcher]]
 
 - [Before Launcher](https://beforelabs.com/)
