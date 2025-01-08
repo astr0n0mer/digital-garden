@@ -25,10 +25,8 @@ tags:: [[macOS/exclusive]] [[Backup]] [[Restore]]
 -
 - Usage
 	- ```shell
-	  # Backup
 	  macprefs backup
 	  
-	  # Restore
 	  macprefs restore
 	  ```
 -
