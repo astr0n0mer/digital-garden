@@ -1,4 +1,3 @@
 tags:: [[Configuration/Language]]
 
--
-- [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
+- [Terraform](https://www.terraform.io/) Tutorials](https://developer.hashicorp.com/terraform/tutorials)
