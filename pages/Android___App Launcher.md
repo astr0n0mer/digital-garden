@@ -1,0 +1,1 @@
+- [Third party system launchers return to home screen delay (Gesture Navigation only)](https://xdaforums.com/t/third-party-system-launchers-return-to-home-screen-delay-gesture-navigation-only.4655464/)
