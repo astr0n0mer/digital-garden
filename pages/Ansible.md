@@ -1,4 +1,4 @@
-tags:: [[dotfiles/Manager]]
+tags:: [[Configuration/Language]] [[dotfiles/Manager]]
 
 - [Ansible](https://docs.ansible.com/ansible/latest/) is a radically simple IT automation system. It handles configuration management, application deployment, cloud provisioning, ad-hoc task execution, network automation, and multi-node orchestration.
 - [ansible/ansible](https://github.com/ansible/ansible)
