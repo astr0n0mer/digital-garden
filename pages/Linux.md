@@ -1,0 +1,1 @@
+- [Linux by Mohido](https://www.youtube.com/playlist?list=PLyTPEjMx4omGA2iaqPhij8VHe_4c079rV)
