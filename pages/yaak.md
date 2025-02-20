@@ -1,0 +1,5 @@
+tags:: [[API/Client]] [[Terminal/API/Client]]
+
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+  @@html: <a href="https://github.com/mountain-loop/yaak/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=mountain-loop&repo=yaak&theme=tokyonight" alt="mountain-loop/yaak"/></a>@@
+- ![yaak demo](https://private-user-images.githubusercontent.com/587576/366149288-f18e963f-0b68-4ecb-b8b8-cb71aa9aec02.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAwNDcyOTksIm5iZiI6MTc0MDA0Njk5OSwicGF0aCI6Ii81ODc1NzYvMzY2MTQ5Mjg4LWYxOGU5NjNmLTBiNjgtNGVjYi1iOGI4LWNiNzFhYTlhZWMwMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMFQxMDIzMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmQ1ZTg3NWEyNmZjMDg2YjBmYzc5YzkwZDY0ODEzNjQzZjM5ODc4OGNkYWFiYzJmZjY3NWM0ODliZjUyM2E2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.znKFDNwhDte7d5S-bW8dJzj-KLx58Upoq-z1aKBSCVM)
