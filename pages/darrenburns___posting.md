@@ -5,3 +5,4 @@ tags:: [[API/Client]]
 - ```shell
   uv pip install posting
   ```
+- @@html: <img src="https://github.com/darrenburns/posting/raw/main/docs/assets/home-image-ad-15aug24.svg" />@@
