@@ -1,4 +1,4 @@
-tags:: [[API/Client]] [[Terminal/API/Client]]
+tags:: [[API/Client]]
 
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
   @@html: <a href="https://github.com/mountain-loop/yaak/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=mountain-loop&repo=yaak&theme=tokyonight" alt="mountain-loop/yaak"/></a>@@
