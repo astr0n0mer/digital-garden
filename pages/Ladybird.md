@@ -1,4 +1,4 @@
-tags:: [[Browser]]
+tags:: [[Browser/Client]]
 
 - [Ladybird](https://ladybird.org/): Truly independent web browser
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)

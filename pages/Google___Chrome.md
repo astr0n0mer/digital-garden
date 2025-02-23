@@ -1,1 +1,1 @@
-tags:: [[Browser]]
+tags:: [[Browser/Client]]
