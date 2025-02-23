@@ -1,4 +1,4 @@
-tags:: [[Self Host]] [[productivity-tool]] [[Homepage]]
+tags:: [[Self Host]] [[Productivity/Tool]] [[Homepage]]
 
 - [Dashy](https://dashy.to/) is an open-source, highly customizable, easy-to-use, and privacy-respecting dashboard app that offers features such as theming, icons, status indicators, authentication, and search and shortcuts, with a simple and intuitive configuration process and easy deployment options.
 - [IDashy](https://idashy.vercel.app/) | [astr0n0mer/dashy](https://github.com/astr0n0mer/dashy) | [Lissy93/dashy](https://github.com/Lissy93/dashy)
