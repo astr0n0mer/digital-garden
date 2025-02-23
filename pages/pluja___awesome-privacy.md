@@ -1,4 +1,4 @@
-tags:: [[privacy]]
+tags:: [[Privacy/Guide]]
 
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) #[[Awesome/Privacy]]

@@ -1,4 +1,4 @@
-tags:: [[privacy]] [[Chat/Client]]
+tags:: [[Privacy/Focused]] [[Chat/Client]]
 
 - [Signal](https://signal.org/): A private messenger for Windows, macOS, and Linux.
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server)
