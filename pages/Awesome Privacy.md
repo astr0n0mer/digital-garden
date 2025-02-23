@@ -1,4 +1,4 @@
-tags:: [[privacy]]
+tags:: [[Privacy/Guide]]
 
 - [Awesome Privacy](https://awesome-privacy.xyz/): Your guide to finding and comparing privacy-respecting alternatives to popular software and services.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) #[[Awesome/Privacy]]
