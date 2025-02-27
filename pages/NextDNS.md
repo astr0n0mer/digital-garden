@@ -1,4 +1,6 @@
 tags:: [[DNS/Server]]
 
 - [NextDNS](https://nextdns.io/)
-- @@html: <img src="https://nextdns.io/_next/static/media/companies.d3c9e061faa18cbdbd9d49975cef083c.png" class="browser-tab" />@@
+- [nextdns/nextdns](https://github.com/nextdns/nextdns)
+  @@html: <a href="https://github.com/nextdns/nextdns/"><img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=nextdns&repo=nextdns&theme=tokyonight" alt="nextdns/nextdns"/></a>@@
+- @@html: <img src="https://nextdns.io/_next/static/media/companies.d3c9e061faa18cbdbd9d49975cef083c.png" class="vertical-image" />@@
