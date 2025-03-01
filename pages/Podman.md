@@ -1,4 +1,4 @@
-tags:: [[Docker/Alternative]]
+tags:: [[Docker/Hub/Alternative]]
 
 - [Podman](https://podman.io/): A tool for managing OCI containers and pods.
 - [containers/podman](https://github.com/containers/podman)

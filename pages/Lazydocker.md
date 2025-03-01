@@ -1,4 +1,4 @@
-tags:: [[Docker/TUI]]
+tags:: [[Docker/Hub/TUI]]
 
 - A simple terminal UI for both docker and docker-compose, written in Go with the [gocui](https://github.com/jroimartin/gocui) library.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
