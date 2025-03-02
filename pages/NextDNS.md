@@ -6,7 +6,7 @@ tags:: [[DNS/Resolver]]
 - Install on macOS
 	- ```shell
 	  brew install nextdns
-	  sudo nextdns install -profile "PROFILE_ID" -auto-activate
+	  sudo nextdns install -profile "PROFILE_ID" -auto-activate -report-client-info
 	  sudo nextdns status
 	  ```
 - @@html: <img src="https://nextdns.io/_next/static/media/companies.d3c9e061faa18cbdbd9d49975cef083c.png" class="vertical-image" />@@
