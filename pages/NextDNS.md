@@ -6,10 +6,7 @@ tags:: [[DNS/Server]]
 - Install on macOS
 	- ```shell
 	  brew install nextdns
-	  sudo nextdns status
-	  
-	  sudo nextdns install --config "YOUR_NEXTDNS_PROFILE_ID"
-	  sudo nextdns activate
+	  sudo nextdns install -profile "PROFILE_ID" -auto-activate
 	  sudo nextdns status
 	  ```
 - @@html: <img src="https://nextdns.io/_next/static/media/companies.d3c9e061faa18cbdbd9d49975cef083c.png" class="vertical-image" />@@
