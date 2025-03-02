@@ -1,4 +1,4 @@
-tags:: [[DNS/Server]]
+tags:: [[DNS/Resolver]]
 
 - [NextDNS](https://nextdns.io/)
 - [nextdns/nextdns](https://github.com/nextdns/nextdns)

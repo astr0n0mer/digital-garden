@@ -1,1 +1,1 @@
-tags:: [[DNS/Server]] [[Proprietary]]
+tags:: [[DNS/Resolver]] [[Proprietary]]
