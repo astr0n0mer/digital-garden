@@ -1,4 +1,4 @@
-tags:: [[Social/Media]] [[Browser/Extension]]
+tags:: [[Social/Media]] [[Web/Browser/Extension]]
 
 - [LibRedirect](https://libredirect.github.io/): A web extension that redirects YouTube, Instagram, Reddit, TikTok and other websites to alternative privacy-friendly frontends.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension)

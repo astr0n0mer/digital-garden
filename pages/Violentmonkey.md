@@ -1,4 +1,4 @@
-tags:: [[Browser/Extension]] [[Userscript]]
+tags:: [[Web/Browser/Extension]] [[Userscript]]
 
 - [Violentmonkey](https://violentmonkey.github.io/) provides userscripts support for browsers.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)

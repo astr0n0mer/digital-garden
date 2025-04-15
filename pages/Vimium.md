@@ -1,4 +1,4 @@
-tags:: [[Productivity/Tool]] [[Browser/Extension]]
+tags:: [[Productivity/Tool]] [[Web/Browser/Extension]]
 
 - [Vimium](https://vimium.github.io/) is a browser extension which provides keyboard shortcuts for navigation and control in the spirit of the Vim editor.
 - [philc/vimium](https://github.com/philc/vimium) | [Tips and Tricks](https://github.com/philc/vimium/wiki/Tips-and-Tricks)

@@ -1,4 +1,4 @@
-tags:: [[Browser/Extension]] [[Userscript]]
+tags:: [[Web/Browser/Extension]] [[Userscript]]
 
 - Tampermonkey is the most popular userscript manager
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)

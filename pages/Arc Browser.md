@@ -1,1 +1,1 @@
-tags:: [[Proprietary]] [[Browser/Client]]
+tags:: [[Proprietary]] [[Web/Browser]]
