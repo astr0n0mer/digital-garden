@@ -1,0 +1,7 @@
+- Prayer washes minor sins
+	- حَدَّثَنَا أَحْمَدُ بْنُ عَلِيِّ بْنِ الْحُسَيْنِ أَبُو الصَّقْرِ الضَّرِيرُ التَّمِيمِيُّ الْبَغْدَادِيُّ الْمُؤَدِّبُ ، حَدَّثَنَا عَلِيُّ بْنُ عُثْمَانَ اللاحِقِيُّ ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، عَنْ عَاصِمِ ابْنِ بَهْدَلَةَ ، عَنْ زِرِّ بْنِ حُبَيْشٍ ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، قَالَ:"تَحْتَرِقُونَ تَحْتَرِقُونَ، فَإِذَا صَلَّيْتُمُ الْفَجْرَ غَسَلَتْهَا، ثُمَّ تَحْتَرِقُونَ تَحْتَرِقُونَ، فَإِذَا صَلَّيْتُمُ الظُّهْرَ غَسَلَتْهَا، ثُمَّ تَحْتَرِقُونَ تَحْتَرِقُونَ، فَإِذَا صَلَّيْتُمُ الْعَصْرَ غَسَلَتْهَا، ثُمَّ تَحْتَرِقُونَ تَحْتَرِقُونَ، فَإِذَا صَلَّيْتُمُ الْمَغْرِبَ غَسَلَتْهَا، ثُمَّ تَحْتَرِقُونَ تَحْتَرِقُونَ، فَإِذَا صَلَّيْتُمُ الْعِشَاءَ غَسَلَتْهَا، ثُمَّ تَنَامُونَ فَلا يُكْتَبُ عَلَيْكُمْ حَتَّى تَسْتَيْقِظُوا"، لَمْ يَرْوِهِ عَنْ حَمَّادِ بْنِ سَلَمَةَ، مَرْفُوعًا إِلا اللاحِقِيُّ
+	  
+	  Narrated Abdullah bin Masud: The Messenger of Allah (ﷺ) said: "When you pray Fajr, it will wash away (the sins) committed between it and the previous Fajr, then if you commit sins, Zuhr will wash them away, then if you commit sins, Asr will wash them away, then if you commit sins, Maghrib will wash them away, then if you commit sins, Isha will wash them away, then you sleep and no sin is written for you until you wake up."
+	  
+	  Al-Mu'jam al-Saghir 193
+	  https://hadithweb.com/saghir:193
